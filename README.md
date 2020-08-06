@@ -42,6 +42,8 @@ I'm a professional software developer since 2016, but I've made my first own ret
 <br />
 <br />
 
+<!--START_SECTION:activity-->
+
 ### - Some of my Projects : 
 <a href="https://github.com/nocturlab/vi-v">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=nocturlab&show_icons=true&theme=tokyonight&repo=vi-v" /
@@ -83,4 +85,3 @@ I'm a professional software developer since 2016, but I've made my first own ret
 <a href="https://github.com/nextcloud/server">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=nextcloud&show_icons=true&theme=tokyonight&repo=server" />
 </a>
-
