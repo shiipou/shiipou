@@ -4,7 +4,7 @@
 
 ### - *`/bin/sh -c whoami`*
 
-I'm **[Shiishii](https://github.com/shiipou/shiipou)**. I'm a 25 year old developer who always work on too big projects, but I want them to succeed !
+I'm **[Shiishii](https://github.com/shiipou/shiipou)**. I'm a 25 year old `ninja` who always work on too big projects, but I want them to succeed !
 
 I'm a professional software developer since 2016, but I've made my first own retro game in 2009. that my real first development project.
 
