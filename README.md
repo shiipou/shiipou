@@ -46,7 +46,7 @@ My mains projects in V but sometimes I do Dart (Flutter), TypeScript (Deno and N
 
 ### - 🚀🔥 Recent Activity!
 <!--START_SECTION:activity-->
-- Nothing...
+
 
 ### - Some of my Projects : 
 <a href="https://github.com/nocturlab/vi-v">
