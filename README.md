@@ -51,6 +51,7 @@ I'm a professional software developer since 2016, but I've made my first own ret
 <br />
 <br />
 <br />
+<br />
 
 ### - Someone else cool Projects : 
 <a href="https://github.com/vlang/gitly">
@@ -60,6 +61,7 @@ I'm a professional software developer since 2016, but I've made my first own ret
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=vlang&show_icons=true&theme=tokyonight&repo=v" />
 </a>
 
+<br />
 <br />
 <br />
 <br />
