@@ -1,6 +1,6 @@
 # - Hi there 👋
 
-## - Myself
+## - About Myself
 
 ### - *`/bin/sh -c whoami`*
 
