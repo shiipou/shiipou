@@ -71,7 +71,6 @@ I'm a professional software developer since 2016, but I've made my first own ret
 <br />
 <br />
 <br />
-<br />
 
 <a href="https://github.com/Chocobozzz/PeerTube">
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Chocobozzz&show_icons=true&theme=tokyonight&repo=PeerTube" />
