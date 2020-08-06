@@ -44,6 +44,7 @@ I'm a professional software developer since 2016, but I've made my first own ret
 
 ### 🚀🔥 Recent Activity!
 <!--START_SECTION:activity-->
+- Nothing...
 
 ### - Some of my Projects : 
 <a href="https://github.com/nocturlab/vi-v">
