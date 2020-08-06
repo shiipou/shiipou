@@ -60,12 +60,13 @@ I'm a professional software developer since 2016, but I've made my first own ret
 <br />
 
 ### - Someone else cool Projects : 
-<a href="https://github.com/vlang/gitly">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=vlang&show_icons=true&theme=tokyonight&repo=gitly" />
-</a>
 <a href="https://github.com/vlang/v">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=vlang&show_icons=true&theme=tokyonight&repo=v" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=vlang&show_icons=true&theme=tokyonight&repo=v" />
 </a>
+<a href="https://github.com/vlang/gitly">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=vlang&show_icons=true&theme=tokyonight&repo=gitly" />
+</a>
+
 
 <br />
 <br />
