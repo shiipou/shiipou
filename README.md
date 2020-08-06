@@ -46,6 +46,12 @@ My mains projects in V but sometimes I do Dart (Flutter), TypeScript (Deno and N
 
 ### - 🚀🔥 Recent Activity!
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com//shiipou/shiipou/pull/1) in [shiipou/shiipou](https://github.com//shiipou/shiipou)
+2. 💪 Opened PR [#1](https://github.com//shiipou/shiipou/pull/1) in [shiipou/shiipou](https://github.com//shiipou/shiipou)
+3. 🗣 Commented on [#322](https://github.com//apache/openwhisk-devtools/issues/322) in [apache/openwhisk-devtools](https://github.com//apache/openwhisk-devtools)
+4. ❗️ Closed issue [#1196](https://github.com//nextcloud/docker/issues/1196) in [nextcloud/docker](https://github.com//nextcloud/docker)
+5. 🗣 Commented on [#1196](https://github.com//nextcloud/docker/issues/1196) in [nextcloud/docker](https://github.com//nextcloud/docker)
+<!--END_SECTION:activity-->
 
 
 ### - Some of my Projects : 
