@@ -42,6 +42,7 @@ I'm a professional software developer since 2016, but I've made my first own ret
 <br />
 <br />
 
+### 🚀🔥 Recent Activity!
 <!--START_SECTION:activity-->
 
 ### - Some of my Projects : 
