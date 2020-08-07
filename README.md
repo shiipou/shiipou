@@ -6,7 +6,7 @@
 
 I'm **[Shiishii](https://github.com/shiipou/shiipou)**. I'm a 25 year old `Ninja` who always work on too big projects, but I want them to succeed !
 
-I'm a professional software developer since 2016, but I've made my first own retro game in 2009. that my real first development project.
+I'm a professional software developer since 2018, but I've made my first own retro game in 2009. that my real first development project.
 
 I'm a VR enthusiast, I think it can really change the gaming if company and user take the risk to go on it. 
 
