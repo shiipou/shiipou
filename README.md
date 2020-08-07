@@ -46,6 +46,11 @@ My mains projects in V but sometimes I do Dart (Flutter), TypeScript (Deno and N
 <br />
 <br />
 
+### - People I sponsor :
+<a href="https://github.com/medvednikov">
+  <img alt="Medvednikov's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=medvednikov&show_icons=true&theme=tokyonight" />
+</a>
+
 ### - 🚀🔥 Recent Activity!
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#1](https://github.com//shiipou/shiipou/pull/1) in [shiipou/shiipou](https://github.com//shiipou/shiipou)
