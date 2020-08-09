@@ -53,11 +53,11 @@ My mains projects in V but sometimes I do Dart (Flutter), TypeScript (Deno and N
 
 ### - 🚀🔥 Recent Activity!
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#169](https://github.com//v-community/v_by_example/issues/169) in [v-community/v_by_example](https://github.com//v-community/v_by_example)
-2. 🎉 Merged PR [#1](https://github.com//shiipou/shiipou/pull/1) in [shiipou/shiipou](https://github.com//shiipou/shiipou)
-3. 💪 Opened PR [#1](https://github.com//shiipou/shiipou/pull/1) in [shiipou/shiipou](https://github.com//shiipou/shiipou)
-4. 🗣 Commented on [#322](https://github.com//apache/openwhisk-devtools/issues/322) in [apache/openwhisk-devtools](https://github.com//apache/openwhisk-devtools)
-5. ❗️ Closed issue [#1196](https://github.com//nextcloud/docker/issues/1196) in [nextcloud/docker](https://github.com//nextcloud/docker)
+1. ❗️ Opened issue [#96](https://github.com//vlang/gitly/issues/96) in [vlang/gitly](https://github.com//vlang/gitly)
+2. 🗣 Commented on [#169](https://github.com//v-community/v_by_example/issues/169) in [v-community/v_by_example](https://github.com//v-community/v_by_example)
+3. 🎉 Merged PR [#1](https://github.com//shiipou/shiipou/pull/1) in [shiipou/shiipou](https://github.com//shiipou/shiipou)
+4. 💪 Opened PR [#1](https://github.com//shiipou/shiipou/pull/1) in [shiipou/shiipou](https://github.com//shiipou/shiipou)
+5. 🗣 Commented on [#322](https://github.com//apache/openwhisk-devtools/issues/322) in [apache/openwhisk-devtools](https://github.com//apache/openwhisk-devtools)
 <!--END_SECTION:activity-->
 
 
