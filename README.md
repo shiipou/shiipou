@@ -56,11 +56,11 @@ I also provide for free a [GitLab Instance](https://git.nocturlab.fr) with free 
 
 ### - 🚀🔥 Recent Activity!
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#96](https://github.com//vlang/gitly/issues/96) in [vlang/gitly](https://github.com//vlang/gitly)
-2. 🗣 Commented on [#169](https://github.com//v-community/v_by_example/issues/169) in [v-community/v_by_example](https://github.com//v-community/v_by_example)
-3. 🎉 Merged PR [#1](https://github.com//shiipou/shiipou/pull/1) in [shiipou/shiipou](https://github.com//shiipou/shiipou)
-4. 💪 Opened PR [#1](https://github.com//shiipou/shiipou/pull/1) in [shiipou/shiipou](https://github.com//shiipou/shiipou)
-5. 🗣 Commented on [#322](https://github.com//apache/openwhisk-devtools/issues/322) in [apache/openwhisk-devtools](https://github.com//apache/openwhisk-devtools)
+1. 🗣 Commented on [#27](https://github.com//nocturlab/setup-vlang-action/issues/27) in [nocturlab/setup-vlang-action](https://github.com//nocturlab/setup-vlang-action)
+2. 🎉 Merged PR [#27](https://github.com//nocturlab/setup-vlang-action/pull/27) in [nocturlab/setup-vlang-action](https://github.com//nocturlab/setup-vlang-action)
+3. ❗️ Opened issue [#96](https://github.com//vlang/gitly/issues/96) in [vlang/gitly](https://github.com//vlang/gitly)
+4. 🗣 Commented on [#169](https://github.com//v-community/v_by_example/issues/169) in [v-community/v_by_example](https://github.com//v-community/v_by_example)
+5. 🎉 Merged PR [#1](https://github.com//shiipou/shiipou/pull/1) in [shiipou/shiipou](https://github.com//shiipou/shiipou)
 <!--END_SECTION:activity-->
 
 
