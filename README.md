@@ -12,7 +12,7 @@ I'm a VR enthusiast, I think it can really change the gaming if company and user
 
 My main competances was in Sys-Admin and bakcend development. But I do website in flutter and Android/iOS application too.
 
-My mains projects in V but sometimes I do Dart (Flutter), TypeScript (Deno and Node), Java (Springboot or not), bash, or C/C++.
+My mains project are in V but sometimes I do Dart (and Flutter), Go, TypeScript (Deno and Node), Java (Springboot or not), C#, bash, and C/C++.
 
 I provide for free the Nocturlab Federated Instances ([PeerTube](https://tube.nocturlab.fr), [NextCloud](https://cloud.nocturlab.fr), [Mastodon](https://cloud.nocturlab.fr), ...)
 
@@ -20,9 +20,8 @@ I also provide for free a [GitLab Instance](https://git.nocturlab.fr) with free 
 
 ### - Here are some quick news about me:
 
-- 🔭 I’m currently working on [Vi-v](https://github.com/nocturlab/vi-v)
-- 🌱 I’m currently learning [Flutter](https://flutter.dev/) <!-- - 👯 I’m looking to collaborate on ... -->
-- 🤔 I’m looking for help with making multi-plateforme UI using a simple C library and Canvas
+- 🔭 I’m currently working on [Vi-v](https://github.com/nocturlab/vi-v) <!--- 🌱 I’m currently learning [Flutter](https://flutter.dev/) -->
+- 👯 I’m looking to collaborate on multi-plateform UI library using canvas.
 - 💬 Ask me about anything
 - 📫 How to reach me: [Twitter (@nocturlab)](https://twitter.com/nocturlab) [Mastodon (@shiishii@cloud.nocturlab.fr)](https://cloud.nocturlab.fr/apps/social/@shiishii@cloud.nocturlab.fr/) [Nextcloud Talk (@shiishii)](https://cloud.nocturlab.fr/call/cxzp5j46)
 - 😄 Pronouns: He/Him
