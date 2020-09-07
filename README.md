@@ -55,11 +55,11 @@ I also provide for free a [GitLab Instance](https://git.nocturlab.fr) with free 
 
 ### - 🚀🔥 Recent Activity!
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2](https://github.com//docker-clyde/clyde-server/issues/2) in [docker-clyde/clyde-server](https://github.com//docker-clyde/clyde-server)
-2. ❗️ Opened issue [#1](https://github.com//docker-clyde/clyde-server/issues/1) in [docker-clyde/clyde-server](https://github.com//docker-clyde/clyde-server)
-3. ❗️ Opened issue [#530](https://github.com//msgpack/msgpack-java/issues/530) in [msgpack/msgpack-java](https://github.com//msgpack/msgpack-java)
-4. 🎉 Merged PR [#40](https://github.com//nocturlab/setup-vlang-action/pull/40) in [nocturlab/setup-vlang-action](https://github.com//nocturlab/setup-vlang-action)
-5. 🎉 Merged PR [#38](https://github.com//nocturlab/setup-vlang-action/pull/38) in [nocturlab/setup-vlang-action](https://github.com//nocturlab/setup-vlang-action)
+1. 🎉 Merged PR [#3](https://github.com//docker-clyde/clyde-server/pull/3) in [docker-clyde/clyde-server](https://github.com//docker-clyde/clyde-server)
+2. 💪 Opened PR [#3](https://github.com//docker-clyde/clyde-server/pull/3) in [docker-clyde/clyde-server](https://github.com//docker-clyde/clyde-server)
+3. ❗️ Opened issue [#2](https://github.com//docker-clyde/clyde-server/issues/2) in [docker-clyde/clyde-server](https://github.com//docker-clyde/clyde-server)
+4. ❗️ Opened issue [#1](https://github.com//docker-clyde/clyde-server/issues/1) in [docker-clyde/clyde-server](https://github.com//docker-clyde/clyde-server)
+5. ❗️ Opened issue [#530](https://github.com//msgpack/msgpack-java/issues/530) in [msgpack/msgpack-java](https://github.com//msgpack/msgpack-java)
 <!--END_SECTION:activity-->
 
 
