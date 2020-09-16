@@ -67,8 +67,8 @@ I also provide for free a [GitLab Instance](https://git.nocturlab.fr) with free 
 <a href="https://github.com/nocturlab/vi-v">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=nocturlab&show_icons=true&theme=tokyonight&repo=vi-v" /
 </a>
-<a href="https://github.com/nocturlab/nocturlab-hosting-client ">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=nocturlab&show_icons=true&theme=tokyonight&repo=nocturlab-hosting-client" />
+<a href="https://github.com/docker-clyde/clyde-server ">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=docker-clyde&show_icons=true&theme=tokyonight&repo=clyde-server" />
 </a>
 
 <br />
