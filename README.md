@@ -55,11 +55,11 @@ I also provide for free a [GitLab Instance](https://git.nocturlab.fr) with free 
 
 ### - 🚀🔥 Recent Activity!
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#45](https://github.com//nocturlab/setup-vlang-action/pull/45) in [nocturlab/setup-vlang-action](https://github.com//nocturlab/setup-vlang-action)
-2. 🗣 Commented on [#39](https://github.com//nocturlab/setup-vlang-action/issues/39) in [nocturlab/setup-vlang-action](https://github.com//nocturlab/setup-vlang-action)
-3. 🎉 Merged PR [#44](https://github.com//nocturlab/setup-vlang-action/pull/44) in [nocturlab/setup-vlang-action](https://github.com//nocturlab/setup-vlang-action)
+1. 🎉 Merged PR [#46](https://github.com//nocturlab/setup-vlang-action/pull/46) in [nocturlab/setup-vlang-action](https://github.com//nocturlab/setup-vlang-action)
+2. ❗️ Opened issue [#65920](https://github.com//flutter/flutter/issues/65920) in [flutter/flutter](https://github.com//flutter/flutter)
+3. 🎉 Merged PR [#45](https://github.com//nocturlab/setup-vlang-action/pull/45) in [nocturlab/setup-vlang-action](https://github.com//nocturlab/setup-vlang-action)
 4. 🗣 Commented on [#39](https://github.com//nocturlab/setup-vlang-action/issues/39) in [nocturlab/setup-vlang-action](https://github.com//nocturlab/setup-vlang-action)
-5. 🎉 Merged PR [#3](https://github.com//docker-clyde/clyde-server/pull/3) in [docker-clyde/clyde-server](https://github.com//docker-clyde/clyde-server)
+5. 🎉 Merged PR [#44](https://github.com//nocturlab/setup-vlang-action/pull/44) in [nocturlab/setup-vlang-action](https://github.com//nocturlab/setup-vlang-action)
 <!--END_SECTION:activity-->
 
 
