@@ -55,11 +55,11 @@ I also provide for free a [GitLab Instance](https://git.nocturlab.fr) with free 
 
 ### - 🚀🔥 Recent Activity!
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#91](https://github.com//ardera/flutter-pi/issues/91) in [ardera/flutter-pi](https://github.com//ardera/flutter-pi)
-2. ❗️ Closed issue [#91](https://github.com//ardera/flutter-pi/issues/91) in [ardera/flutter-pi](https://github.com//ardera/flutter-pi)
-3. 🗣 Commented on [#91](https://github.com//ardera/flutter-pi/issues/91) in [ardera/flutter-pi](https://github.com//ardera/flutter-pi)
-4. ❗️ Opened issue [#91](https://github.com//ardera/flutter-pi/issues/91) in [ardera/flutter-pi](https://github.com//ardera/flutter-pi)
-5. 🗣 Commented on [#39](https://github.com//nocturlab/setup-vlang-action/issues/39) in [nocturlab/setup-vlang-action](https://github.com//nocturlab/setup-vlang-action)
+1. 🎉 Merged PR [#47](https://github.com//nocturlab/setup-vlang-action/pull/47) in [nocturlab/setup-vlang-action](https://github.com//nocturlab/setup-vlang-action)
+2. 🗣 Commented on [#91](https://github.com//ardera/flutter-pi/issues/91) in [ardera/flutter-pi](https://github.com//ardera/flutter-pi)
+3. ❗️ Closed issue [#91](https://github.com//ardera/flutter-pi/issues/91) in [ardera/flutter-pi](https://github.com//ardera/flutter-pi)
+4. 🗣 Commented on [#91](https://github.com//ardera/flutter-pi/issues/91) in [ardera/flutter-pi](https://github.com//ardera/flutter-pi)
+5. ❗️ Opened issue [#91](https://github.com//ardera/flutter-pi/issues/91) in [ardera/flutter-pi](https://github.com//ardera/flutter-pi)
 <!--END_SECTION:activity-->
 
 
