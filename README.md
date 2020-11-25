@@ -55,11 +55,11 @@ I also provide for free a [GitLab Instance](https://git.nocturlab.fr) with free 
 
 ### - 🚀🔥 Recent Activity!
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com//codifyglobal/peertube-plugin-auth-oauth2/issues/1) in [codifyglobal/peertube-plugin-auth-oauth2](https://github.com//codifyglobal/peertube-plugin-auth-oauth2)
-2. ❗️ Closed issue [#2](https://github.com//alteroo/headwind-mdm-docker/issues/2) in [alteroo/headwind-mdm-docker](https://github.com//alteroo/headwind-mdm-docker)
-3. 🗣 Commented on [#2](https://github.com//alteroo/headwind-mdm-docker/issues/2) in [alteroo/headwind-mdm-docker](https://github.com//alteroo/headwind-mdm-docker)
-4. ❗️ Opened issue [#2](https://github.com//alteroo/headwind-mdm-docker/issues/2) in [alteroo/headwind-mdm-docker](https://github.com//alteroo/headwind-mdm-docker)
-5. ❗️ Opened issue [#3](https://github.com//hypacosmos/hypa-android/issues/3) in [hypacosmos/hypa-android](https://github.com//hypacosmos/hypa-android)
+1. ❗️ Closed issue [#7](https://github.com//hypacosmos/hypa-android/issues/7) in [hypacosmos/hypa-android](https://github.com//hypacosmos/hypa-android)
+2. 🗣 Commented on [#7](https://github.com//hypacosmos/hypa-android/issues/7) in [hypacosmos/hypa-android](https://github.com//hypacosmos/hypa-android)
+3. ❗️ Opened issue [#1](https://github.com//codifyglobal/peertube-plugin-auth-oauth2/issues/1) in [codifyglobal/peertube-plugin-auth-oauth2](https://github.com//codifyglobal/peertube-plugin-auth-oauth2)
+4. ❗️ Closed issue [#2](https://github.com//alteroo/headwind-mdm-docker/issues/2) in [alteroo/headwind-mdm-docker](https://github.com//alteroo/headwind-mdm-docker)
+5. 🗣 Commented on [#2](https://github.com//alteroo/headwind-mdm-docker/issues/2) in [alteroo/headwind-mdm-docker](https://github.com//alteroo/headwind-mdm-docker)
 <!--END_SECTION:activity-->
 
 
