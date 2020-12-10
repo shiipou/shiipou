@@ -55,11 +55,11 @@ I also provide for free a [GitLab Instance](https://git.nocturlab.fr) with free 
 
 ### - 🚀🔥 Recent Activity!
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#12](https://github.com//hypacosmos/hypa-android/issues/12) in [hypacosmos/hypa-android](https://github.com//hypacosmos/hypa-android)
-2. 🗣 Commented on [#72](https://github.com//nocturlab/setup-vlang-action/issues/72) in [nocturlab/setup-vlang-action](https://github.com//nocturlab/setup-vlang-action)
-3. ❗️ Opened issue [#72](https://github.com//nocturlab/setup-vlang-action/issues/72) in [nocturlab/setup-vlang-action](https://github.com//nocturlab/setup-vlang-action)
-4. ❗️ Closed issue [#16](https://github.com//nocturlab/setup-vlang-action/issues/16) in [nocturlab/setup-vlang-action](https://github.com//nocturlab/setup-vlang-action)
-5. 🎉 Merged PR [#71](https://github.com//nocturlab/setup-vlang-action/pull/71) in [nocturlab/setup-vlang-action](https://github.com//nocturlab/setup-vlang-action)
+1. 🗣 Commented on [#17](https://github.com//hypacosmos/hypa-android/issues/17) in [hypacosmos/hypa-android](https://github.com//hypacosmos/hypa-android)
+2. ❗️ Opened issue [#12](https://github.com//hypacosmos/hypa-android/issues/12) in [hypacosmos/hypa-android](https://github.com//hypacosmos/hypa-android)
+3. 🗣 Commented on [#72](https://github.com//nocturlab/setup-vlang-action/issues/72) in [nocturlab/setup-vlang-action](https://github.com//nocturlab/setup-vlang-action)
+4. ❗️ Opened issue [#72](https://github.com//nocturlab/setup-vlang-action/issues/72) in [nocturlab/setup-vlang-action](https://github.com//nocturlab/setup-vlang-action)
+5. ❗️ Closed issue [#16](https://github.com//nocturlab/setup-vlang-action/issues/16) in [nocturlab/setup-vlang-action](https://github.com//nocturlab/setup-vlang-action)
 <!--END_SECTION:activity-->
 
 
