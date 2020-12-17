@@ -55,11 +55,11 @@ I also provide for free a [GitLab Instance](https://git.nocturlab.fr) with free 
 
 ### - 🚀🔥 Recent Activity!
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2](https://github.com//nmchan/waidayo/issues/2) in [nmchan/waidayo](https://github.com//nmchan/waidayo)
-2. 🎉 Merged PR [#73](https://github.com//nocturlab/setup-vlang-action/pull/73) in [nocturlab/setup-vlang-action](https://github.com//nocturlab/setup-vlang-action)
-3. 🎉 Merged PR [#74](https://github.com//nocturlab/setup-vlang-action/pull/74) in [nocturlab/setup-vlang-action](https://github.com//nocturlab/setup-vlang-action)
-4. 💪 Opened PR [#74](https://github.com//nocturlab/setup-vlang-action/pull/74) in [nocturlab/setup-vlang-action](https://github.com//nocturlab/setup-vlang-action)
-5. 🗣 Commented on [#72](https://github.com//nocturlab/setup-vlang-action/issues/72) in [nocturlab/setup-vlang-action](https://github.com//nocturlab/setup-vlang-action)
+1. 🗣 Commented on [#25](https://github.com//hypacosmos/hypa-android/issues/25) in [hypacosmos/hypa-android](https://github.com//hypacosmos/hypa-android)
+2. ❗️ Opened issue [#2](https://github.com//nmchan/waidayo/issues/2) in [nmchan/waidayo](https://github.com//nmchan/waidayo)
+3. 🎉 Merged PR [#73](https://github.com//nocturlab/setup-vlang-action/pull/73) in [nocturlab/setup-vlang-action](https://github.com//nocturlab/setup-vlang-action)
+4. 🎉 Merged PR [#74](https://github.com//nocturlab/setup-vlang-action/pull/74) in [nocturlab/setup-vlang-action](https://github.com//nocturlab/setup-vlang-action)
+5. 💪 Opened PR [#74](https://github.com//nocturlab/setup-vlang-action/pull/74) in [nocturlab/setup-vlang-action](https://github.com//nocturlab/setup-vlang-action)
 <!--END_SECTION:activity-->
 
 
