@@ -55,11 +55,11 @@ I also provide for free a [GitLab Instance](https://git.nocturlab.fr) with free 
 
 ### - 🚀🔥 Recent Activity!
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#79](https://github.com//nocturlab/setup-vlang-action/pull/79) in [nocturlab/setup-vlang-action](https://github.com//nocturlab/setup-vlang-action)
-2. ❗️ Closed issue [#72](https://github.com//nocturlab/setup-vlang-action/issues/72) in [nocturlab/setup-vlang-action](https://github.com//nocturlab/setup-vlang-action)
-3. 🗣 Commented on [#72](https://github.com//nocturlab/setup-vlang-action/issues/72) in [nocturlab/setup-vlang-action](https://github.com//nocturlab/setup-vlang-action)
-4. 🎉 Merged PR [#76](https://github.com//nocturlab/setup-vlang-action/pull/76) in [nocturlab/setup-vlang-action](https://github.com//nocturlab/setup-vlang-action)
-5. 🎉 Merged PR [#78](https://github.com//nocturlab/setup-vlang-action/pull/78) in [nocturlab/setup-vlang-action](https://github.com//nocturlab/setup-vlang-action)
+1. 🗣 Commented on [#79](https://github.com//nocturlab/setup-vlang-action/issues/79) in [nocturlab/setup-vlang-action](https://github.com//nocturlab/setup-vlang-action)
+2. 💪 Opened PR [#79](https://github.com//nocturlab/setup-vlang-action/pull/79) in [nocturlab/setup-vlang-action](https://github.com//nocturlab/setup-vlang-action)
+3. ❗️ Closed issue [#72](https://github.com//nocturlab/setup-vlang-action/issues/72) in [nocturlab/setup-vlang-action](https://github.com//nocturlab/setup-vlang-action)
+4. 🗣 Commented on [#72](https://github.com//nocturlab/setup-vlang-action/issues/72) in [nocturlab/setup-vlang-action](https://github.com//nocturlab/setup-vlang-action)
+5. 🎉 Merged PR [#76](https://github.com//nocturlab/setup-vlang-action/pull/76) in [nocturlab/setup-vlang-action](https://github.com//nocturlab/setup-vlang-action)
 <!--END_SECTION:activity-->
 
 
