@@ -55,11 +55,11 @@ I also provide for free a [GitLab Instance](https://git.nocturlab.fr) with free 
 
 ### - 🚀🔥 Recent Activity!
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#121](https://github.com//Financial-Times/github-label-sync/issues/121) in [Financial-Times/github-label-sync](https://github.com//Financial-Times/github-label-sync)
-2. 💪 Opened PR [#1](https://github.com//shiipou/labelset/pull/1) in [shiipou/labelset](https://github.com//shiipou/labelset)
-3. 🗣 Commented on [#84](https://github.com//nocturlab/setup-vlang-action/issues/84) in [nocturlab/setup-vlang-action](https://github.com//nocturlab/setup-vlang-action)
-4. 🗣 Commented on [#84](https://github.com//nocturlab/setup-vlang-action/issues/84) in [nocturlab/setup-vlang-action](https://github.com//nocturlab/setup-vlang-action)
-5. 🎉 Merged PR [#83](https://github.com//nocturlab/setup-vlang-action/pull/83) in [nocturlab/setup-vlang-action](https://github.com//nocturlab/setup-vlang-action)
+1. ❗️ Closed issue [#121](https://github.com//Financial-Times/github-label-sync/issues/121) in [Financial-Times/github-label-sync](https://github.com//Financial-Times/github-label-sync)
+2. 🗣 Commented on [#121](https://github.com//Financial-Times/github-label-sync/issues/121) in [Financial-Times/github-label-sync](https://github.com//Financial-Times/github-label-sync)
+3. ❗️ Opened issue [#121](https://github.com//Financial-Times/github-label-sync/issues/121) in [Financial-Times/github-label-sync](https://github.com//Financial-Times/github-label-sync)
+4. 💪 Opened PR [#1](https://github.com//shiipou/labelset/pull/1) in [shiipou/labelset](https://github.com//shiipou/labelset)
+5. 🗣 Commented on [#84](https://github.com//nocturlab/setup-vlang-action/issues/84) in [nocturlab/setup-vlang-action](https://github.com//nocturlab/setup-vlang-action)
 <!--END_SECTION:activity-->
 
 
