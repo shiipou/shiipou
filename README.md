@@ -55,11 +55,11 @@ I also provide for free a [GitLab Instance](https://git.nocturlab.fr) with free 
 
 ### - 🚀🔥 Recent Activity!
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#29](https://github.com//EsupPortail/esup-stage/issues/29) in [EsupPortail/esup-stage](https://github.com//EsupPortail/esup-stage)
-2. ❗️ Opened issue [#28](https://github.com//EsupPortail/esup-stage/issues/28) in [EsupPortail/esup-stage](https://github.com//EsupPortail/esup-stage)
-3. ❗️ Opened issue [#27](https://github.com//EsupPortail/esup-stage/issues/27) in [EsupPortail/esup-stage](https://github.com//EsupPortail/esup-stage)
-4. ❗️ Opened issue [#26](https://github.com//EsupPortail/esup-stage/issues/26) in [EsupPortail/esup-stage](https://github.com//EsupPortail/esup-stage)
-5. ❗️ Opened issue [#25](https://github.com//EsupPortail/esup-stage/issues/25) in [EsupPortail/esup-stage](https://github.com//EsupPortail/esup-stage)
+1. ❗️ Opened issue [#74](https://github.com//EsupPortail/esup-stage/issues/74) in [EsupPortail/esup-stage](https://github.com//EsupPortail/esup-stage)
+2. ❗️ Opened issue [#73](https://github.com//EsupPortail/esup-stage/issues/73) in [EsupPortail/esup-stage](https://github.com//EsupPortail/esup-stage)
+3. ❗️ Opened issue [#72](https://github.com//EsupPortail/esup-stage/issues/72) in [EsupPortail/esup-stage](https://github.com//EsupPortail/esup-stage)
+4. ❗️ Opened issue [#71](https://github.com//EsupPortail/esup-stage/issues/71) in [EsupPortail/esup-stage](https://github.com//EsupPortail/esup-stage)
+5. ❗️ Opened issue [#70](https://github.com//EsupPortail/esup-stage/issues/70) in [EsupPortail/esup-stage](https://github.com//EsupPortail/esup-stage)
 <!--END_SECTION:activity-->
 
 
