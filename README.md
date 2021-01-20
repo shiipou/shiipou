@@ -55,11 +55,11 @@ I also provide for free a [GitLab Instance](https://git.nocturlab.fr) with free 
 
 ### - 🚀🔥 Recent Activity!
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#86](https://github.com//nocturlab/setup-vlang-action/pull/86) in [nocturlab/setup-vlang-action](https://github.com//nocturlab/setup-vlang-action)
-2. 🎉 Merged PR [#1](https://github.com//shiipou/labelset/pull/1) in [shiipou/labelset](https://github.com//shiipou/labelset)
-3. ❗️ Closed issue [#121](https://github.com//Financial-Times/github-label-sync/issues/121) in [Financial-Times/github-label-sync](https://github.com//Financial-Times/github-label-sync)
-4. 🗣 Commented on [#121](https://github.com//Financial-Times/github-label-sync/issues/121) in [Financial-Times/github-label-sync](https://github.com//Financial-Times/github-label-sync)
-5. ❗️ Opened issue [#121](https://github.com//Financial-Times/github-label-sync/issues/121) in [Financial-Times/github-label-sync](https://github.com//Financial-Times/github-label-sync)
+1. 🎉 Merged PR [#87](https://github.com//nocturlab/setup-vlang-action/pull/87) in [nocturlab/setup-vlang-action](https://github.com//nocturlab/setup-vlang-action)
+2. 🎉 Merged PR [#86](https://github.com//nocturlab/setup-vlang-action/pull/86) in [nocturlab/setup-vlang-action](https://github.com//nocturlab/setup-vlang-action)
+3. 🎉 Merged PR [#1](https://github.com//shiipou/labelset/pull/1) in [shiipou/labelset](https://github.com//shiipou/labelset)
+4. ❗️ Closed issue [#121](https://github.com//Financial-Times/github-label-sync/issues/121) in [Financial-Times/github-label-sync](https://github.com//Financial-Times/github-label-sync)
+5. 🗣 Commented on [#121](https://github.com//Financial-Times/github-label-sync/issues/121) in [Financial-Times/github-label-sync](https://github.com//Financial-Times/github-label-sync)
 <!--END_SECTION:activity-->
 
 
