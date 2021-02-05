@@ -56,10 +56,10 @@ I also provide for free a [GitLab Instance](https://git.nocturlab.fr) with free 
 ### - 🚀🔥 Recent Activity!
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#27](https://github.com//h-mdm/hmdm-server/issues/27) in [h-mdm/hmdm-server](https://github.com//h-mdm/hmdm-server)
-2. ❗️ Closed issue [#27](https://github.com//h-mdm/hmdm-server/issues/27) in [h-mdm/hmdm-server](https://github.com//h-mdm/hmdm-server)
-3. 🗣 Commented on [#27](https://github.com//h-mdm/hmdm-server/issues/27) in [h-mdm/hmdm-server](https://github.com//h-mdm/hmdm-server)
-4. 🎉 Merged PR [#89](https://github.com//nocturlab/setup-vlang-action/pull/89) in [nocturlab/setup-vlang-action](https://github.com//nocturlab/setup-vlang-action)
-5. 🗣 Commented on [#6](https://github.com//nocturlab/vi-v/issues/6) in [nocturlab/vi-v](https://github.com//nocturlab/vi-v)
+2. 🗣 Commented on [#27](https://github.com//h-mdm/hmdm-server/issues/27) in [h-mdm/hmdm-server](https://github.com//h-mdm/hmdm-server)
+3. ❗️ Closed issue [#27](https://github.com//h-mdm/hmdm-server/issues/27) in [h-mdm/hmdm-server](https://github.com//h-mdm/hmdm-server)
+4. 🗣 Commented on [#27](https://github.com//h-mdm/hmdm-server/issues/27) in [h-mdm/hmdm-server](https://github.com//h-mdm/hmdm-server)
+5. 🎉 Merged PR [#89](https://github.com//nocturlab/setup-vlang-action/pull/89) in [nocturlab/setup-vlang-action](https://github.com//nocturlab/setup-vlang-action)
 <!--END_SECTION:activity-->
 
 
