@@ -55,11 +55,11 @@ I also provide for free a [GitLab Instance](https://git.nocturlab.fr) with free 
 
 ### - 🚀🔥 Recent Activity!
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3](https://github.com//shiipou/twitch-advisor/issues/3) in [shiipou/twitch-advisor](https://github.com//shiipou/twitch-advisor)
-2. ❗️ Opened issue [#2](https://github.com//shiipou/twitch-advisor/issues/2) in [shiipou/twitch-advisor](https://github.com//shiipou/twitch-advisor)
-3. ❗️ Opened issue [#1](https://github.com//shiipou/twitch-advisor/issues/1) in [shiipou/twitch-advisor](https://github.com//shiipou/twitch-advisor)
-4. 🎉 Merged PR [#95](https://github.com//nocturlab/setup-vlang-action/pull/95) in [nocturlab/setup-vlang-action](https://github.com//nocturlab/setup-vlang-action)
-5. 🎉 Merged PR [#94](https://github.com//nocturlab/setup-vlang-action/pull/94) in [nocturlab/setup-vlang-action](https://github.com//nocturlab/setup-vlang-action)
+1. ❗️ Opened issue [#4](https://github.com//shiipou/twitch-advisor/issues/4) in [shiipou/twitch-advisor](https://github.com//shiipou/twitch-advisor)
+2. ❗️ Opened issue [#3](https://github.com//shiipou/twitch-advisor/issues/3) in [shiipou/twitch-advisor](https://github.com//shiipou/twitch-advisor)
+3. ❗️ Opened issue [#2](https://github.com//shiipou/twitch-advisor/issues/2) in [shiipou/twitch-advisor](https://github.com//shiipou/twitch-advisor)
+4. ❗️ Opened issue [#1](https://github.com//shiipou/twitch-advisor/issues/1) in [shiipou/twitch-advisor](https://github.com//shiipou/twitch-advisor)
+5. 🎉 Merged PR [#95](https://github.com//nocturlab/setup-vlang-action/pull/95) in [nocturlab/setup-vlang-action](https://github.com//nocturlab/setup-vlang-action)
 <!--END_SECTION:activity-->
 
 
