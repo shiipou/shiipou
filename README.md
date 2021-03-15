@@ -55,11 +55,11 @@ I also provide for free a [GitLab Instance](https://git.nocturlab.fr) with free 
 
 ### - 🚀🔥 Recent Activity!
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#97](https://github.com//nocturlab/setup-vlang-action/pull/97) in [nocturlab/setup-vlang-action](https://github.com//nocturlab/setup-vlang-action)
-2. 🗣 Commented on [#1](https://github.com//codifyglobal/peertube-plugin-auth-oauth2/issues/1) in [codifyglobal/peertube-plugin-auth-oauth2](https://github.com//codifyglobal/peertube-plugin-auth-oauth2)
-3. 🎉 Merged PR [#96](https://github.com//nocturlab/setup-vlang-action/pull/96) in [nocturlab/setup-vlang-action](https://github.com//nocturlab/setup-vlang-action)
-4. ❗️ Opened issue [#4](https://github.com//shiipou/twitch-advisor/issues/4) in [shiipou/twitch-advisor](https://github.com//shiipou/twitch-advisor)
-5. ❗️ Opened issue [#3](https://github.com//shiipou/twitch-advisor/issues/3) in [shiipou/twitch-advisor](https://github.com//shiipou/twitch-advisor)
+1. 🎉 Merged PR [#100](https://github.com//nocturlab/setup-vlang-action/pull/100) in [nocturlab/setup-vlang-action](https://github.com//nocturlab/setup-vlang-action)
+2. 🎉 Merged PR [#97](https://github.com//nocturlab/setup-vlang-action/pull/97) in [nocturlab/setup-vlang-action](https://github.com//nocturlab/setup-vlang-action)
+3. 🗣 Commented on [#1](https://github.com//codifyglobal/peertube-plugin-auth-oauth2/issues/1) in [codifyglobal/peertube-plugin-auth-oauth2](https://github.com//codifyglobal/peertube-plugin-auth-oauth2)
+4. 🎉 Merged PR [#96](https://github.com//nocturlab/setup-vlang-action/pull/96) in [nocturlab/setup-vlang-action](https://github.com//nocturlab/setup-vlang-action)
+5. ❗️ Opened issue [#4](https://github.com//shiipou/twitch-advisor/issues/4) in [shiipou/twitch-advisor](https://github.com//shiipou/twitch-advisor)
 <!--END_SECTION:activity-->
 
 
