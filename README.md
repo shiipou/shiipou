@@ -55,11 +55,11 @@ I also provide for free a [GitLab Instance](https://git.nocturlab.fr) with free 
 
 ### - 🚀🔥 Recent Activity!
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#65](https://github.com//dreamsoftin/flutter_wordpress/issues/65) in [dreamsoftin/flutter_wordpress](https://github.com//dreamsoftin/flutter_wordpress)
-2. 🎉 Merged PR [#104](https://github.com//nocturlab/setup-vlang-action/pull/104) in [nocturlab/setup-vlang-action](https://github.com//nocturlab/setup-vlang-action)
-3. 🎉 Merged PR [#105](https://github.com//nocturlab/setup-vlang-action/pull/105) in [nocturlab/setup-vlang-action](https://github.com//nocturlab/setup-vlang-action)
-4. 🎉 Merged PR [#102](https://github.com//nocturlab/setup-vlang-action/pull/102) in [nocturlab/setup-vlang-action](https://github.com//nocturlab/setup-vlang-action)
-5. 🎉 Merged PR [#101](https://github.com//nocturlab/setup-vlang-action/pull/101) in [nocturlab/setup-vlang-action](https://github.com//nocturlab/setup-vlang-action)
+1. ❌ Closed PR [#11](https://github.com//EsupPortail/esup-stage/pull/11) in [EsupPortail/esup-stage](https://github.com//EsupPortail/esup-stage)
+2. ❗️ Opened issue [#65](https://github.com//dreamsoftin/flutter_wordpress/issues/65) in [dreamsoftin/flutter_wordpress](https://github.com//dreamsoftin/flutter_wordpress)
+3. 🎉 Merged PR [#104](https://github.com//nocturlab/setup-vlang-action/pull/104) in [nocturlab/setup-vlang-action](https://github.com//nocturlab/setup-vlang-action)
+4. 🎉 Merged PR [#105](https://github.com//nocturlab/setup-vlang-action/pull/105) in [nocturlab/setup-vlang-action](https://github.com//nocturlab/setup-vlang-action)
+5. 🎉 Merged PR [#102](https://github.com//nocturlab/setup-vlang-action/pull/102) in [nocturlab/setup-vlang-action](https://github.com//nocturlab/setup-vlang-action)
 <!--END_SECTION:activity-->
 
 
