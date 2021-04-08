@@ -55,11 +55,11 @@ I also provide for free a [GitLab Instance](https://git.nocturlab.fr) with free 
 
 ### - 🚀🔥 Recent Activity!
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#114](https://github.com//aloisdeniel/flutter_device_preview/issues/114) in [aloisdeniel/flutter_device_preview](https://github.com//aloisdeniel/flutter_device_preview)
-2. 🗣 Commented on [#65](https://github.com//dreamsoftin/flutter_wordpress/issues/65) in [dreamsoftin/flutter_wordpress](https://github.com//dreamsoftin/flutter_wordpress)
-3. ❌ Closed PR [#11](https://github.com//EsupPortail/esup-stage/pull/11) in [EsupPortail/esup-stage](https://github.com//EsupPortail/esup-stage)
-4. ❗️ Opened issue [#65](https://github.com//dreamsoftin/flutter_wordpress/issues/65) in [dreamsoftin/flutter_wordpress](https://github.com//dreamsoftin/flutter_wordpress)
-5. 🎉 Merged PR [#104](https://github.com//nocturlab/setup-vlang-action/pull/104) in [nocturlab/setup-vlang-action](https://github.com//nocturlab/setup-vlang-action)
+1. 🎉 Merged PR [#106](https://github.com//nocturlab/setup-vlang-action/pull/106) in [nocturlab/setup-vlang-action](https://github.com//nocturlab/setup-vlang-action)
+2. 🗣 Commented on [#114](https://github.com//aloisdeniel/flutter_device_preview/issues/114) in [aloisdeniel/flutter_device_preview](https://github.com//aloisdeniel/flutter_device_preview)
+3. 🗣 Commented on [#65](https://github.com//dreamsoftin/flutter_wordpress/issues/65) in [dreamsoftin/flutter_wordpress](https://github.com//dreamsoftin/flutter_wordpress)
+4. ❌ Closed PR [#11](https://github.com//EsupPortail/esup-stage/pull/11) in [EsupPortail/esup-stage](https://github.com//EsupPortail/esup-stage)
+5. ❗️ Opened issue [#65](https://github.com//dreamsoftin/flutter_wordpress/issues/65) in [dreamsoftin/flutter_wordpress](https://github.com//dreamsoftin/flutter_wordpress)
 <!--END_SECTION:activity-->
 
 
