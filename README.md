@@ -55,11 +55,11 @@ I also provide for free a [GitLab Instance](https://git.nocturlab.fr) with free 
 
 ### - 🚀🔥 Recent Activity!
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3](https://github.com//m-bers/docker-virt-manager/issues/3) in [m-bers/docker-virt-manager](https://github.com//m-bers/docker-virt-manager)
-2. 🗣 Commented on [#116](https://github.com//aloisdeniel/flutter_device_preview/issues/116) in [aloisdeniel/flutter_device_preview](https://github.com//aloisdeniel/flutter_device_preview)
-3. 💪 Opened PR [#8](https://github.com//RaspAP/raspap-docker/pull/8) in [RaspAP/raspap-docker](https://github.com//RaspAP/raspap-docker)
-4. 🎉 Merged PR [#106](https://github.com//nocturlab/setup-vlang-action/pull/106) in [nocturlab/setup-vlang-action](https://github.com//nocturlab/setup-vlang-action)
-5. 🗣 Commented on [#114](https://github.com//aloisdeniel/flutter_device_preview/issues/114) in [aloisdeniel/flutter_device_preview](https://github.com//aloisdeniel/flutter_device_preview)
+1. 🎉 Merged PR [#107](https://github.com//nocturlab/setup-vlang-action/pull/107) in [nocturlab/setup-vlang-action](https://github.com//nocturlab/setup-vlang-action)
+2. ❗️ Opened issue [#3](https://github.com//m-bers/docker-virt-manager/issues/3) in [m-bers/docker-virt-manager](https://github.com//m-bers/docker-virt-manager)
+3. 🗣 Commented on [#116](https://github.com//aloisdeniel/flutter_device_preview/issues/116) in [aloisdeniel/flutter_device_preview](https://github.com//aloisdeniel/flutter_device_preview)
+4. 💪 Opened PR [#8](https://github.com//RaspAP/raspap-docker/pull/8) in [RaspAP/raspap-docker](https://github.com//RaspAP/raspap-docker)
+5. 🎉 Merged PR [#106](https://github.com//nocturlab/setup-vlang-action/pull/106) in [nocturlab/setup-vlang-action](https://github.com//nocturlab/setup-vlang-action)
 <!--END_SECTION:activity-->
 
 
