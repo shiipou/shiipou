@@ -55,11 +55,11 @@ I also provide for free a [GitLab Instance](https://git.nocturlab.fr) with free 
 
 ### - 🚀🔥 Recent Activity!
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#84](https://github.com//EsupPortail/esup-stage/pull/84) in [EsupPortail/esup-stage](https://github.com//EsupPortail/esup-stage)
-2. 🎉 Merged PR [#85](https://github.com//EsupPortail/esup-stage/pull/85) in [EsupPortail/esup-stage](https://github.com//EsupPortail/esup-stage)
-3. 🗣 Commented on [#8](https://github.com//RaspAP/raspap-docker/issues/8) in [RaspAP/raspap-docker](https://github.com//RaspAP/raspap-docker)
-4. 💪 Opened PR [#85](https://github.com//EsupPortail/esup-stage/pull/85) in [EsupPortail/esup-stage](https://github.com//EsupPortail/esup-stage)
-5. 🎉 Merged PR [#108](https://github.com//nocturlab/setup-vlang-action/pull/108) in [nocturlab/setup-vlang-action](https://github.com//nocturlab/setup-vlang-action)
+1. ❗️ Opened issue [#77](https://github.com//exeldro/obs-move-transition/issues/77) in [exeldro/obs-move-transition](https://github.com//exeldro/obs-move-transition)
+2. 🎉 Merged PR [#84](https://github.com//EsupPortail/esup-stage/pull/84) in [EsupPortail/esup-stage](https://github.com//EsupPortail/esup-stage)
+3. 🎉 Merged PR [#85](https://github.com//EsupPortail/esup-stage/pull/85) in [EsupPortail/esup-stage](https://github.com//EsupPortail/esup-stage)
+4. 🗣 Commented on [#8](https://github.com//RaspAP/raspap-docker/issues/8) in [RaspAP/raspap-docker](https://github.com//RaspAP/raspap-docker)
+5. 💪 Opened PR [#85](https://github.com//EsupPortail/esup-stage/pull/85) in [EsupPortail/esup-stage](https://github.com//EsupPortail/esup-stage)
 <!--END_SECTION:activity-->
 
 
