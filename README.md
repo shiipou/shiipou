@@ -55,11 +55,11 @@ I also provide for free a [GitLab Instance](https://git.nocturlab.fr) with free 
 
 ### - 🚀🔥 Recent Activity!
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#77](https://github.com//exeldro/obs-move-transition/issues/77) in [exeldro/obs-move-transition](https://github.com//exeldro/obs-move-transition)
-2. 💪 Opened PR [#9](https://github.com//RaspAP/raspap-docker/pull/9) in [RaspAP/raspap-docker](https://github.com//RaspAP/raspap-docker)
-3. 🎉 Merged PR [#8](https://github.com//RaspAP/raspap-docker/pull/8) in [RaspAP/raspap-docker](https://github.com//RaspAP/raspap-docker)
-4. 🎉 Merged PR [#109](https://github.com//nocturlab/setup-vlang-action/pull/109) in [nocturlab/setup-vlang-action](https://github.com//nocturlab/setup-vlang-action)
-5. ❗️ Opened issue [#77](https://github.com//exeldro/obs-move-transition/issues/77) in [exeldro/obs-move-transition](https://github.com//exeldro/obs-move-transition)
+1. 🎉 Merged PR [#9](https://github.com//RaspAP/raspap-docker/pull/9) in [RaspAP/raspap-docker](https://github.com//RaspAP/raspap-docker)
+2. 🗣 Commented on [#77](https://github.com//exeldro/obs-move-transition/issues/77) in [exeldro/obs-move-transition](https://github.com//exeldro/obs-move-transition)
+3. 💪 Opened PR [#9](https://github.com//RaspAP/raspap-docker/pull/9) in [RaspAP/raspap-docker](https://github.com//RaspAP/raspap-docker)
+4. 🎉 Merged PR [#8](https://github.com//RaspAP/raspap-docker/pull/8) in [RaspAP/raspap-docker](https://github.com//RaspAP/raspap-docker)
+5. 🎉 Merged PR [#109](https://github.com//nocturlab/setup-vlang-action/pull/109) in [nocturlab/setup-vlang-action](https://github.com//nocturlab/setup-vlang-action)
 <!--END_SECTION:activity-->
 
 
