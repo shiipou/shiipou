@@ -55,11 +55,11 @@ I also provide for free a [GitLab Instance](https://git.nocturlab.fr) with free 
 
 ### - 🚀🔥 Recent Activity!
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#110](https://github.com//nocturlab/setup-vlang-action/pull/110) in [nocturlab/setup-vlang-action](https://github.com//nocturlab/setup-vlang-action)
-2. 🗣 Commented on [#8](https://github.com//RaspAP/raspap-docker/issues/8) in [RaspAP/raspap-docker](https://github.com//RaspAP/raspap-docker)
-3. 🎉 Merged PR [#9](https://github.com//RaspAP/raspap-docker/pull/9) in [RaspAP/raspap-docker](https://github.com//RaspAP/raspap-docker)
-4. 🗣 Commented on [#77](https://github.com//exeldro/obs-move-transition/issues/77) in [exeldro/obs-move-transition](https://github.com//exeldro/obs-move-transition)
-5. 💪 Opened PR [#9](https://github.com//RaspAP/raspap-docker/pull/9) in [RaspAP/raspap-docker](https://github.com//RaspAP/raspap-docker)
+1. 🎉 Merged PR [#111](https://github.com//nocturlab/setup-vlang-action/pull/111) in [nocturlab/setup-vlang-action](https://github.com//nocturlab/setup-vlang-action)
+2. 🎉 Merged PR [#110](https://github.com//nocturlab/setup-vlang-action/pull/110) in [nocturlab/setup-vlang-action](https://github.com//nocturlab/setup-vlang-action)
+3. 🗣 Commented on [#8](https://github.com//RaspAP/raspap-docker/issues/8) in [RaspAP/raspap-docker](https://github.com//RaspAP/raspap-docker)
+4. 🎉 Merged PR [#9](https://github.com//RaspAP/raspap-docker/pull/9) in [RaspAP/raspap-docker](https://github.com//RaspAP/raspap-docker)
+5. 🗣 Commented on [#77](https://github.com//exeldro/obs-move-transition/issues/77) in [exeldro/obs-move-transition](https://github.com//exeldro/obs-move-transition)
 <!--END_SECTION:activity-->
 
 
