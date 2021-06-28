@@ -55,11 +55,11 @@ I also provide for free a [GitLab Instance](https://git.nocturlab.fr) with free 
 
 ### - 🚀🔥 Recent Activity!
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#164](https://github.com//complexorganizations/wireguard-manager/pull/164) in [complexorganizations/wireguard-manager](https://github.com//complexorganizations/wireguard-manager)
-2. ❗️ Opened issue [#163](https://github.com//complexorganizations/wireguard-manager/issues/163) in [complexorganizations/wireguard-manager](https://github.com//complexorganizations/wireguard-manager)
-3. 🎉 Merged PR [#129](https://github.com//nocturlab/setup-vlang-action/pull/129) in [nocturlab/setup-vlang-action](https://github.com//nocturlab/setup-vlang-action)
-4. 🎉 Merged PR [#128](https://github.com//nocturlab/setup-vlang-action/pull/128) in [nocturlab/setup-vlang-action](https://github.com//nocturlab/setup-vlang-action)
-5. 🎉 Merged PR [#127](https://github.com//nocturlab/setup-vlang-action/pull/127) in [nocturlab/setup-vlang-action](https://github.com//nocturlab/setup-vlang-action)
+1. 🗣 Commented on [#163](https://github.com//complexorganizations/wireguard-manager/issues/163) in [complexorganizations/wireguard-manager](https://github.com//complexorganizations/wireguard-manager)
+2. 💪 Opened PR [#164](https://github.com//complexorganizations/wireguard-manager/pull/164) in [complexorganizations/wireguard-manager](https://github.com//complexorganizations/wireguard-manager)
+3. ❗️ Opened issue [#163](https://github.com//complexorganizations/wireguard-manager/issues/163) in [complexorganizations/wireguard-manager](https://github.com//complexorganizations/wireguard-manager)
+4. 🎉 Merged PR [#129](https://github.com//nocturlab/setup-vlang-action/pull/129) in [nocturlab/setup-vlang-action](https://github.com//nocturlab/setup-vlang-action)
+5. 🎉 Merged PR [#128](https://github.com//nocturlab/setup-vlang-action/pull/128) in [nocturlab/setup-vlang-action](https://github.com//nocturlab/setup-vlang-action)
 <!--END_SECTION:activity-->
 
 
