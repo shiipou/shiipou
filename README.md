@@ -101,6 +101,6 @@ I also provide for free a [GitLab Instance](https://git.nocturlab.fr) with free 
 <a href="https://github.com/Chocobozzz/PeerTube">
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Chocobozzz&show_icons=true&theme=tokyonight&repo=PeerTube" />
 </a>
-<a href="https://github.com/nextcloud/server">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=nextcloud&show_icons=true&theme=tokyonight&repo=server" />
+<a href="https://github.com/lenra-io">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=lenra-io&show_icons=true&theme=tokyonight" />
 </a>
