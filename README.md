@@ -99,8 +99,5 @@ I also provide for free a [GitLab Instance](https://git.nocturlab.fr) with free 
 <br />
 
 <a href="https://github.com/Chocobozzz/PeerTube">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Chocobozzz&show_icons=true&theme=tokyonight&repo=PeerTube" />
-</a>
-<a href="https://github.com/lenra-io">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=lenra-io&show_icons=true&theme=tokyonight" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Chocobozzz&show_icons=true&theme=tokyonight&repo=PeerTube" />
 </a>
