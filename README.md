@@ -55,11 +55,11 @@ I also provide for free a [GitLab Instance](https://git.nocturlab.fr) with free 
 
 ### - 🚀🔥 Recent Activity!
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#75](https://github.com//tg123/sshpiper/issues/75) in [tg123/sshpiper](https://github.com//tg123/sshpiper)
-2. 🎉 Merged PR [#158](https://github.com//nocturlab/setup-vlang-action/pull/158) in [nocturlab/setup-vlang-action](https://github.com//nocturlab/setup-vlang-action)
-3. 🎉 Merged PR [#157](https://github.com//nocturlab/setup-vlang-action/pull/157) in [nocturlab/setup-vlang-action](https://github.com//nocturlab/setup-vlang-action)
-4. ❗️ Opened issue [#1](https://github.com//shiipou/clyde-server/issues/1) in [shiipou/clyde-server](https://github.com//shiipou/clyde-server)
-5. 🎉 Merged PR [#156](https://github.com//nocturlab/setup-vlang-action/pull/156) in [nocturlab/setup-vlang-action](https://github.com//nocturlab/setup-vlang-action)
+1. 🎉 Merged PR [#159](https://github.com//nocturlab/setup-vlang-action/pull/159) in [nocturlab/setup-vlang-action](https://github.com//nocturlab/setup-vlang-action)
+2. 💪 Opened PR [#29](https://github.com//gnarf/osx-compose-key/pull/29) in [gnarf/osx-compose-key](https://github.com//gnarf/osx-compose-key)
+3. 🗣 Commented on [#75](https://github.com//tg123/sshpiper/issues/75) in [tg123/sshpiper](https://github.com//tg123/sshpiper)
+4. 🎉 Merged PR [#158](https://github.com//nocturlab/setup-vlang-action/pull/158) in [nocturlab/setup-vlang-action](https://github.com//nocturlab/setup-vlang-action)
+5. 🎉 Merged PR [#157](https://github.com//nocturlab/setup-vlang-action/pull/157) in [nocturlab/setup-vlang-action](https://github.com//nocturlab/setup-vlang-action)
 <!--END_SECTION:activity-->
 
 
