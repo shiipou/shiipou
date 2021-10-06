@@ -55,11 +55,11 @@ I also provide for free a [GitLab Instance](https://git.nocturlab.fr) with free 
 
 ### - 🚀🔥 Recent Activity!
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com//shiipou/setup-yq-action/pull/2) in [shiipou/setup-yq-action](https://github.com//shiipou/setup-yq-action)
-2. 💪 Opened PR [#2](https://github.com//shiipou/setup-yq-action/pull/2) in [shiipou/setup-yq-action](https://github.com//shiipou/setup-yq-action)
-3. 🎉 Merged PR [#1](https://github.com//shiipou/setup-yq-action/pull/1) in [shiipou/setup-yq-action](https://github.com//shiipou/setup-yq-action)
-4. 💪 Opened PR [#1](https://github.com//shiipou/setup-yq-action/pull/1) in [shiipou/setup-yq-action](https://github.com//shiipou/setup-yq-action)
-5. 🎉 Merged PR [#170](https://github.com//nocturlab/setup-vlang-action/pull/170) in [nocturlab/setup-vlang-action](https://github.com//nocturlab/setup-vlang-action)
+1. 🎉 Merged PR [#4](https://github.com//shiipou/setup-yq-action/pull/4) in [shiipou/setup-yq-action](https://github.com//shiipou/setup-yq-action)
+2. 💪 Opened PR [#4](https://github.com//shiipou/setup-yq-action/pull/4) in [shiipou/setup-yq-action](https://github.com//shiipou/setup-yq-action)
+3. 🎉 Merged PR [#3](https://github.com//shiipou/setup-yq-action/pull/3) in [shiipou/setup-yq-action](https://github.com//shiipou/setup-yq-action)
+4. 💪 Opened PR [#3](https://github.com//shiipou/setup-yq-action/pull/3) in [shiipou/setup-yq-action](https://github.com//shiipou/setup-yq-action)
+5. 🎉 Merged PR [#2](https://github.com//shiipou/setup-yq-action/pull/2) in [shiipou/setup-yq-action](https://github.com//shiipou/setup-yq-action)
 <!--END_SECTION:activity-->
 
 
