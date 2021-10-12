@@ -55,11 +55,11 @@ I also provide for free a [GitLab Instance](https://git.nocturlab.fr) with free 
 
 ### - 🚀🔥 Recent Activity!
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com//lenra-io/templates/pull/7) in [lenra-io/templates](https://github.com//lenra-io/templates)
-2. 💪 Opened PR [#7](https://github.com//lenra-io/templates/pull/7) in [lenra-io/templates](https://github.com//lenra-io/templates)
-3. 🎉 Merged PR [#9](https://github.com//shiipou/setup-yq-action/pull/9) in [shiipou/setup-yq-action](https://github.com//shiipou/setup-yq-action)
-4. 💪 Opened PR [#9](https://github.com//shiipou/setup-yq-action/pull/9) in [shiipou/setup-yq-action](https://github.com//shiipou/setup-yq-action)
-5. 🎉 Merged PR [#8](https://github.com//shiipou/setup-yq-action/pull/8) in [shiipou/setup-yq-action](https://github.com//shiipou/setup-yq-action)
+1. 💪 Opened PR [#10](https://github.com//shiipou/setup-yq-action/pull/10) in [shiipou/setup-yq-action](https://github.com//shiipou/setup-yq-action)
+2. 🎉 Merged PR [#7](https://github.com//lenra-io/templates/pull/7) in [lenra-io/templates](https://github.com//lenra-io/templates)
+3. 💪 Opened PR [#7](https://github.com//lenra-io/templates/pull/7) in [lenra-io/templates](https://github.com//lenra-io/templates)
+4. 🎉 Merged PR [#9](https://github.com//shiipou/setup-yq-action/pull/9) in [shiipou/setup-yq-action](https://github.com//shiipou/setup-yq-action)
+5. 💪 Opened PR [#9](https://github.com//shiipou/setup-yq-action/pull/9) in [shiipou/setup-yq-action](https://github.com//shiipou/setup-yq-action)
 <!--END_SECTION:activity-->
 
 
