@@ -55,11 +55,11 @@ I also provide for free a [GitLab Instance](https://git.nocturlab.fr) with free 
 
 ### - 🚀🔥 Recent Activity!
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12](https://github.com//jbyuki/instant.nvim/issues/12) in [jbyuki/instant.nvim](https://github.com//jbyuki/instant.nvim)
-2. 🎉 Merged PR [#179](https://github.com//nocturlab/setup-vlang-action/pull/179) in [nocturlab/setup-vlang-action](https://github.com//nocturlab/setup-vlang-action)
-3. 🗣 Commented on [#12](https://github.com//jbyuki/instant.nvim/issues/12) in [jbyuki/instant.nvim](https://github.com//jbyuki/instant.nvim)
-4. ❗️ Opened issue [#12](https://github.com//jbyuki/instant.nvim/issues/12) in [jbyuki/instant.nvim](https://github.com//jbyuki/instant.nvim)
-5. 🗣 Commented on [#7](https://github.com//nocturlab/vi-v/issues/7) in [nocturlab/vi-v](https://github.com//nocturlab/vi-v)
+1. 🎉 Merged PR [#180](https://github.com//nocturlab/setup-vlang-action/pull/180) in [nocturlab/setup-vlang-action](https://github.com//nocturlab/setup-vlang-action)
+2. 🗣 Commented on [#12](https://github.com//jbyuki/instant.nvim/issues/12) in [jbyuki/instant.nvim](https://github.com//jbyuki/instant.nvim)
+3. 🎉 Merged PR [#179](https://github.com//nocturlab/setup-vlang-action/pull/179) in [nocturlab/setup-vlang-action](https://github.com//nocturlab/setup-vlang-action)
+4. 🗣 Commented on [#12](https://github.com//jbyuki/instant.nvim/issues/12) in [jbyuki/instant.nvim](https://github.com//jbyuki/instant.nvim)
+5. ❗️ Opened issue [#12](https://github.com//jbyuki/instant.nvim/issues/12) in [jbyuki/instant.nvim](https://github.com//jbyuki/instant.nvim)
 <!--END_SECTION:activity-->
 
 
