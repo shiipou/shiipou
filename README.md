@@ -56,10 +56,10 @@ I also provide for free a [GitLab Instance](https://git.nocturlab.fr) with free 
 ### - 🚀🔥 Recent Activity!
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#12](https://github.com//jbyuki/instant.nvim/issues/12) in [jbyuki/instant.nvim](https://github.com//jbyuki/instant.nvim)
-2. ❗️ Opened issue [#12](https://github.com//jbyuki/instant.nvim/issues/12) in [jbyuki/instant.nvim](https://github.com//jbyuki/instant.nvim)
-3. 🗣 Commented on [#7](https://github.com//nocturlab/vi-v/issues/7) in [nocturlab/vi-v](https://github.com//nocturlab/vi-v)
-4. 🗣 Commented on [#6](https://github.com//nocturlab/vi-v/issues/6) in [nocturlab/vi-v](https://github.com//nocturlab/vi-v)
-5. 🗣 Commented on [#52](https://github.com//lenra-io/components-api/issues/52) in [lenra-io/components-api](https://github.com//lenra-io/components-api)
+2. 🎉 Merged PR [#179](https://github.com//nocturlab/setup-vlang-action/pull/179) in [nocturlab/setup-vlang-action](https://github.com//nocturlab/setup-vlang-action)
+3. 🗣 Commented on [#12](https://github.com//jbyuki/instant.nvim/issues/12) in [jbyuki/instant.nvim](https://github.com//jbyuki/instant.nvim)
+4. ❗️ Opened issue [#12](https://github.com//jbyuki/instant.nvim/issues/12) in [jbyuki/instant.nvim](https://github.com//jbyuki/instant.nvim)
+5. 🗣 Commented on [#7](https://github.com//nocturlab/vi-v/issues/7) in [nocturlab/vi-v](https://github.com//nocturlab/vi-v)
 <!--END_SECTION:activity-->
 
 
