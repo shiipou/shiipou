@@ -55,11 +55,11 @@ I also provide for free a [GitLab Instance](https://git.nocturlab.fr) with free 
 
 ### - 🚀🔥 Recent Activity!
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12](https://github.com//jbyuki/instant.nvim/issues/12) in [jbyuki/instant.nvim](https://github.com//jbyuki/instant.nvim)
-2. 🎉 Merged PR [#181](https://github.com//nocturlab/setup-vlang-action/pull/181) in [nocturlab/setup-vlang-action](https://github.com//nocturlab/setup-vlang-action)
-3. 🎉 Merged PR [#182](https://github.com//nocturlab/setup-vlang-action/pull/182) in [nocturlab/setup-vlang-action](https://github.com//nocturlab/setup-vlang-action)
-4. 🗣 Commented on [#3](https://github.com//m-bers/docker-virt-manager/issues/3) in [m-bers/docker-virt-manager](https://github.com//m-bers/docker-virt-manager)
-5. 💪 Opened PR [#1](https://github.com//shiipou/coding-ai/pull/1) in [shiipou/coding-ai](https://github.com//shiipou/coding-ai)
+1. 🎉 Merged PR [#183](https://github.com//nocturlab/setup-vlang-action/pull/183) in [nocturlab/setup-vlang-action](https://github.com//nocturlab/setup-vlang-action)
+2. 🗣 Commented on [#12](https://github.com//jbyuki/instant.nvim/issues/12) in [jbyuki/instant.nvim](https://github.com//jbyuki/instant.nvim)
+3. 🎉 Merged PR [#181](https://github.com//nocturlab/setup-vlang-action/pull/181) in [nocturlab/setup-vlang-action](https://github.com//nocturlab/setup-vlang-action)
+4. 🎉 Merged PR [#182](https://github.com//nocturlab/setup-vlang-action/pull/182) in [nocturlab/setup-vlang-action](https://github.com//nocturlab/setup-vlang-action)
+5. 🗣 Commented on [#3](https://github.com//m-bers/docker-virt-manager/issues/3) in [m-bers/docker-virt-manager](https://github.com//m-bers/docker-virt-manager)
 <!--END_SECTION:activity-->
 
 
