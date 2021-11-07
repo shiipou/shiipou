@@ -55,11 +55,11 @@ I also provide for free a [GitLab Instance](https://git.nocturlab.fr) with free 
 
 ### - 🚀🔥 Recent Activity!
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#11](https://github.com//acouvreur/traefik-ondemand-plugin/issues/11) in [acouvreur/traefik-ondemand-plugin](https://github.com//acouvreur/traefik-ondemand-plugin)
+1. 🗣 Commented on [#94](https://github.com//vlang/gitly/issues/94) in [vlang/gitly](https://github.com//vlang/gitly)
 2. 🗣 Commented on [#11](https://github.com//acouvreur/traefik-ondemand-plugin/issues/11) in [acouvreur/traefik-ondemand-plugin](https://github.com//acouvreur/traefik-ondemand-plugin)
-3. ❗️ Opened issue [#11](https://github.com//acouvreur/traefik-ondemand-plugin/issues/11) in [acouvreur/traefik-ondemand-plugin](https://github.com//acouvreur/traefik-ondemand-plugin)
-4. 🗣 Commented on [#6](https://github.com//acouvreur/traefik-ondemand-plugin/issues/6) in [acouvreur/traefik-ondemand-plugin](https://github.com//acouvreur/traefik-ondemand-plugin)
-5. 🎉 Merged PR [#183](https://github.com//nocturlab/setup-vlang-action/pull/183) in [nocturlab/setup-vlang-action](https://github.com//nocturlab/setup-vlang-action)
+3. 🗣 Commented on [#11](https://github.com//acouvreur/traefik-ondemand-plugin/issues/11) in [acouvreur/traefik-ondemand-plugin](https://github.com//acouvreur/traefik-ondemand-plugin)
+4. ❗️ Opened issue [#11](https://github.com//acouvreur/traefik-ondemand-plugin/issues/11) in [acouvreur/traefik-ondemand-plugin](https://github.com//acouvreur/traefik-ondemand-plugin)
+5. 🗣 Commented on [#6](https://github.com//acouvreur/traefik-ondemand-plugin/issues/6) in [acouvreur/traefik-ondemand-plugin](https://github.com//acouvreur/traefik-ondemand-plugin)
 <!--END_SECTION:activity-->
 
 
