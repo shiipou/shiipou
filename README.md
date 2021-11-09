@@ -55,11 +55,11 @@ I also provide for free a [GitLab Instance](https://git.nocturlab.fr) with free 
 
 ### - 🚀🔥 Recent Activity!
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#94](https://github.com//vlang/gitly/issues/94) in [vlang/gitly](https://github.com//vlang/gitly)
-2. 🗣 Commented on [#11](https://github.com//acouvreur/traefik-ondemand-plugin/issues/11) in [acouvreur/traefik-ondemand-plugin](https://github.com//acouvreur/traefik-ondemand-plugin)
+1. 💪 Opened PR [#60](https://github.com//lenra-io/components-api/pull/60) in [lenra-io/components-api](https://github.com//lenra-io/components-api)
+2. 🗣 Commented on [#94](https://github.com//vlang/gitly/issues/94) in [vlang/gitly](https://github.com//vlang/gitly)
 3. 🗣 Commented on [#11](https://github.com//acouvreur/traefik-ondemand-plugin/issues/11) in [acouvreur/traefik-ondemand-plugin](https://github.com//acouvreur/traefik-ondemand-plugin)
-4. ❗️ Opened issue [#11](https://github.com//acouvreur/traefik-ondemand-plugin/issues/11) in [acouvreur/traefik-ondemand-plugin](https://github.com//acouvreur/traefik-ondemand-plugin)
-5. 🗣 Commented on [#6](https://github.com//acouvreur/traefik-ondemand-plugin/issues/6) in [acouvreur/traefik-ondemand-plugin](https://github.com//acouvreur/traefik-ondemand-plugin)
+4. 🗣 Commented on [#11](https://github.com//acouvreur/traefik-ondemand-plugin/issues/11) in [acouvreur/traefik-ondemand-plugin](https://github.com//acouvreur/traefik-ondemand-plugin)
+5. ❗️ Opened issue [#11](https://github.com//acouvreur/traefik-ondemand-plugin/issues/11) in [acouvreur/traefik-ondemand-plugin](https://github.com//acouvreur/traefik-ondemand-plugin)
 <!--END_SECTION:activity-->
 
 
