@@ -55,11 +55,11 @@ I also provide for free a [GitLab Instance](https://git.nocturlab.fr) with free 
 
 ### - 🚀🔥 Recent Activity!
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#80](https://github.com//tg123/sshpiper/issues/80) in [tg123/sshpiper](https://github.com//tg123/sshpiper)
-2. 🗣 Commented on [#79](https://github.com//tg123/sshpiper/issues/79) in [tg123/sshpiper](https://github.com//tg123/sshpiper)
-3. 🎉 Merged PR [#184](https://github.com//nocturlab/setup-vlang-action/pull/184) in [nocturlab/setup-vlang-action](https://github.com//nocturlab/setup-vlang-action)
-4. 💪 Opened PR [#60](https://github.com//lenra-io/components-api/pull/60) in [lenra-io/components-api](https://github.com//lenra-io/components-api)
-5. 🗣 Commented on [#94](https://github.com//vlang/gitly/issues/94) in [vlang/gitly](https://github.com//vlang/gitly)
+1. 🗣 Commented on [#79](https://github.com//tg123/sshpiper/issues/79) in [tg123/sshpiper](https://github.com//tg123/sshpiper)
+2. 🗣 Commented on [#80](https://github.com//tg123/sshpiper/issues/80) in [tg123/sshpiper](https://github.com//tg123/sshpiper)
+3. 🗣 Commented on [#79](https://github.com//tg123/sshpiper/issues/79) in [tg123/sshpiper](https://github.com//tg123/sshpiper)
+4. 🎉 Merged PR [#184](https://github.com//nocturlab/setup-vlang-action/pull/184) in [nocturlab/setup-vlang-action](https://github.com//nocturlab/setup-vlang-action)
+5. 💪 Opened PR [#60](https://github.com//lenra-io/components-api/pull/60) in [lenra-io/components-api](https://github.com//lenra-io/components-api)
 <!--END_SECTION:activity-->
 
 
