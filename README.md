@@ -55,11 +55,11 @@ I also provide for free a [GitLab Instance](https://git.nocturlab.fr) with free 
 
 ### - 🚀🔥 Recent Activity!
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com//bucket-lang/.b-examples/pull/1) in [bucket-lang/.b-examples](https://github.com//bucket-lang/.b-examples)
-2. 💪 Opened PR [#1](https://github.com//bucket-lang/.b-examples/pull/1) in [bucket-lang/.b-examples](https://github.com//bucket-lang/.b-examples)
-3. ❗️ Opened issue [#18](https://github.com//jkalias/functional_vector/issues/18) in [jkalias/functional_vector](https://github.com//jkalias/functional_vector)
-4. 🗣 Commented on [#79](https://github.com//tg123/sshpiper/issues/79) in [tg123/sshpiper](https://github.com//tg123/sshpiper)
-5. 🗣 Commented on [#80](https://github.com//tg123/sshpiper/issues/80) in [tg123/sshpiper](https://github.com//tg123/sshpiper)
+1. 💪 Opened PR [#2](https://github.com//bucket-lang/.b-examples/pull/2) in [bucket-lang/.b-examples](https://github.com//bucket-lang/.b-examples)
+2. 🎉 Merged PR [#1](https://github.com//bucket-lang/.b-examples/pull/1) in [bucket-lang/.b-examples](https://github.com//bucket-lang/.b-examples)
+3. 💪 Opened PR [#1](https://github.com//bucket-lang/.b-examples/pull/1) in [bucket-lang/.b-examples](https://github.com//bucket-lang/.b-examples)
+4. ❗️ Opened issue [#18](https://github.com//jkalias/functional_vector/issues/18) in [jkalias/functional_vector](https://github.com//jkalias/functional_vector)
+5. 🗣 Commented on [#79](https://github.com//tg123/sshpiper/issues/79) in [tg123/sshpiper](https://github.com//tg123/sshpiper)
 <!--END_SECTION:activity-->
 
 
