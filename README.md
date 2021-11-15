@@ -14,9 +14,7 @@ My main competances was in Sys-Admin and bakcend development. But I do website i
 
 My mains project are in V but sometimes I do Dart (and Flutter), Go, TypeScript (Deno and Node), Java (Springboot or not), C#, bash, and C/C++.
 
-I provide for free the Nocturlab Federated Instances ([PeerTube](https://tube.nocturlab.fr), [NextCloud](https://cloud.nocturlab.fr), [Mastodon](https://cloud.nocturlab.fr), ...)
-
-I also provide for free a [GitLab Instance](https://git.nocturlab.fr) with free Pipelines. In far furure, It probably be archived (but I keed it online) and replaced by a [Gitly Instance](https://github.com/vlang/gitly).
+I provide for free the Nocturlab Federated Instances ([PeerTube](https://tube.nocturlab.fr), [NextCloud](https://cloud.nocturlab.fr), [Matrix](https://talk.nocturlab.fr), ...)
 
 ### - Here are some quick news about me:
 
