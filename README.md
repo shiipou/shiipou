@@ -55,11 +55,11 @@ I also provide for free a [GitLab Instance](https://git.nocturlab.fr) with free 
 
 ### - 🚀🔥 Recent Activity!
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#18](https://github.com//jkalias/functional_vector/issues/18) in [jkalias/functional_vector](https://github.com//jkalias/functional_vector)
-2. 🗣 Commented on [#18](https://github.com//jkalias/functional_vector/issues/18) in [jkalias/functional_vector](https://github.com//jkalias/functional_vector)
-3. 💪 Opened PR [#2](https://github.com//bucket-lang/.b-examples/pull/2) in [bucket-lang/.b-examples](https://github.com//bucket-lang/.b-examples)
-4. 🎉 Merged PR [#1](https://github.com//bucket-lang/.b-examples/pull/1) in [bucket-lang/.b-examples](https://github.com//bucket-lang/.b-examples)
-5. 💪 Opened PR [#1](https://github.com//bucket-lang/.b-examples/pull/1) in [bucket-lang/.b-examples](https://github.com//bucket-lang/.b-examples)
+1. ❗️ Opened issue [#17](https://github.com//lenra-io/templates/issues/17) in [lenra-io/templates](https://github.com//lenra-io/templates)
+2. ❗️ Closed issue [#18](https://github.com//jkalias/functional_vector/issues/18) in [jkalias/functional_vector](https://github.com//jkalias/functional_vector)
+3. 🗣 Commented on [#18](https://github.com//jkalias/functional_vector/issues/18) in [jkalias/functional_vector](https://github.com//jkalias/functional_vector)
+4. 💪 Opened PR [#2](https://github.com//bucket-lang/.b-examples/pull/2) in [bucket-lang/.b-examples](https://github.com//bucket-lang/.b-examples)
+5. 🎉 Merged PR [#1](https://github.com//bucket-lang/.b-examples/pull/1) in [bucket-lang/.b-examples](https://github.com//bucket-lang/.b-examples)
 <!--END_SECTION:activity-->
 
 
