@@ -54,10 +54,10 @@ I provide for free the Nocturlab Federated Instances ([PeerTube](https://tube.no
 ### - 🚀🔥 Recent Activity!
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1243](https://github.com//JanDeDobbeleer/oh-my-posh/issues/1243) in [JanDeDobbeleer/oh-my-posh](https://github.com//JanDeDobbeleer/oh-my-posh)
-2. 💪 Opened PR [#1244](https://github.com//JanDeDobbeleer/oh-my-posh/pull/1244) in [JanDeDobbeleer/oh-my-posh](https://github.com//JanDeDobbeleer/oh-my-posh)
-3. ❗️ Opened issue [#1243](https://github.com//JanDeDobbeleer/oh-my-posh/issues/1243) in [JanDeDobbeleer/oh-my-posh](https://github.com//JanDeDobbeleer/oh-my-posh)
-4. 🎉 Merged PR [#185](https://github.com//nocturlab/setup-vlang-action/pull/185) in [nocturlab/setup-vlang-action](https://github.com//nocturlab/setup-vlang-action)
-5. ❗️ Opened issue [#17](https://github.com//lenra-io/templates/issues/17) in [lenra-io/templates](https://github.com//lenra-io/templates)
+2. 🗣 Commented on [#1243](https://github.com//JanDeDobbeleer/oh-my-posh/issues/1243) in [JanDeDobbeleer/oh-my-posh](https://github.com//JanDeDobbeleer/oh-my-posh)
+3. 💪 Opened PR [#1244](https://github.com//JanDeDobbeleer/oh-my-posh/pull/1244) in [JanDeDobbeleer/oh-my-posh](https://github.com//JanDeDobbeleer/oh-my-posh)
+4. ❗️ Opened issue [#1243](https://github.com//JanDeDobbeleer/oh-my-posh/issues/1243) in [JanDeDobbeleer/oh-my-posh](https://github.com//JanDeDobbeleer/oh-my-posh)
+5. 🎉 Merged PR [#185](https://github.com//nocturlab/setup-vlang-action/pull/185) in [nocturlab/setup-vlang-action](https://github.com//nocturlab/setup-vlang-action)
 <!--END_SECTION:activity-->
 
 
