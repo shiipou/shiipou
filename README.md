@@ -53,11 +53,11 @@ I provide for free the Nocturlab Federated Instances ([PeerTube](https://tube.no
 
 ### - 🚀🔥 Recent Activity!
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3](https://github.com//lenra-io/create-or-update-pr-action/issues/3) in [lenra-io/create-or-update-pr-action](https://github.com//lenra-io/create-or-update-pr-action)
-2. 🗣 Commented on [#1243](https://github.com//JanDeDobbeleer/oh-my-posh/issues/1243) in [JanDeDobbeleer/oh-my-posh](https://github.com//JanDeDobbeleer/oh-my-posh)
+1. ❗️ Opened issue [#4](https://github.com//lenra-io/create-or-update-pr-action/issues/4) in [lenra-io/create-or-update-pr-action](https://github.com//lenra-io/create-or-update-pr-action)
+2. ❗️ Opened issue [#3](https://github.com//lenra-io/create-or-update-pr-action/issues/3) in [lenra-io/create-or-update-pr-action](https://github.com//lenra-io/create-or-update-pr-action)
 3. 🗣 Commented on [#1243](https://github.com//JanDeDobbeleer/oh-my-posh/issues/1243) in [JanDeDobbeleer/oh-my-posh](https://github.com//JanDeDobbeleer/oh-my-posh)
-4. 🗣 Commented on [#74](https://github.com//lenra-io/components-api/issues/74) in [lenra-io/components-api](https://github.com//lenra-io/components-api)
-5. 🗣 Commented on [#75](https://github.com//lenra-io/components-api/issues/75) in [lenra-io/components-api](https://github.com//lenra-io/components-api)
+4. 🗣 Commented on [#1243](https://github.com//JanDeDobbeleer/oh-my-posh/issues/1243) in [JanDeDobbeleer/oh-my-posh](https://github.com//JanDeDobbeleer/oh-my-posh)
+5. 🗣 Commented on [#74](https://github.com//lenra-io/components-api/issues/74) in [lenra-io/components-api](https://github.com//lenra-io/components-api)
 <!--END_SECTION:activity-->
 
 
