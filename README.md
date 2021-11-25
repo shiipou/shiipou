@@ -65,8 +65,8 @@ I provide for free the Nocturlab Federated Instances ([PeerTube](https://tube.no
 <a href="https://github.com/nocturlab/vi-v">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=nocturlab&show_icons=true&theme=tokyonight&repo=vi-v" /
 </a>
-<a href="https://github.com/docker-clyde/clyde-server ">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=docker-clyde&show_icons=true&theme=tokyonight&repo=clyde-server" />
+<a href="https://github.com/shiipou/nocturlab-panel ">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=shiipou&show_icons=true&theme=tokyonight&repo=nocturlab-panel" />
 </a>
 
 <br />
