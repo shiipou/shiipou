@@ -53,11 +53,11 @@ I provide for free the Nocturlab Federated Instances ([PeerTube](https://tube.no
 
 ### - 🚀🔥 Recent Activity!
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#82](https://github.com//lenra-io/components-api/issues/82) in [lenra-io/components-api](https://github.com//lenra-io/components-api)
-2. 💪 Opened PR [#1](https://github.com//shiipou/pterodactyl-eggs/pull/1) in [shiipou/pterodactyl-eggs](https://github.com//shiipou/pterodactyl-eggs)
-3. ❗️ Opened issue [#4](https://github.com//lenra-io/create-or-update-pr-action/issues/4) in [lenra-io/create-or-update-pr-action](https://github.com//lenra-io/create-or-update-pr-action)
-4. ❗️ Opened issue [#3](https://github.com//lenra-io/create-or-update-pr-action/issues/3) in [lenra-io/create-or-update-pr-action](https://github.com//lenra-io/create-or-update-pr-action)
-5. 🗣 Commented on [#1243](https://github.com//JanDeDobbeleer/oh-my-posh/issues/1243) in [JanDeDobbeleer/oh-my-posh](https://github.com//JanDeDobbeleer/oh-my-posh)
+1. 🎉 Merged PR [#189](https://github.com//nocturlab/setup-vlang-action/pull/189) in [nocturlab/setup-vlang-action](https://github.com//nocturlab/setup-vlang-action)
+2. 🗣 Commented on [#82](https://github.com//lenra-io/components-api/issues/82) in [lenra-io/components-api](https://github.com//lenra-io/components-api)
+3. 💪 Opened PR [#1](https://github.com//shiipou/pterodactyl-eggs/pull/1) in [shiipou/pterodactyl-eggs](https://github.com//shiipou/pterodactyl-eggs)
+4. ❗️ Opened issue [#4](https://github.com//lenra-io/create-or-update-pr-action/issues/4) in [lenra-io/create-or-update-pr-action](https://github.com//lenra-io/create-or-update-pr-action)
+5. ❗️ Opened issue [#3](https://github.com//lenra-io/create-or-update-pr-action/issues/3) in [lenra-io/create-or-update-pr-action](https://github.com//lenra-io/create-or-update-pr-action)
 <!--END_SECTION:activity-->
 
 
