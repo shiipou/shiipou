@@ -2,6 +2,10 @@
 
 ## - About Myself
 
+| ⚡ Stats ⚡ | 🔥 Streak 🔥 |
+| :-: | :-: |
+| ![arndom's github stats](https://github-readme-stats.vercel.app/api?username=shiipou&show_icons=true&count_private=true&hide_border=true&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&bg_color=0d1117) | [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shiipou&theme=tokyonight_duo&hide_border=true&background=0D1117)](https://git.io/streak-stats) |
+
 ### - *`/bin/sh -c whoami`*
 
 I'm **[Shiishii](https://github.com/shiipou/shiipou)**. I'm a 25 year old `Ninja` who always work on too big projects, but I want them to succeed !
@@ -16,6 +20,7 @@ My mains project are in V but sometimes I do Dart (and Flutter), Go, TypeScript 
 
 I provide for free the Nocturlab Federated Instances ([PeerTube](https://tube.nocturlab.fr), [NextCloud](https://cloud.nocturlab.fr), [Matrix](https://talk.nocturlab.fr), ...)
 
+
 ### - Here are some quick news about me:
 
 - 🔭 I’m currently working on [Vi-v](https://github.com/nocturlab/vi-v) <!--- 🌱 I’m currently learning [Flutter](https://flutter.dev/) -->
@@ -24,27 +29,6 @@ I provide for free the Nocturlab Federated Instances ([PeerTube](https://tube.no
 - 📫 How to reach me: [Twitter (@nocturlab)](https://twitter.com/nocturlab) [Mastodon (@shiishii@cloud.nocturlab.fr)](https://cloud.nocturlab.fr/apps/social/@shiishii@cloud.nocturlab.fr/) [Nextcloud Talk (@shiishii)](https://cloud.nocturlab.fr/call/cxzp5j46)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Most Developers refer to themselves professionally as `Developers`. But some prefer to be called `Ninja`.
-
-### - Some stats :
-<a href="https://github.com/shiipou">
-  <img align="left" alt="Shiipou's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=shiipou&show_icons=true&theme=tokyonight" />
-</a>
-<a href="https://github.com/shiipou">
-  <img align="right" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiipou&show_icons=true&theme=tokyonight" />
-</a>
-
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
 
 ### - People I sponsor :
 <a href="https://github.com/medvednikov">
