@@ -25,7 +25,7 @@ I provide for free the Nocturlab Federated Instances ([PeerTube](https://tube.no
 
 ### - Here are some quick news about me:
 
-- 🔭 I’m currently working on [Vi-v](https://github.com/nocturlab/vi-v) <!--- 🌱 I’m currently learning [Flutter](https://flutter.dev/) -->
+- 🔭 I’m currently working on [Nocturlab Panel](https://github.com/shiipou/nocturlab-panel) and [Vi-v](https://github.com/nocturlab/vi-v) <!--- 🌱 I’m currently learning [Flutter](https://flutter.dev/) -->
 - 👯 I’m looking to collaborate on multi-plateform UI library using canvas.
 - 💬 Ask me about anything
 - 📫 How to reach me: [Twitter (@nocturlab)](https://twitter.com/nocturlab) [Mastodon (@shiishii@cloud.nocturlab.fr)](https://cloud.nocturlab.fr/apps/social/@shiishii@cloud.nocturlab.fr/) [Nextcloud Talk (@shiishii)](https://cloud.nocturlab.fr/call/cxzp5j46)
