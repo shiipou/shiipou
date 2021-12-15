@@ -39,11 +39,11 @@ I provide for free the Nocturlab Federated Instances ([PeerTube](https://tube.no
 
 ### - 🚀🔥 Recent Activity!
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#19](https://github.com//lenra-io/templates/pull/19) in [lenra-io/templates](https://github.com//lenra-io/templates)
-2. 💪 Opened PR [#19](https://github.com//lenra-io/templates/pull/19) in [lenra-io/templates](https://github.com//lenra-io/templates)
-3. 💪 Opened PR [#18](https://github.com//lenra-io/templates/pull/18) in [lenra-io/templates](https://github.com//lenra-io/templates)
-4. 🗣 Commented on [#2](https://github.com//lenra-io/create-or-update-pr-action/issues/2) in [lenra-io/create-or-update-pr-action](https://github.com//lenra-io/create-or-update-pr-action)
-5. ❗️ Closed issue [#4](https://github.com//lenra-io/create-or-update-pr-action/issues/4) in [lenra-io/create-or-update-pr-action](https://github.com//lenra-io/create-or-update-pr-action)
+1. 🗣 Commented on [#86](https://github.com//lenra-io/components-api/issues/86) in [lenra-io/components-api](https://github.com//lenra-io/components-api)
+2. 🗣 Commented on [#87](https://github.com//lenra-io/components-api/issues/87) in [lenra-io/components-api](https://github.com//lenra-io/components-api)
+3. 🎉 Merged PR [#19](https://github.com//lenra-io/templates/pull/19) in [lenra-io/templates](https://github.com//lenra-io/templates)
+4. 💪 Opened PR [#19](https://github.com//lenra-io/templates/pull/19) in [lenra-io/templates](https://github.com//lenra-io/templates)
+5. 💪 Opened PR [#18](https://github.com//lenra-io/templates/pull/18) in [lenra-io/templates](https://github.com//lenra-io/templates)
 <!--END_SECTION:activity-->
 
 
