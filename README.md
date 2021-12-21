@@ -2,6 +2,8 @@
 
 ## - About Myself
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 | ⚡ Stats ⚡ | 🔥 Streak 🔥 |
 | :-: | :-: |
 | ![shiipou's github stats](https://github-readme-stats.vercel.app/api?username=shiipou&show_icons=true&count_private=true&hide_border=true&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&bg_color=0d1117) | [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shiipou&theme=tokyonight_duo&hide_border=true&background=0D1117)](https://git.io/streak-stats) |
