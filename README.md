@@ -42,10 +42,10 @@ I provide for free the Nocturlab Federated Instances ([PeerTube](https://tube.no
 ### - 🚀🔥 Recent Activity!
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#317](https://github.com//zekroTJA/shinpuru/issues/317) in [zekroTJA/shinpuru](https://github.com//zekroTJA/shinpuru)
-2. ❗️ Opened issue [#317](https://github.com//zekroTJA/shinpuru/issues/317) in [zekroTJA/shinpuru](https://github.com//zekroTJA/shinpuru)
-3. 🎉 Merged PR [#20](https://github.com//lenra-io/templates/pull/20) in [lenra-io/templates](https://github.com//lenra-io/templates)
-4. 💪 Opened PR [#20](https://github.com//lenra-io/templates/pull/20) in [lenra-io/templates](https://github.com//lenra-io/templates)
-5. 🎉 Merged PR [#198](https://github.com//nocturlab/setup-vlang-action/pull/198) in [nocturlab/setup-vlang-action](https://github.com//nocturlab/setup-vlang-action)
+2. 🗣 Commented on [#317](https://github.com//zekroTJA/shinpuru/issues/317) in [zekroTJA/shinpuru](https://github.com//zekroTJA/shinpuru)
+3. ❗️ Opened issue [#317](https://github.com//zekroTJA/shinpuru/issues/317) in [zekroTJA/shinpuru](https://github.com//zekroTJA/shinpuru)
+4. 🎉 Merged PR [#20](https://github.com//lenra-io/templates/pull/20) in [lenra-io/templates](https://github.com//lenra-io/templates)
+5. 💪 Opened PR [#20](https://github.com//lenra-io/templates/pull/20) in [lenra-io/templates](https://github.com//lenra-io/templates)
 <!--END_SECTION:activity-->
 
 
