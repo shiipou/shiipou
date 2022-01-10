@@ -41,11 +41,11 @@ I provide for free the Nocturlab Federated Instances ([PeerTube](https://tube.no
 
 ### - 🚀🔥 Recent Activity!
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#59](https://github.com//lenra-io/components-api/issues/59) in [lenra-io/components-api](https://github.com//lenra-io/components-api)
-2. 🗣 Commented on [#215](https://github.com//zekroTJA/shinpuru/issues/215) in [zekroTJA/shinpuru](https://github.com//zekroTJA/shinpuru)
-3. 🎉 Merged PR [#200](https://github.com//nocturlab/setup-vlang-action/pull/200) in [nocturlab/setup-vlang-action](https://github.com//nocturlab/setup-vlang-action)
-4. 🗣 Commented on [#67](https://github.com//lenra-io/components-api/issues/67) in [lenra-io/components-api](https://github.com//lenra-io/components-api)
-5. 🗣 Commented on [#88](https://github.com//lenra-io/components-api/issues/88) in [lenra-io/components-api](https://github.com//lenra-io/components-api)
+1. 🗣 Commented on [#95](https://github.com//lenra-io/components-api/issues/95) in [lenra-io/components-api](https://github.com//lenra-io/components-api)
+2. 🗣 Commented on [#59](https://github.com//lenra-io/components-api/issues/59) in [lenra-io/components-api](https://github.com//lenra-io/components-api)
+3. 🗣 Commented on [#215](https://github.com//zekroTJA/shinpuru/issues/215) in [zekroTJA/shinpuru](https://github.com//zekroTJA/shinpuru)
+4. 🎉 Merged PR [#200](https://github.com//nocturlab/setup-vlang-action/pull/200) in [nocturlab/setup-vlang-action](https://github.com//nocturlab/setup-vlang-action)
+5. 🗣 Commented on [#67](https://github.com//lenra-io/components-api/issues/67) in [lenra-io/components-api](https://github.com//lenra-io/components-api)
 <!--END_SECTION:activity-->
 
 
