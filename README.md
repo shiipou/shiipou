@@ -41,11 +41,11 @@ I provide for free the Nocturlab Federated Instances ([PeerTube](https://tube.no
 
 ### - 🚀🔥 Recent Activity!
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#202](https://github.com//nocturlab/setup-vlang-action/pull/202) in [nocturlab/setup-vlang-action](https://github.com//nocturlab/setup-vlang-action)
-2. 🎉 Merged PR [#203](https://github.com//nocturlab/setup-vlang-action/pull/203) in [nocturlab/setup-vlang-action](https://github.com//nocturlab/setup-vlang-action)
-3. 🎉 Merged PR [#201](https://github.com//nocturlab/setup-vlang-action/pull/201) in [nocturlab/setup-vlang-action](https://github.com//nocturlab/setup-vlang-action)
-4. 💪 Opened PR [#22](https://github.com//lenra-io/templates/pull/22) in [lenra-io/templates](https://github.com//lenra-io/templates)
-5. 🗣 Commented on [#95](https://github.com//lenra-io/components-api/issues/95) in [lenra-io/components-api](https://github.com//lenra-io/components-api)
+1. 🎉 Merged PR [#204](https://github.com//nocturlab/setup-vlang-action/pull/204) in [nocturlab/setup-vlang-action](https://github.com//nocturlab/setup-vlang-action)
+2. 🎉 Merged PR [#202](https://github.com//nocturlab/setup-vlang-action/pull/202) in [nocturlab/setup-vlang-action](https://github.com//nocturlab/setup-vlang-action)
+3. 🎉 Merged PR [#203](https://github.com//nocturlab/setup-vlang-action/pull/203) in [nocturlab/setup-vlang-action](https://github.com//nocturlab/setup-vlang-action)
+4. 🎉 Merged PR [#201](https://github.com//nocturlab/setup-vlang-action/pull/201) in [nocturlab/setup-vlang-action](https://github.com//nocturlab/setup-vlang-action)
+5. 💪 Opened PR [#22](https://github.com//lenra-io/templates/pull/22) in [lenra-io/templates](https://github.com//lenra-io/templates)
 <!--END_SECTION:activity-->
 
 
