@@ -41,11 +41,11 @@ I provide for free the Nocturlab Federated Instances ([PeerTube](https://tube.no
 
 ### - 🚀🔥 Recent Activity!
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com//EvntBoard/application/pull/3) in [EvntBoard/application](https://github.com//EvntBoard/application)
-2. 🎉 Merged PR [#205](https://github.com//nocturlab/setup-vlang-action/pull/205) in [nocturlab/setup-vlang-action](https://github.com//nocturlab/setup-vlang-action)
-3. 🎉 Merged PR [#12](https://github.com//shiipou/setup-yq-action/pull/12) in [shiipou/setup-yq-action](https://github.com//shiipou/setup-yq-action)
-4. 💪 Opened PR [#12](https://github.com//shiipou/setup-yq-action/pull/12) in [shiipou/setup-yq-action](https://github.com//shiipou/setup-yq-action)
-5. 🎉 Merged PR [#11](https://github.com//shiipou/setup-yq-action/pull/11) in [shiipou/setup-yq-action](https://github.com//shiipou/setup-yq-action)
+1. 🗣 Commented on [#3](https://github.com//EvntBoard/application/issues/3) in [EvntBoard/application](https://github.com//EvntBoard/application)
+2. 💪 Opened PR [#3](https://github.com//EvntBoard/application/pull/3) in [EvntBoard/application](https://github.com//EvntBoard/application)
+3. 🎉 Merged PR [#205](https://github.com//nocturlab/setup-vlang-action/pull/205) in [nocturlab/setup-vlang-action](https://github.com//nocturlab/setup-vlang-action)
+4. 🎉 Merged PR [#12](https://github.com//shiipou/setup-yq-action/pull/12) in [shiipou/setup-yq-action](https://github.com//shiipou/setup-yq-action)
+5. 💪 Opened PR [#12](https://github.com//shiipou/setup-yq-action/pull/12) in [shiipou/setup-yq-action](https://github.com//shiipou/setup-yq-action)
 <!--END_SECTION:activity-->
 
 
