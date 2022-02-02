@@ -41,11 +41,11 @@ I provide for free the Nocturlab Federated Instances ([PeerTube](https://tube.no
 
 ### - 🚀🔥 Recent Activity!
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#206](https://github.com//nocturlab/setup-vlang-action/pull/206) in [nocturlab/setup-vlang-action](https://github.com//nocturlab/setup-vlang-action)
-2. 💪 Opened PR [#1](https://github.com//shiipou/my-core-code/pull/1) in [shiipou/my-core-code](https://github.com//shiipou/my-core-code)
-3. 💪 Opened PR [#1](https://github.com//shiipou/my-dev-app/pull/1) in [shiipou/my-dev-app](https://github.com//shiipou/my-dev-app)
-4. 🗣 Commented on [#3](https://github.com//EvntBoard/application/issues/3) in [EvntBoard/application](https://github.com//EvntBoard/application)
-5. 💪 Opened PR [#3](https://github.com//EvntBoard/application/pull/3) in [EvntBoard/application](https://github.com//EvntBoard/application)
+1. 🎉 Merged PR [#207](https://github.com//nocturlab/setup-vlang-action/pull/207) in [nocturlab/setup-vlang-action](https://github.com//nocturlab/setup-vlang-action)
+2. 🎉 Merged PR [#206](https://github.com//nocturlab/setup-vlang-action/pull/206) in [nocturlab/setup-vlang-action](https://github.com//nocturlab/setup-vlang-action)
+3. 💪 Opened PR [#1](https://github.com//shiipou/my-core-code/pull/1) in [shiipou/my-core-code](https://github.com//shiipou/my-core-code)
+4. 💪 Opened PR [#1](https://github.com//shiipou/my-dev-app/pull/1) in [shiipou/my-dev-app](https://github.com//shiipou/my-dev-app)
+5. 🗣 Commented on [#3](https://github.com//EvntBoard/application/issues/3) in [EvntBoard/application](https://github.com//EvntBoard/application)
 <!--END_SECTION:activity-->
 
 
