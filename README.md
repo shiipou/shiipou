@@ -36,9 +36,9 @@ I provide for free the Nocturlab Federated Instances ([PeerTube](https://tube.no
 
 ### - 🚀🔥 Recent Activity!
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com//lenra-io/create-or-update-pr-action/pull/6) in [lenra-io/create-or-update-pr-action](https://github.com//lenra-io/create-or-update-pr-action)
-2. ❗️ Closed issue [#5](https://github.com//lenra-io/create-or-update-pr-action/issues/5) in [lenra-io/create-or-update-pr-action](https://github.com//lenra-io/create-or-update-pr-action)
-3. 🎉 Merged PR [#2](https://github.com//shiipou/workflows/pull/2) in [shiipou/workflows](https://github.com//shiipou/workflows)
-4. ❌ Closed PR [#1](https://github.com//shiipou/workflows/pull/1) in [shiipou/workflows](https://github.com//shiipou/workflows)
-5. 💪 Opened PR [#6](https://github.com//lenra-io/create-or-update-pr-action/pull/6) in [lenra-io/create-or-update-pr-action](https://github.com//lenra-io/create-or-update-pr-action)
+1. 🗣 Commented on [#6](https://github.com//lenra-io/create-or-update-pr-action/issues/6) in [lenra-io/create-or-update-pr-action](https://github.com//lenra-io/create-or-update-pr-action)
+2. 🗣 Commented on [#5](https://github.com//lenra-io/create-or-update-pr-action/issues/5) in [lenra-io/create-or-update-pr-action](https://github.com//lenra-io/create-or-update-pr-action)
+3. 🎉 Merged PR [#6](https://github.com//lenra-io/create-or-update-pr-action/pull/6) in [lenra-io/create-or-update-pr-action](https://github.com//lenra-io/create-or-update-pr-action)
+4. ❗️ Closed issue [#5](https://github.com//lenra-io/create-or-update-pr-action/issues/5) in [lenra-io/create-or-update-pr-action](https://github.com//lenra-io/create-or-update-pr-action)
+5. 🎉 Merged PR [#2](https://github.com//shiipou/workflows/pull/2) in [shiipou/workflows](https://github.com//shiipou/workflows)
 <!--END_SECTION:activity-->
