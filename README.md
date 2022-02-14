@@ -34,11 +34,6 @@ I provide for free the Nocturlab Federated Instances ([PeerTube](https://tube.no
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Most Developers refer to themselves professionally as `Developers`. But some prefer to be called `Ninja`.
 
-### - People I sponsor :
-<a href="https://github.com/medvednikov">
-  <img alt="Medvednikov's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=medvednikov&show_icons=true&theme=tokyonight" />
-</a>
-
 ### - 🚀🔥 Recent Activity!
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#6](https://github.com//lenra-io/create-or-update-pr-action/pull/6) in [lenra-io/create-or-update-pr-action](https://github.com//lenra-io/create-or-update-pr-action)
@@ -47,43 +42,3 @@ I provide for free the Nocturlab Federated Instances ([PeerTube](https://tube.no
 4. ❌ Closed PR [#1](https://github.com//shiipou/workflows/pull/1) in [shiipou/workflows](https://github.com//shiipou/workflows)
 5. 💪 Opened PR [#6](https://github.com//lenra-io/create-or-update-pr-action/pull/6) in [lenra-io/create-or-update-pr-action](https://github.com//lenra-io/create-or-update-pr-action)
 <!--END_SECTION:activity-->
-
-
-### - Some of my Projects : 
-<a href="https://github.com/nocturlab/vi-v">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=nocturlab&show_icons=true&theme=tokyonight&repo=vi-v" /
-</a>
-<a href="https://github.com/shiipou/nocturlab-panel ">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=shiipou&show_icons=true&theme=tokyonight&repo=nocturlab-panel" />
-</a>
-
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-
-### - Someone else cool Projects : 
-<a href="https://github.com/vlang/v">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=vlang&show_icons=true&theme=tokyonight&repo=v" />
-</a>
-<a href="https://github.com/vlang/gitly">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=vlang&show_icons=true&theme=tokyonight&repo=gitly" />
-</a>
-
-
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-
-<a href="https://github.com/Chocobozzz/PeerTube">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Chocobozzz&show_icons=true&theme=tokyonight&repo=PeerTube" />
-</a>
