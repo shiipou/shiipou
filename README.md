@@ -36,9 +36,9 @@ I provide for free the Nocturlab Federated Instances ([PeerTube](https://tube.no
 
 ### - 🚀🔥 Recent Activity!
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com//shiipou/desktop-app/pull/1) in [shiipou/desktop-app](https://github.com//shiipou/desktop-app)
-2. 🗣 Commented on [#1](https://github.com//shiipou/desktop-app/issues/1) in [shiipou/desktop-app](https://github.com//shiipou/desktop-app)
-3. ❌ Closed PR [#1](https://github.com//shiipou/core-code/pull/1) in [shiipou/core-code](https://github.com//shiipou/core-code)
-4. 🎉 Merged PR [#212](https://github.com//nocturlab/setup-vlang-action/pull/212) in [nocturlab/setup-vlang-action](https://github.com//nocturlab/setup-vlang-action)
-5. 💪 Opened PR [#7](https://github.com//lenra-io/create-or-update-pr-action/pull/7) in [lenra-io/create-or-update-pr-action](https://github.com//lenra-io/create-or-update-pr-action)
+1. 🗣 Commented on [#2](https://github.com//shiipou/core-code/issues/2) in [shiipou/core-code](https://github.com//shiipou/core-code)
+2. 🎉 Merged PR [#2](https://github.com//shiipou/core-code/pull/2) in [shiipou/core-code](https://github.com//shiipou/core-code)
+3. 💪 Opened PR [#2](https://github.com//shiipou/core-code/pull/2) in [shiipou/core-code](https://github.com//shiipou/core-code)
+4. ❌ Closed PR [#1](https://github.com//shiipou/desktop-app/pull/1) in [shiipou/desktop-app](https://github.com//shiipou/desktop-app)
+5. 🗣 Commented on [#1](https://github.com//shiipou/desktop-app/issues/1) in [shiipou/desktop-app](https://github.com//shiipou/desktop-app)
 <!--END_SECTION:activity-->
