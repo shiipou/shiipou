@@ -36,9 +36,9 @@ I provide for free the Nocturlab Federated Instances ([PeerTube](https://tube.no
 
 ### - 🚀🔥 Recent Activity!
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#5](https://github.com//shiipou/core-code/pull/5) in [shiipou/core-code](https://github.com//shiipou/core-code)
-2. 💪 Opened PR [#5](https://github.com//shiipou/core-code/pull/5) in [shiipou/core-code](https://github.com//shiipou/core-code)
-3. ❌ Closed PR [#4](https://github.com//shiipou/core-code/pull/4) in [shiipou/core-code](https://github.com//shiipou/core-code)
-4. 🗣 Commented on [#4](https://github.com//shiipou/core-code/issues/4) in [shiipou/core-code](https://github.com//shiipou/core-code)
-5. 🗣 Commented on [#2](https://github.com//shiipou/protocol-lib/issues/2) in [shiipou/protocol-lib](https://github.com//shiipou/protocol-lib)
+1. 🗣 Commented on [#3](https://github.com//shiipou/protocol-lib/issues/3) in [shiipou/protocol-lib](https://github.com//shiipou/protocol-lib)
+2. 🎉 Merged PR [#3](https://github.com//shiipou/protocol-lib/pull/3) in [shiipou/protocol-lib](https://github.com//shiipou/protocol-lib)
+3. 💪 Opened PR [#6](https://github.com//shiipou/core-code/pull/6) in [shiipou/core-code](https://github.com//shiipou/core-code)
+4. 💪 Opened PR [#3](https://github.com//shiipou/protocol-lib/pull/3) in [shiipou/protocol-lib](https://github.com//shiipou/protocol-lib)
+5. ❌ Closed PR [#5](https://github.com//shiipou/core-code/pull/5) in [shiipou/core-code](https://github.com//shiipou/core-code)
 <!--END_SECTION:activity-->
