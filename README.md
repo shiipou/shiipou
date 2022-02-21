@@ -36,9 +36,9 @@ I provide for free the Nocturlab Federated Instances ([PeerTube](https://tube.no
 
 ### - 🚀🔥 Recent Activity!
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#96](https://github.com//lenra-io/components-api/issues/96) in [lenra-io/components-api](https://github.com//lenra-io/components-api)
-2. 💪 Opened PR [#5](https://github.com//shiipou/desktop-app/pull/5) in [shiipou/desktop-app](https://github.com//shiipou/desktop-app)
-3. 💪 Opened PR [#4](https://github.com//shiipou/web-app/pull/4) in [shiipou/web-app](https://github.com//shiipou/web-app)
-4. 💪 Opened PR [#3](https://github.com//shiipou/mobile-app/pull/3) in [shiipou/mobile-app](https://github.com//shiipou/mobile-app)
-5. 🗣 Commented on [#9](https://github.com//shiipou/core-code/issues/9) in [shiipou/core-code](https://github.com//shiipou/core-code)
+1. 💪 Opened PR [#31](https://github.com//lenra-io/templates/pull/31) in [lenra-io/templates](https://github.com//lenra-io/templates)
+2. 🗣 Commented on [#96](https://github.com//lenra-io/components-api/issues/96) in [lenra-io/components-api](https://github.com//lenra-io/components-api)
+3. 💪 Opened PR [#5](https://github.com//shiipou/desktop-app/pull/5) in [shiipou/desktop-app](https://github.com//shiipou/desktop-app)
+4. 💪 Opened PR [#4](https://github.com//shiipou/web-app/pull/4) in [shiipou/web-app](https://github.com//shiipou/web-app)
+5. 💪 Opened PR [#3](https://github.com//shiipou/mobile-app/pull/3) in [shiipou/mobile-app](https://github.com//shiipou/mobile-app)
 <!--END_SECTION:activity-->
