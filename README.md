@@ -36,9 +36,9 @@ I provide for free the Nocturlab Federated Instances ([PeerTube](https://tube.no
 
 ### - 🚀🔥 Recent Activity!
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com//shiipou/mobile-app/pull/1) in [shiipou/mobile-app](https://github.com//shiipou/mobile-app)
-2. 💪 Opened PR [#1](https://github.com//shiipou/web-app/pull/1) in [shiipou/web-app](https://github.com//shiipou/web-app)
-3. 🗣 Commented on [#6](https://github.com//shiipou/core-code/issues/6) in [shiipou/core-code](https://github.com//shiipou/core-code)
-4. 🎉 Merged PR [#6](https://github.com//shiipou/core-code/pull/6) in [shiipou/core-code](https://github.com//shiipou/core-code)
-5. 🗣 Commented on [#6](https://github.com//shiipou/core-code/issues/6) in [shiipou/core-code](https://github.com//shiipou/core-code)
+1. ❌ Closed PR [#7](https://github.com//shiipou/core-code/pull/7) in [shiipou/core-code](https://github.com//shiipou/core-code)
+2. 💪 Opened PR [#7](https://github.com//shiipou/core-code/pull/7) in [shiipou/core-code](https://github.com//shiipou/core-code)
+3. ❌ Closed PR [#2](https://github.com//shiipou/web-app/pull/2) in [shiipou/web-app](https://github.com//shiipou/web-app)
+4. 💪 Opened PR [#2](https://github.com//shiipou/web-app/pull/2) in [shiipou/web-app](https://github.com//shiipou/web-app)
+5. 💪 Opened PR [#3](https://github.com//shiipou/desktop-app/pull/3) in [shiipou/desktop-app](https://github.com//shiipou/desktop-app)
 <!--END_SECTION:activity-->
