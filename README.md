@@ -36,9 +36,9 @@ I provide for free the Nocturlab Federated Instances ([PeerTube](https://tube.no
 
 ### - 🚀🔥 Recent Activity!
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#213](https://github.com//nocturlab/setup-vlang-action/pull/213) in [nocturlab/setup-vlang-action](https://github.com//nocturlab/setup-vlang-action)
-2. 🗣 Commented on [#80](https://github.com//tg123/sshpiper/issues/80) in [tg123/sshpiper](https://github.com//tg123/sshpiper)
-3. 💪 Opened PR [#31](https://github.com//lenra-io/templates/pull/31) in [lenra-io/templates](https://github.com//lenra-io/templates)
-4. 🗣 Commented on [#96](https://github.com//lenra-io/components-api/issues/96) in [lenra-io/components-api](https://github.com//lenra-io/components-api)
-5. 💪 Opened PR [#5](https://github.com//shiipou/desktop-app/pull/5) in [shiipou/desktop-app](https://github.com//shiipou/desktop-app)
+1. 💪 Opened PR [#32](https://github.com//lenra-io/templates/pull/32) in [lenra-io/templates](https://github.com//lenra-io/templates)
+2. 🎉 Merged PR [#213](https://github.com//nocturlab/setup-vlang-action/pull/213) in [nocturlab/setup-vlang-action](https://github.com//nocturlab/setup-vlang-action)
+3. 🗣 Commented on [#80](https://github.com//tg123/sshpiper/issues/80) in [tg123/sshpiper](https://github.com//tg123/sshpiper)
+4. 💪 Opened PR [#31](https://github.com//lenra-io/templates/pull/31) in [lenra-io/templates](https://github.com//lenra-io/templates)
+5. 🗣 Commented on [#96](https://github.com//lenra-io/components-api/issues/96) in [lenra-io/components-api](https://github.com//lenra-io/components-api)
 <!--END_SECTION:activity-->
