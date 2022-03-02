@@ -36,9 +36,9 @@ I provide for free the Nocturlab Federated Instances ([PeerTube](https://tube.no
 
 ### - 🚀🔥 Recent Activity!
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#215](https://github.com//nocturlab/setup-vlang-action/pull/215) in [nocturlab/setup-vlang-action](https://github.com//nocturlab/setup-vlang-action)
-2. 🗣 Commented on [#1807](https://github.com//JanDeDobbeleer/oh-my-posh/issues/1807) in [JanDeDobbeleer/oh-my-posh](https://github.com//JanDeDobbeleer/oh-my-posh)
-3. 🎉 Merged PR [#33](https://github.com//lenra-io/templates/pull/33) in [lenra-io/templates](https://github.com//lenra-io/templates)
-4. ❗️ Closed issue [#26](https://github.com//lenra-io/templates/issues/26) in [lenra-io/templates](https://github.com//lenra-io/templates)
-5. 💪 Opened PR [#33](https://github.com//lenra-io/templates/pull/33) in [lenra-io/templates](https://github.com//lenra-io/templates)
+1. 🎉 Merged PR [#216](https://github.com//nocturlab/setup-vlang-action/pull/216) in [nocturlab/setup-vlang-action](https://github.com//nocturlab/setup-vlang-action)
+2. 🎉 Merged PR [#215](https://github.com//nocturlab/setup-vlang-action/pull/215) in [nocturlab/setup-vlang-action](https://github.com//nocturlab/setup-vlang-action)
+3. 🗣 Commented on [#1807](https://github.com//JanDeDobbeleer/oh-my-posh/issues/1807) in [JanDeDobbeleer/oh-my-posh](https://github.com//JanDeDobbeleer/oh-my-posh)
+4. 🎉 Merged PR [#33](https://github.com//lenra-io/templates/pull/33) in [lenra-io/templates](https://github.com//lenra-io/templates)
+5. ❗️ Closed issue [#26](https://github.com//lenra-io/templates/issues/26) in [lenra-io/templates](https://github.com//lenra-io/templates)
 <!--END_SECTION:activity-->
