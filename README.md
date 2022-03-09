@@ -38,7 +38,7 @@ I provide for free the Nocturlab Federated Instances ([PeerTube](https://tube.no
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#2373](https://github.com//Foundry376/Mailspring/issues/2373) in [Foundry376/Mailspring](https://github.com//Foundry376/Mailspring)
 2. 🗣 Commented on [#2373](https://github.com//Foundry376/Mailspring/issues/2373) in [Foundry376/Mailspring](https://github.com//Foundry376/Mailspring)
-3. 🗣 Commented on [#99](https://github.com//lenra-io/components-api/issues/99) in [lenra-io/components-api](https://github.com//lenra-io/components-api)
-4. 🗣 Commented on [#36](https://github.com//lenra-io/templates/issues/36) in [lenra-io/templates](https://github.com//lenra-io/templates)
-5. 💪 Opened PR [#36](https://github.com//lenra-io/templates/pull/36) in [lenra-io/templates](https://github.com//lenra-io/templates)
+3. 🗣 Commented on [#2373](https://github.com//Foundry376/Mailspring/issues/2373) in [Foundry376/Mailspring](https://github.com//Foundry376/Mailspring)
+4. 🗣 Commented on [#99](https://github.com//lenra-io/components-api/issues/99) in [lenra-io/components-api](https://github.com//lenra-io/components-api)
+5. 🗣 Commented on [#36](https://github.com//lenra-io/templates/issues/36) in [lenra-io/templates](https://github.com//lenra-io/templates)
 <!--END_SECTION:activity-->
