@@ -36,9 +36,9 @@ I provide for free the Nocturlab Federated Instances ([PeerTube](https://tube.no
 
 ### - 🚀🔥 Recent Activity!
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com//shiipou/pr-is-wip-action/pull/2) in [shiipou/pr-is-wip-action](https://github.com//shiipou/pr-is-wip-action)
-2. 💪 Opened PR [#1](https://github.com//shiipou/test-pr/pull/1) in [shiipou/test-pr](https://github.com//shiipou/test-pr)
-3. ❗️ Opened issue [#1](https://github.com//shiipou/pr-is-wip-action/issues/1) in [shiipou/pr-is-wip-action](https://github.com//shiipou/pr-is-wip-action)
-4. 💪 Opened PR [#9](https://github.com//lenra-io/create-or-update-pr-action/pull/9) in [lenra-io/create-or-update-pr-action](https://github.com//lenra-io/create-or-update-pr-action)
-5. ❗️ Opened issue [#39](https://github.com//lenra-io/templates/issues/39) in [lenra-io/templates](https://github.com//lenra-io/templates)
+1. ❗️ Closed issue [#1](https://github.com//shiipou/pr-is-wip-action/issues/1) in [shiipou/pr-is-wip-action](https://github.com//shiipou/pr-is-wip-action)
+2. 🎉 Merged PR [#2](https://github.com//shiipou/pr-is-wip-action/pull/2) in [shiipou/pr-is-wip-action](https://github.com//shiipou/pr-is-wip-action)
+3. 💪 Opened PR [#2](https://github.com//shiipou/pr-is-wip-action/pull/2) in [shiipou/pr-is-wip-action](https://github.com//shiipou/pr-is-wip-action)
+4. 💪 Opened PR [#1](https://github.com//shiipou/test-pr/pull/1) in [shiipou/test-pr](https://github.com//shiipou/test-pr)
+5. ❗️ Opened issue [#1](https://github.com//shiipou/pr-is-wip-action/issues/1) in [shiipou/pr-is-wip-action](https://github.com//shiipou/pr-is-wip-action)
 <!--END_SECTION:activity-->
