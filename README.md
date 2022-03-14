@@ -36,9 +36,9 @@ I provide for free the Nocturlab Federated Instances ([PeerTube](https://tube.no
 
 ### - 🚀🔥 Recent Activity!
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2373](https://github.com//Foundry376/Mailspring/issues/2373) in [Foundry376/Mailspring](https://github.com//Foundry376/Mailspring)
-2. 💪 Opened PR [#38](https://github.com//lenra-io/templates/pull/38) in [lenra-io/templates](https://github.com//lenra-io/templates)
+1. ❗️ Opened issue [#39](https://github.com//lenra-io/templates/issues/39) in [lenra-io/templates](https://github.com//lenra-io/templates)
+2. ❗️ Opened issue [#12](https://github.com//lenra-io/template-hello-world-node12/issues/12) in [lenra-io/template-hello-world-node12](https://github.com//lenra-io/template-hello-world-node12)
 3. 🗣 Commented on [#2373](https://github.com//Foundry376/Mailspring/issues/2373) in [Foundry376/Mailspring](https://github.com//Foundry376/Mailspring)
-4. 🎉 Merged PR [#217](https://github.com//nocturlab/setup-vlang-action/pull/217) in [nocturlab/setup-vlang-action](https://github.com//nocturlab/setup-vlang-action)
+4. 💪 Opened PR [#38](https://github.com//lenra-io/templates/pull/38) in [lenra-io/templates](https://github.com//lenra-io/templates)
 5. 🗣 Commented on [#2373](https://github.com//Foundry376/Mailspring/issues/2373) in [Foundry376/Mailspring](https://github.com//Foundry376/Mailspring)
 <!--END_SECTION:activity-->
