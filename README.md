@@ -32,7 +32,7 @@ I provide for free the Nocturlab Federated Instances ([PeerTube](https://tube.no
 - 💬 Ask me about anything
 - 📫 How to reach me: [Twitter (@nocturlab)](https://twitter.com/nocturlab) [Mastodon (@shiishii@cloud.nocturlab.fr)](https://cloud.nocturlab.fr/apps/social/@shiishii@cloud.nocturlab.fr/) [Nextcloud Talk (@shiishii)](https://cloud.nocturlab.fr/call/cxzp5j46)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Most Developers refer to themselves professionally as `Developers`. But some prefer to be called `Ninja`.
+- ⚡ Fun fact: Most Developers refer to themselves professionally as `Developers`. But some still prefer to be called `Ninja`.
 
 ### - 🚀🔥 Recent Activity!
 <!--START_SECTION:activity-->
