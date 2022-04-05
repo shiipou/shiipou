@@ -36,9 +36,9 @@ I provide for free the Nocturlab Federated Instances ([PeerTube](https://tube.no
 
 ### - 🚀🔥 Recent Activity!
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#43](https://github.com//lenra-io/templates/pull/43) in [lenra-io/templates](https://github.com//lenra-io/templates)
-2. 🎉 Merged PR [#222](https://github.com//nocturlab/setup-vlang-action/pull/222) in [nocturlab/setup-vlang-action](https://github.com//nocturlab/setup-vlang-action)
-3. 🎉 Merged PR [#221](https://github.com//nocturlab/setup-vlang-action/pull/221) in [nocturlab/setup-vlang-action](https://github.com//nocturlab/setup-vlang-action)
-4. 🎉 Merged PR [#220](https://github.com//nocturlab/setup-vlang-action/pull/220) in [nocturlab/setup-vlang-action](https://github.com//nocturlab/setup-vlang-action)
-5. 🎉 Merged PR [#219](https://github.com//nocturlab/setup-vlang-action/pull/219) in [nocturlab/setup-vlang-action](https://github.com//nocturlab/setup-vlang-action)
+1. 💪 Opened PR [#45](https://github.com//lenra-io/templates/pull/45) in [lenra-io/templates](https://github.com//lenra-io/templates)
+2. ❌ Closed PR [#289](https://github.com//openfaas/templates/pull/289) in [openfaas/templates](https://github.com//openfaas/templates)
+3. 💪 Opened PR [#289](https://github.com//openfaas/templates/pull/289) in [openfaas/templates](https://github.com//openfaas/templates)
+4. 💪 Opened PR [#43](https://github.com//lenra-io/templates/pull/43) in [lenra-io/templates](https://github.com//lenra-io/templates)
+5. 🎉 Merged PR [#222](https://github.com//nocturlab/setup-vlang-action/pull/222) in [nocturlab/setup-vlang-action](https://github.com//nocturlab/setup-vlang-action)
 <!--END_SECTION:activity-->
