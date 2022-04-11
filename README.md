@@ -36,9 +36,9 @@ I provide for free the Nocturlab Federated Instances ([PeerTube](https://tube.no
 
 ### - 🚀🔥 Recent Activity!
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#64](https://github.com//RattletraPM/Snickerstream/issues/64) in [RattletraPM/Snickerstream](https://github.com//RattletraPM/Snickerstream)
-2. ❗️ Opened issue [#198](https://github.com//MrPotatoBobx/FetchCord/issues/198) in [MrPotatoBobx/FetchCord](https://github.com//MrPotatoBobx/FetchCord)
-3. 💪 Opened PR [#45](https://github.com//lenra-io/templates/pull/45) in [lenra-io/templates](https://github.com//lenra-io/templates)
-4. ❌ Closed PR [#289](https://github.com//openfaas/templates/pull/289) in [openfaas/templates](https://github.com//openfaas/templates)
-5. 💪 Opened PR [#289](https://github.com//openfaas/templates/pull/289) in [openfaas/templates](https://github.com//openfaas/templates)
+1. 🗣 Commented on [#101](https://github.com//lenra-io/components-api/issues/101) in [lenra-io/components-api](https://github.com//lenra-io/components-api)
+2. 🗣 Commented on [#64](https://github.com//RattletraPM/Snickerstream/issues/64) in [RattletraPM/Snickerstream](https://github.com//RattletraPM/Snickerstream)
+3. ❗️ Opened issue [#198](https://github.com//MrPotatoBobx/FetchCord/issues/198) in [MrPotatoBobx/FetchCord](https://github.com//MrPotatoBobx/FetchCord)
+4. 💪 Opened PR [#45](https://github.com//lenra-io/templates/pull/45) in [lenra-io/templates](https://github.com//lenra-io/templates)
+5. ❌ Closed PR [#289](https://github.com//openfaas/templates/pull/289) in [openfaas/templates](https://github.com//openfaas/templates)
 <!--END_SECTION:activity-->
