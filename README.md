@@ -36,9 +36,9 @@ I provide for free the Nocturlab Federated Instances ([PeerTube](https://tube.no
 
 ### - 🚀🔥 Recent Activity!
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#10](https://github.com//lenra-io/create-or-update-pr-action/pull/10) in [lenra-io/create-or-update-pr-action](https://github.com//lenra-io/create-or-update-pr-action)
-2. 🗣 Commented on [#101](https://github.com//lenra-io/components-api/issues/101) in [lenra-io/components-api](https://github.com//lenra-io/components-api)
-3. 🗣 Commented on [#64](https://github.com//RattletraPM/Snickerstream/issues/64) in [RattletraPM/Snickerstream](https://github.com//RattletraPM/Snickerstream)
-4. ❗️ Opened issue [#198](https://github.com//MrPotatoBobx/FetchCord/issues/198) in [MrPotatoBobx/FetchCord](https://github.com//MrPotatoBobx/FetchCord)
-5. 💪 Opened PR [#45](https://github.com//lenra-io/templates/pull/45) in [lenra-io/templates](https://github.com//lenra-io/templates)
+1. 💪 Opened PR [#47](https://github.com//lenra-io/templates/pull/47) in [lenra-io/templates](https://github.com//lenra-io/templates)
+2. 💪 Opened PR [#10](https://github.com//lenra-io/create-or-update-pr-action/pull/10) in [lenra-io/create-or-update-pr-action](https://github.com//lenra-io/create-or-update-pr-action)
+3. 🗣 Commented on [#101](https://github.com//lenra-io/components-api/issues/101) in [lenra-io/components-api](https://github.com//lenra-io/components-api)
+4. 🗣 Commented on [#64](https://github.com//RattletraPM/Snickerstream/issues/64) in [RattletraPM/Snickerstream](https://github.com//RattletraPM/Snickerstream)
+5. ❗️ Opened issue [#198](https://github.com//MrPotatoBobx/FetchCord/issues/198) in [MrPotatoBobx/FetchCord](https://github.com//MrPotatoBobx/FetchCord)
 <!--END_SECTION:activity-->
