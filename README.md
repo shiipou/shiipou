@@ -36,9 +36,9 @@ I provide for free the Nocturlab Federated Instances ([PeerTube](https://tube.no
 
 ### - 🚀🔥 Recent Activity!
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#100](https://github.com//lenra-io/components-api/issues/100) in [lenra-io/components-api](https://github.com//lenra-io/components-api)
-2. 🗣 Commented on [#103](https://github.com//lenra-io/components-api/issues/103) in [lenra-io/components-api](https://github.com//lenra-io/components-api)
-3. ❗️ Opened issue [#29](https://github.com//lenra-io/Lenra/issues/29) in [lenra-io/Lenra](https://github.com//lenra-io/Lenra)
-4. 🗣 Commented on [#47](https://github.com//lenra-io/templates/issues/47) in [lenra-io/templates](https://github.com//lenra-io/templates)
-5. 💪 Opened PR [#47](https://github.com//lenra-io/templates/pull/47) in [lenra-io/templates](https://github.com//lenra-io/templates)
+1. 🗣 Commented on [#47](https://github.com//lenra-io/templates/issues/47) in [lenra-io/templates](https://github.com//lenra-io/templates)
+2. 🗣 Commented on [#100](https://github.com//lenra-io/components-api/issues/100) in [lenra-io/components-api](https://github.com//lenra-io/components-api)
+3. 🗣 Commented on [#103](https://github.com//lenra-io/components-api/issues/103) in [lenra-io/components-api](https://github.com//lenra-io/components-api)
+4. ❗️ Opened issue [#29](https://github.com//lenra-io/Lenra/issues/29) in [lenra-io/Lenra](https://github.com//lenra-io/Lenra)
+5. 🗣 Commented on [#47](https://github.com//lenra-io/templates/issues/47) in [lenra-io/templates](https://github.com//lenra-io/templates)
 <!--END_SECTION:activity-->
