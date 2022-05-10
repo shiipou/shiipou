@@ -36,9 +36,9 @@ I provide for free the Nocturlab Federated Instances ([PeerTube](https://tube.no
 
 ### - 🚀🔥 Recent Activity!
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#61](https://github.com//lenra-io/templates/pull/61) in [lenra-io/templates](https://github.com//lenra-io/templates)
-2. ❗️ Opened issue [#44](https://github.com//lenra-io/Lenra/issues/44) in [lenra-io/Lenra](https://github.com//lenra-io/Lenra)
-3. ❗️ Closed issue [#15](https://github.com//lenra-io/Lenra/issues/15) in [lenra-io/Lenra](https://github.com//lenra-io/Lenra)
-4. 🗣 Commented on [#15](https://github.com//lenra-io/Lenra/issues/15) in [lenra-io/Lenra](https://github.com//lenra-io/Lenra)
-5. 💪 Opened PR [#56](https://github.com//lenra-io/templates/pull/56) in [lenra-io/templates](https://github.com//lenra-io/templates)
+1. 🗣 Commented on [#198](https://github.com//MrPotatoBobx/FetchCord/issues/198) in [MrPotatoBobx/FetchCord](https://github.com//MrPotatoBobx/FetchCord)
+2. 💪 Opened PR [#61](https://github.com//lenra-io/templates/pull/61) in [lenra-io/templates](https://github.com//lenra-io/templates)
+3. ❗️ Opened issue [#44](https://github.com//lenra-io/Lenra/issues/44) in [lenra-io/Lenra](https://github.com//lenra-io/Lenra)
+4. ❗️ Closed issue [#15](https://github.com//lenra-io/Lenra/issues/15) in [lenra-io/Lenra](https://github.com//lenra-io/Lenra)
+5. 🗣 Commented on [#15](https://github.com//lenra-io/Lenra/issues/15) in [lenra-io/Lenra](https://github.com//lenra-io/Lenra)
 <!--END_SECTION:activity-->
