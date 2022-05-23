@@ -36,9 +36,9 @@ I provide for free the Nocturlab Federated Instances ([PeerTube](https://tube.no
 
 ### - 🚀🔥 Recent Activity!
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#64](https://github.com//lenra-io/templates/pull/64) in [lenra-io/templates](https://github.com//lenra-io/templates)
-2. 💪 Opened PR [#62](https://github.com//lenra-io/templates/pull/62) in [lenra-io/templates](https://github.com//lenra-io/templates)
-3. 🗣 Commented on [#198](https://github.com//MrPotatoBobx/FetchCord/issues/198) in [MrPotatoBobx/FetchCord](https://github.com//MrPotatoBobx/FetchCord)
-4. 💪 Opened PR [#61](https://github.com//lenra-io/templates/pull/61) in [lenra-io/templates](https://github.com//lenra-io/templates)
-5. ❗️ Opened issue [#44](https://github.com//lenra-io/Lenra/issues/44) in [lenra-io/Lenra](https://github.com//lenra-io/Lenra)
+1. 🗣 Commented on [#110](https://github.com//lenra-io/components-api/issues/110) in [lenra-io/components-api](https://github.com//lenra-io/components-api)
+2. 💪 Opened PR [#64](https://github.com//lenra-io/templates/pull/64) in [lenra-io/templates](https://github.com//lenra-io/templates)
+3. 💪 Opened PR [#62](https://github.com//lenra-io/templates/pull/62) in [lenra-io/templates](https://github.com//lenra-io/templates)
+4. 🗣 Commented on [#198](https://github.com//MrPotatoBobx/FetchCord/issues/198) in [MrPotatoBobx/FetchCord](https://github.com//MrPotatoBobx/FetchCord)
+5. 💪 Opened PR [#61](https://github.com//lenra-io/templates/pull/61) in [lenra-io/templates](https://github.com//lenra-io/templates)
 <!--END_SECTION:activity-->
