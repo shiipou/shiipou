@@ -36,9 +36,9 @@ I provide for free the Nocturlab Federated Instances ([PeerTube](https://tube.no
 
 ### - 🚀🔥 Recent Activity!
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#67](https://github.com//lenra-io/templates/issues/67) in [lenra-io/templates](https://github.com//lenra-io/templates)
-2. 🗣 Commented on [#67](https://github.com//lenra-io/templates/issues/67) in [lenra-io/templates](https://github.com//lenra-io/templates)
-3. 💪 Opened PR [#67](https://github.com//lenra-io/templates/pull/67) in [lenra-io/templates](https://github.com//lenra-io/templates)
-4. 🗣 Commented on [#113](https://github.com//lenra-io/components-api/issues/113) in [lenra-io/components-api](https://github.com//lenra-io/components-api)
-5. 🗣 Commented on [#114](https://github.com//lenra-io/components-api/issues/114) in [lenra-io/components-api](https://github.com//lenra-io/components-api)
+1. ❗️ Opened issue [#12](https://github.com//shiipou/se-providence/issues/12) in [shiipou/se-providence](https://github.com//shiipou/se-providence)
+2. ❗️ Opened issue [#11](https://github.com//shiipou/se-providence/issues/11) in [shiipou/se-providence](https://github.com//shiipou/se-providence)
+3. ❗️ Opened issue [#10](https://github.com//shiipou/se-providence/issues/10) in [shiipou/se-providence](https://github.com//shiipou/se-providence)
+4. ❗️ Opened issue [#9](https://github.com//shiipou/se-providence/issues/9) in [shiipou/se-providence](https://github.com//shiipou/se-providence)
+5. ❗️ Opened issue [#8](https://github.com//shiipou/se-providence/issues/8) in [shiipou/se-providence](https://github.com//shiipou/se-providence)
 <!--END_SECTION:activity-->
