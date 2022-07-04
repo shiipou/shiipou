@@ -36,9 +36,9 @@ I provide for free the Nocturlab Federated Instances ([PeerTube](https://tube.no
 
 ### - 🚀🔥 Recent Activity!
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10](https://github.com//lenra-io/create-or-update-pr-action/issues/10) in [lenra-io/create-or-update-pr-action](https://github.com//lenra-io/create-or-update-pr-action)
-2. ❗️ Opened issue [#12](https://github.com//shiipou/se-providence/issues/12) in [shiipou/se-providence](https://github.com//shiipou/se-providence)
-3. ❗️ Opened issue [#11](https://github.com//shiipou/se-providence/issues/11) in [shiipou/se-providence](https://github.com//shiipou/se-providence)
-4. ❗️ Opened issue [#10](https://github.com//shiipou/se-providence/issues/10) in [shiipou/se-providence](https://github.com//shiipou/se-providence)
-5. ❗️ Opened issue [#9](https://github.com//shiipou/se-providence/issues/9) in [shiipou/se-providence](https://github.com//shiipou/se-providence)
+1. ❗️ Opened issue [#23](https://github.com//Truemmerer/animated_wallpaper_helper/issues/23) in [Truemmerer/animated_wallpaper_helper](https://github.com//Truemmerer/animated_wallpaper_helper)
+2. 🗣 Commented on [#10](https://github.com//lenra-io/create-or-update-pr-action/issues/10) in [lenra-io/create-or-update-pr-action](https://github.com//lenra-io/create-or-update-pr-action)
+3. ❗️ Opened issue [#12](https://github.com//shiipou/se-providence/issues/12) in [shiipou/se-providence](https://github.com//shiipou/se-providence)
+4. ❗️ Opened issue [#11](https://github.com//shiipou/se-providence/issues/11) in [shiipou/se-providence](https://github.com//shiipou/se-providence)
+5. ❗️ Opened issue [#10](https://github.com//shiipou/se-providence/issues/10) in [shiipou/se-providence](https://github.com//shiipou/se-providence)
 <!--END_SECTION:activity-->
