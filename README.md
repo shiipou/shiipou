@@ -36,9 +36,9 @@ I provide for free the Nocturlab Federated Instances ([PeerTube](https://tube.no
 
 ### - 🚀🔥 Recent Activity!
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#95](https://github.com//lenra-io/Lenra/issues/95) in [lenra-io/Lenra](https://github.com//lenra-io/Lenra)
-2. 🗣 Commented on [#67](https://github.com//lenra-io/templates/issues/67) in [lenra-io/templates](https://github.com//lenra-io/templates)
-3. ❗️ Opened issue [#23](https://github.com//Truemmerer/animated_wallpaper_helper/issues/23) in [Truemmerer/animated_wallpaper_helper](https://github.com//Truemmerer/animated_wallpaper_helper)
-4. 🗣 Commented on [#10](https://github.com//lenra-io/create-or-update-pr-action/issues/10) in [lenra-io/create-or-update-pr-action](https://github.com//lenra-io/create-or-update-pr-action)
-5. ❗️ Opened issue [#12](https://github.com//shiipou/se-providence/issues/12) in [shiipou/se-providence](https://github.com//shiipou/se-providence)
+1. ❗️ Opened issue [#55](https://github.com//ply-ct/ply/issues/55) in [ply-ct/ply](https://github.com//ply-ct/ply)
+2. 🗣 Commented on [#95](https://github.com//lenra-io/Lenra/issues/95) in [lenra-io/Lenra](https://github.com//lenra-io/Lenra)
+3. 🗣 Commented on [#67](https://github.com//lenra-io/templates/issues/67) in [lenra-io/templates](https://github.com//lenra-io/templates)
+4. ❗️ Opened issue [#23](https://github.com//Truemmerer/animated_wallpaper_helper/issues/23) in [Truemmerer/animated_wallpaper_helper](https://github.com//Truemmerer/animated_wallpaper_helper)
+5. 🗣 Commented on [#10](https://github.com//lenra-io/create-or-update-pr-action/issues/10) in [lenra-io/create-or-update-pr-action](https://github.com//lenra-io/create-or-update-pr-action)
 <!--END_SECTION:activity-->
