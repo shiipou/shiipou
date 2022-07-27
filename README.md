@@ -36,9 +36,9 @@ I provide for free the Nocturlab Federated Instances ([PeerTube](https://tube.no
 
 ### - 🚀🔥 Recent Activity!
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#5859](https://github.com//refined-github/refined-github/issues/5859) in [refined-github/refined-github](https://github.com//refined-github/refined-github)
-2. 🗣 Commented on [#101](https://github.com//lenra-io/Lenra/issues/101) in [lenra-io/Lenra](https://github.com//lenra-io/Lenra)
-3. 💪 Opened PR [#70](https://github.com//lenra-io/templates/pull/70) in [lenra-io/templates](https://github.com//lenra-io/templates)
-4. ❗️ Closed issue [#23](https://github.com//Truemmerer/animated_wallpaper_helper/issues/23) in [Truemmerer/animated_wallpaper_helper](https://github.com//Truemmerer/animated_wallpaper_helper)
-5. 🗣 Commented on [#23](https://github.com//Truemmerer/animated_wallpaper_helper/issues/23) in [Truemmerer/animated_wallpaper_helper](https://github.com//Truemmerer/animated_wallpaper_helper)
+1. 🗣 Commented on [#5859](https://github.com//refined-github/refined-github/issues/5859) in [refined-github/refined-github](https://github.com//refined-github/refined-github)
+2. ❗️ Opened issue [#5859](https://github.com//refined-github/refined-github/issues/5859) in [refined-github/refined-github](https://github.com//refined-github/refined-github)
+3. 🗣 Commented on [#101](https://github.com//lenra-io/Lenra/issues/101) in [lenra-io/Lenra](https://github.com//lenra-io/Lenra)
+4. 💪 Opened PR [#70](https://github.com//lenra-io/templates/pull/70) in [lenra-io/templates](https://github.com//lenra-io/templates)
+5. ❗️ Closed issue [#23](https://github.com//Truemmerer/animated_wallpaper_helper/issues/23) in [Truemmerer/animated_wallpaper_helper](https://github.com//Truemmerer/animated_wallpaper_helper)
 <!--END_SECTION:activity-->
