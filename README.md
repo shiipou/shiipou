@@ -36,9 +36,9 @@ I provide for free the Nocturlab Federated Instances ([PeerTube](https://tube.no
 
 ### - 🚀🔥 Recent Activity!
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#202](https://github.com//filips123/PWAsForFirefox/issues/202) in [filips123/PWAsForFirefox](https://github.com//filips123/PWAsForFirefox)
-2. 🗣 Commented on [#111](https://github.com//lenra-io/components-api/issues/111) in [lenra-io/components-api](https://github.com//lenra-io/components-api)
-3. 🗣 Commented on [#96](https://github.com//vlang/gitly/issues/96) in [vlang/gitly](https://github.com//vlang/gitly)
-4. ❗️ Opened issue [#72](https://github.com//prateekmedia/pstube/issues/72) in [prateekmedia/pstube](https://github.com//prateekmedia/pstube)
-5. 🗣 Commented on [#5859](https://github.com//refined-github/refined-github/issues/5859) in [refined-github/refined-github](https://github.com//refined-github/refined-github)
+1. ❗️ Closed issue [#54](https://github.com//lenra-io/Lenra/issues/54) in [lenra-io/Lenra](https://github.com//lenra-io/Lenra)
+2. ❗️ Opened issue [#202](https://github.com//filips123/PWAsForFirefox/issues/202) in [filips123/PWAsForFirefox](https://github.com//filips123/PWAsForFirefox)
+3. 🗣 Commented on [#111](https://github.com//lenra-io/components-api/issues/111) in [lenra-io/components-api](https://github.com//lenra-io/components-api)
+4. 🗣 Commented on [#96](https://github.com//vlang/gitly/issues/96) in [vlang/gitly](https://github.com//vlang/gitly)
+5. ❗️ Opened issue [#72](https://github.com//prateekmedia/pstube/issues/72) in [prateekmedia/pstube](https://github.com//prateekmedia/pstube)
 <!--END_SECTION:activity-->
