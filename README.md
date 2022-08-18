@@ -36,9 +36,9 @@ I provide for free the Nocturlab Federated Instances ([PeerTube](https://tube.no
 
 ### - 🚀🔥 Recent Activity!
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#40](https://github.com//avanishsubbiah/material-you-theme/issues/40) in [avanishsubbiah/material-you-theme](https://github.com//avanishsubbiah/material-you-theme)
-2. 💪 Opened PR [#71](https://github.com//lenra-io/templates/pull/71) in [lenra-io/templates](https://github.com//lenra-io/templates)
-3. ❗️ Closed issue [#54](https://github.com//lenra-io/Lenra/issues/54) in [lenra-io/Lenra](https://github.com//lenra-io/Lenra)
-4. ❗️ Opened issue [#202](https://github.com//filips123/PWAsForFirefox/issues/202) in [filips123/PWAsForFirefox](https://github.com//filips123/PWAsForFirefox)
-5. 🗣 Commented on [#111](https://github.com//lenra-io/components-api/issues/111) in [lenra-io/components-api](https://github.com//lenra-io/components-api)
+1. 🗣 Commented on [#131](https://github.com//lenra-io/Lenra/issues/131) in [lenra-io/Lenra](https://github.com//lenra-io/Lenra)
+2. 🗣 Commented on [#40](https://github.com//avanishsubbiah/material-you-theme/issues/40) in [avanishsubbiah/material-you-theme](https://github.com//avanishsubbiah/material-you-theme)
+3. 💪 Opened PR [#71](https://github.com//lenra-io/templates/pull/71) in [lenra-io/templates](https://github.com//lenra-io/templates)
+4. ❗️ Closed issue [#54](https://github.com//lenra-io/Lenra/issues/54) in [lenra-io/Lenra](https://github.com//lenra-io/Lenra)
+5. ❗️ Opened issue [#202](https://github.com//filips123/PWAsForFirefox/issues/202) in [filips123/PWAsForFirefox](https://github.com//filips123/PWAsForFirefox)
 <!--END_SECTION:activity-->
