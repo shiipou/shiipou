@@ -36,9 +36,9 @@ I provide for free the Nocturlab Federated Instances ([PeerTube](https://tube.no
 
 ### - 🚀🔥 Recent Activity!
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#202](https://github.com//filips123/PWAsForFirefox/issues/202) in [filips123/PWAsForFirefox](https://github.com//filips123/PWAsForFirefox)
-2. 🗣 Commented on [#40](https://github.com//avanishsubbiah/material-you-theme/issues/40) in [avanishsubbiah/material-you-theme](https://github.com//avanishsubbiah/material-you-theme)
-3. 🗣 Commented on [#131](https://github.com//lenra-io/Lenra/issues/131) in [lenra-io/Lenra](https://github.com//lenra-io/Lenra)
-4. 🗣 Commented on [#40](https://github.com//avanishsubbiah/material-you-theme/issues/40) in [avanishsubbiah/material-you-theme](https://github.com//avanishsubbiah/material-you-theme)
-5. 💪 Opened PR [#71](https://github.com//lenra-io/templates/pull/71) in [lenra-io/templates](https://github.com//lenra-io/templates)
+1. 🗣 Commented on [#40](https://github.com//lenra-io/client-common/issues/40) in [lenra-io/client-common](https://github.com//lenra-io/client-common)
+2. 🗣 Commented on [#39](https://github.com//lenra-io/client-common/issues/39) in [lenra-io/client-common](https://github.com//lenra-io/client-common)
+3. 🗣 Commented on [#38](https://github.com//lenra-io/client-common/issues/38) in [lenra-io/client-common](https://github.com//lenra-io/client-common)
+4. 🗣 Commented on [#32](https://github.com//lenra-io/client-common/issues/32) in [lenra-io/client-common](https://github.com//lenra-io/client-common)
+5. 🗣 Commented on [#202](https://github.com//filips123/PWAsForFirefox/issues/202) in [filips123/PWAsForFirefox](https://github.com//filips123/PWAsForFirefox)
 <!--END_SECTION:activity-->
