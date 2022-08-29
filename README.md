@@ -48,9 +48,9 @@ I provide for free the Nocturlab Federated Instances ([PeerTube](https://tube.no
 
 ## - 🚀🔥 Recent Activity!
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#202](https://github.com//filips123/PWAsForFirefox/issues/202) in [filips123/PWAsForFirefox](https://github.com//filips123/PWAsForFirefox)
-2. 🗣 Commented on [#33](https://github.com//lenra-io/client-backoffice/issues/33) in [lenra-io/client-backoffice](https://github.com//lenra-io/client-backoffice)
-3. 🗣 Commented on [#37](https://github.com//lenra-io/client-backoffice/issues/37) in [lenra-io/client-backoffice](https://github.com//lenra-io/client-backoffice)
-4. 🗣 Commented on [#35](https://github.com//lenra-io/client-backoffice/issues/35) in [lenra-io/client-backoffice](https://github.com//lenra-io/client-backoffice)
-5. 🗣 Commented on [#32](https://github.com//lenra-io/client-backoffice/issues/32) in [lenra-io/client-backoffice](https://github.com//lenra-io/client-backoffice)
+1. ❗️ Closed issue [#202](https://github.com//filips123/PWAsForFirefox/issues/202) in [filips123/PWAsForFirefox](https://github.com//filips123/PWAsForFirefox)
+2. 🗣 Commented on [#202](https://github.com//filips123/PWAsForFirefox/issues/202) in [filips123/PWAsForFirefox](https://github.com//filips123/PWAsForFirefox)
+3. 🗣 Commented on [#33](https://github.com//lenra-io/client-backoffice/issues/33) in [lenra-io/client-backoffice](https://github.com//lenra-io/client-backoffice)
+4. 🗣 Commented on [#37](https://github.com//lenra-io/client-backoffice/issues/37) in [lenra-io/client-backoffice](https://github.com//lenra-io/client-backoffice)
+5. 🗣 Commented on [#35](https://github.com//lenra-io/client-backoffice/issues/35) in [lenra-io/client-backoffice](https://github.com//lenra-io/client-backoffice)
 <!--END_SECTION:activity-->
