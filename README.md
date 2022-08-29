@@ -48,9 +48,9 @@ I provide for free the Nocturlab Federated Instances ([PeerTube](https://tube.no
 
 ## - 🚀🔥 Recent Activity!
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#202](https://github.com//filips123/PWAsForFirefox/issues/202) in [filips123/PWAsForFirefox](https://github.com//filips123/PWAsForFirefox)
-2. 🗣 Commented on [#202](https://github.com//filips123/PWAsForFirefox/issues/202) in [filips123/PWAsForFirefox](https://github.com//filips123/PWAsForFirefox)
-3. 🗣 Commented on [#33](https://github.com//lenra-io/client-backoffice/issues/33) in [lenra-io/client-backoffice](https://github.com//lenra-io/client-backoffice)
-4. 🗣 Commented on [#37](https://github.com//lenra-io/client-backoffice/issues/37) in [lenra-io/client-backoffice](https://github.com//lenra-io/client-backoffice)
-5. 🗣 Commented on [#35](https://github.com//lenra-io/client-backoffice/issues/35) in [lenra-io/client-backoffice](https://github.com//lenra-io/client-backoffice)
+1. 💪 Opened PR [#41](https://github.com//lenra-io/client-common/pull/41) in [lenra-io/client-common](https://github.com//lenra-io/client-common)
+2. 💪 Opened PR [#20](https://github.com//lenra-io/client-store/pull/20) in [lenra-io/client-store](https://github.com//lenra-io/client-store)
+3. 💪 Opened PR [#28](https://github.com//lenra-io/client-app/pull/28) in [lenra-io/client-app](https://github.com//lenra-io/client-app)
+4. 🗣 Commented on [#170](https://github.com//lenra-io/lenra_ui_runner/issues/170) in [lenra-io/lenra_ui_runner](https://github.com//lenra-io/lenra_ui_runner)
+5. 🗣 Commented on [#12](https://github.com//lenra-io/client-store/issues/12) in [lenra-io/client-store](https://github.com//lenra-io/client-store)
 <!--END_SECTION:activity-->
