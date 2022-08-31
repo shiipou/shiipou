@@ -48,9 +48,9 @@ I provide for free the Nocturlab Federated Instances ([PeerTube](https://tube.no
 
 ## - 🚀🔥 Recent Activity!
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6](https://github.com//OpenMAR/PiTool/issues/6) in [OpenMAR/PiTool](https://github.com//OpenMAR/PiTool)
-2. 💪 Opened PR [#2](https://github.com//lenra-io/mdx2html/pull/2) in [lenra-io/mdx2html](https://github.com//lenra-io/mdx2html)
-3. 🗣 Commented on [#35](https://github.com//lenra-io/components-api/issues/35) in [lenra-io/components-api](https://github.com//lenra-io/components-api)
-4. 🗣 Commented on [#46](https://github.com//lenra-io/components-api/issues/46) in [lenra-io/components-api](https://github.com//lenra-io/components-api)
-5. 🗣 Commented on [#45](https://github.com//lenra-io/components-api/issues/45) in [lenra-io/components-api](https://github.com//lenra-io/components-api)
+1. 🗣 Commented on [#118](https://github.com//lenra-io/components-api/issues/118) in [lenra-io/components-api](https://github.com//lenra-io/components-api)
+2. 🗣 Commented on [#6](https://github.com//OpenMAR/PiTool/issues/6) in [OpenMAR/PiTool](https://github.com//OpenMAR/PiTool)
+3. 💪 Opened PR [#2](https://github.com//lenra-io/mdx2html/pull/2) in [lenra-io/mdx2html](https://github.com//lenra-io/mdx2html)
+4. 🗣 Commented on [#35](https://github.com//lenra-io/components-api/issues/35) in [lenra-io/components-api](https://github.com//lenra-io/components-api)
+5. 🗣 Commented on [#46](https://github.com//lenra-io/components-api/issues/46) in [lenra-io/components-api](https://github.com//lenra-io/components-api)
 <!--END_SECTION:activity-->
