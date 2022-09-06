@@ -48,9 +48,9 @@ I provide for free the Nocturlab Federated Instances ([PeerTube](https://tube.no
 
 ## - 🚀🔥 Recent Activity!
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#72](https://github.com//lenra-io/templates/issues/72) in [lenra-io/templates](https://github.com//lenra-io/templates)
-2. 🗣 Commented on [#176](https://github.com//lenra-io/lenra_ui_runner/issues/176) in [lenra-io/lenra_ui_runner](https://github.com//lenra-io/lenra_ui_runner)
-3. 🗣 Commented on [#174](https://github.com//lenra-io/lenra_ui_runner/issues/174) in [lenra-io/lenra_ui_runner](https://github.com//lenra-io/lenra_ui_runner)
-4. 🗣 Commented on [#172](https://github.com//lenra-io/lenra_ui_runner/issues/172) in [lenra-io/lenra_ui_runner](https://github.com//lenra-io/lenra_ui_runner)
-5. 💪 Opened PR [#72](https://github.com//lenra-io/templates/pull/72) in [lenra-io/templates](https://github.com//lenra-io/templates)
+1. ❗️ Opened issue [#139](https://github.com//lenra-io/Lenra/issues/139) in [lenra-io/Lenra](https://github.com//lenra-io/Lenra)
+2. 🗣 Commented on [#72](https://github.com//lenra-io/templates/issues/72) in [lenra-io/templates](https://github.com//lenra-io/templates)
+3. 🗣 Commented on [#176](https://github.com//lenra-io/lenra_ui_runner/issues/176) in [lenra-io/lenra_ui_runner](https://github.com//lenra-io/lenra_ui_runner)
+4. 🗣 Commented on [#174](https://github.com//lenra-io/lenra_ui_runner/issues/174) in [lenra-io/lenra_ui_runner](https://github.com//lenra-io/lenra_ui_runner)
+5. 🗣 Commented on [#172](https://github.com//lenra-io/lenra_ui_runner/issues/172) in [lenra-io/lenra_ui_runner](https://github.com//lenra-io/lenra_ui_runner)
 <!--END_SECTION:activity-->
