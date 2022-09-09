@@ -48,9 +48,9 @@ I provide for free the Nocturlab Federated Instances ([PeerTube](https://tube.no
 
 ## - 🚀🔥 Recent Activity!
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com//shiipou/semantic-release/pull/1) in [shiipou/semantic-release](https://github.com//shiipou/semantic-release)
-2. 🗣 Commented on [#20](https://github.com//lenra-io/client-store/issues/20) in [lenra-io/client-store](https://github.com//lenra-io/client-store)
-3. 🗣 Commented on [#167](https://github.com//lenra-io/lenra_ui_runner/issues/167) in [lenra-io/lenra_ui_runner](https://github.com//lenra-io/lenra_ui_runner)
-4. 🗣 Commented on [#1708](https://github.com//semantic-release/semantic-release/issues/1708) in [semantic-release/semantic-release](https://github.com//semantic-release/semantic-release)
-5. ❗️ Opened issue [#139](https://github.com//lenra-io/Lenra/issues/139) in [lenra-io/Lenra](https://github.com//lenra-io/Lenra)
+1. 🗣 Commented on [#1708](https://github.com//semantic-release/semantic-release/issues/1708) in [semantic-release/semantic-release](https://github.com//semantic-release/semantic-release)
+2. 💪 Opened PR [#1](https://github.com//shiipou/semantic-release/pull/1) in [shiipou/semantic-release](https://github.com//shiipou/semantic-release)
+3. 🗣 Commented on [#20](https://github.com//lenra-io/client-store/issues/20) in [lenra-io/client-store](https://github.com//lenra-io/client-store)
+4. 🗣 Commented on [#167](https://github.com//lenra-io/lenra_ui_runner/issues/167) in [lenra-io/lenra_ui_runner](https://github.com//lenra-io/lenra_ui_runner)
+5. 🗣 Commented on [#1708](https://github.com//semantic-release/semantic-release/issues/1708) in [semantic-release/semantic-release](https://github.com//semantic-release/semantic-release)
 <!--END_SECTION:activity-->
