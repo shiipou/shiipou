@@ -48,9 +48,9 @@ I provide for free the Nocturlab Federated Instances ([PeerTube](https://tube.no
 
 ## - 🚀🔥 Recent Activity!
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#4](https://github.com//shiipou/sem-release/issues/4) in [shiipou/sem-release](https://github.com//shiipou/sem-release)
-2. ❗️ Closed issue [#2](https://github.com//shiipou/sem-release/issues/2) in [shiipou/sem-release](https://github.com//shiipou/sem-release)
-3. 🎉 Merged PR [#3](https://github.com//shiipou/sem-release/pull/3) in [shiipou/sem-release](https://github.com//shiipou/sem-release)
-4. 💪 Opened PR [#3](https://github.com//shiipou/sem-release/pull/3) in [shiipou/sem-release](https://github.com//shiipou/sem-release)
-5. 🗣 Commented on [#121](https://github.com//lenra-io/components-api/issues/121) in [lenra-io/components-api](https://github.com//lenra-io/components-api)
+1. 💪 Opened PR [#38](https://github.com//lenra-io/client-backoffice/pull/38) in [lenra-io/client-backoffice](https://github.com//lenra-io/client-backoffice)
+2. 💪 Opened PR [#179](https://github.com//lenra-io/lenra_ui_runner/pull/179) in [lenra-io/lenra_ui_runner](https://github.com//lenra-io/lenra_ui_runner)
+3. 🗣 Commented on [#20](https://github.com//lenra-io/client-store/issues/20) in [lenra-io/client-store](https://github.com//lenra-io/client-store)
+4. 🗣 Commented on [#110](https://github.com//lenra-io/lenra_components/issues/110) in [lenra-io/lenra_components](https://github.com//lenra-io/lenra_components)
+5. 🗣 Commented on [#108](https://github.com//lenra-io/lenra_components/issues/108) in [lenra-io/lenra_components](https://github.com//lenra-io/lenra_components)
 <!--END_SECTION:activity-->
