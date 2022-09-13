@@ -48,9 +48,9 @@ I provide for free the Nocturlab Federated Instances ([PeerTube](https://tube.no
 
 ## - 🚀🔥 Recent Activity!
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#590](https://github.com//sdras/awesome-actions/pull/590) in [sdras/awesome-actions](https://github.com//sdras/awesome-actions)
-2. ❌ Closed PR [#1](https://github.com//Thomas-Vazques/gha2/pull/1) in [Thomas-Vazques/gha2](https://github.com//Thomas-Vazques/gha2)
-3. ❗️ Opened issue [#7](https://github.com//shiipou/sem-release/issues/7) in [shiipou/sem-release](https://github.com//shiipou/sem-release)
-4. 🗣 Commented on [#4](https://github.com//shiipou/sem-release/issues/4) in [shiipou/sem-release](https://github.com//shiipou/sem-release)
-5. ❗️ Closed issue [#5](https://github.com//shiipou/sem-release/issues/5) in [shiipou/sem-release](https://github.com//shiipou/sem-release)
+1. 🗣 Commented on [#36](https://github.com//lenra-io/client-backoffice/issues/36) in [lenra-io/client-backoffice](https://github.com//lenra-io/client-backoffice)
+2. 🎉 Merged PR [#36](https://github.com//lenra-io/client-backoffice/pull/36) in [lenra-io/client-backoffice](https://github.com//lenra-io/client-backoffice)
+3. ❌ Closed PR [#590](https://github.com//sdras/awesome-actions/pull/590) in [sdras/awesome-actions](https://github.com//sdras/awesome-actions)
+4. ❌ Closed PR [#1](https://github.com//Thomas-Vazques/gha2/pull/1) in [Thomas-Vazques/gha2](https://github.com//Thomas-Vazques/gha2)
+5. ❗️ Opened issue [#7](https://github.com//shiipou/sem-release/issues/7) in [shiipou/sem-release](https://github.com//shiipou/sem-release)
 <!--END_SECTION:activity-->
