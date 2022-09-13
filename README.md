@@ -48,9 +48,9 @@ I provide for free the Nocturlab Federated Instances ([PeerTube](https://tube.no
 
 ## - 🚀🔥 Recent Activity!
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com//Thomas-Vazques/gha2/pull/1) in [Thomas-Vazques/gha2](https://github.com//Thomas-Vazques/gha2)
-2. ❗️ Opened issue [#7](https://github.com//shiipou/sem-release/issues/7) in [shiipou/sem-release](https://github.com//shiipou/sem-release)
-3. 🗣 Commented on [#4](https://github.com//shiipou/sem-release/issues/4) in [shiipou/sem-release](https://github.com//shiipou/sem-release)
-4. ❗️ Closed issue [#5](https://github.com//shiipou/sem-release/issues/5) in [shiipou/sem-release](https://github.com//shiipou/sem-release)
-5. 🎉 Merged PR [#6](https://github.com//shiipou/sem-release/pull/6) in [shiipou/sem-release](https://github.com//shiipou/sem-release)
+1. ❌ Closed PR [#590](https://github.com//sdras/awesome-actions/pull/590) in [sdras/awesome-actions](https://github.com//sdras/awesome-actions)
+2. ❌ Closed PR [#1](https://github.com//Thomas-Vazques/gha2/pull/1) in [Thomas-Vazques/gha2](https://github.com//Thomas-Vazques/gha2)
+3. ❗️ Opened issue [#7](https://github.com//shiipou/sem-release/issues/7) in [shiipou/sem-release](https://github.com//shiipou/sem-release)
+4. 🗣 Commented on [#4](https://github.com//shiipou/sem-release/issues/4) in [shiipou/sem-release](https://github.com//shiipou/sem-release)
+5. ❗️ Closed issue [#5](https://github.com//shiipou/sem-release/issues/5) in [shiipou/sem-release](https://github.com//shiipou/sem-release)
 <!--END_SECTION:activity-->
