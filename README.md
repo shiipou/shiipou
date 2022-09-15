@@ -48,9 +48,9 @@ I provide for free the Nocturlab Federated Instances ([PeerTube](https://tube.no
 
 ## - 🚀🔥 Recent Activity!
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#27](https://github.com//lenra-io/dofigen/issues/27) in [lenra-io/dofigen](https://github.com//lenra-io/dofigen)
-2. 💪 Opened PR [#180](https://github.com//lenra-io/lenra_ui_runner/pull/180) in [lenra-io/lenra_ui_runner](https://github.com//lenra-io/lenra_ui_runner)
-3. 🗣 Commented on [#38](https://github.com//lenra-io/client-backoffice/issues/38) in [lenra-io/client-backoffice](https://github.com//lenra-io/client-backoffice)
-4. 🗣 Commented on [#20](https://github.com//lenra-io/client-store/issues/20) in [lenra-io/client-store](https://github.com//lenra-io/client-store)
-5. 🗣 Commented on [#117](https://github.com//lenra-io/lenra_components/issues/117) in [lenra-io/lenra_components](https://github.com//lenra-io/lenra_components)
+1. ❗️ Closed issue [#4](https://github.com//shiipou/sem-release/issues/4) in [shiipou/sem-release](https://github.com//shiipou/sem-release)
+2. 🎉 Merged PR [#8](https://github.com//shiipou/sem-release/pull/8) in [shiipou/sem-release](https://github.com//shiipou/sem-release)
+3. 💪 Opened PR [#8](https://github.com//shiipou/sem-release/pull/8) in [shiipou/sem-release](https://github.com//shiipou/sem-release)
+4. 🗣 Commented on [#27](https://github.com//lenra-io/dofigen/issues/27) in [lenra-io/dofigen](https://github.com//lenra-io/dofigen)
+5. 💪 Opened PR [#180](https://github.com//lenra-io/lenra_ui_runner/pull/180) in [lenra-io/lenra_ui_runner](https://github.com//lenra-io/lenra_ui_runner)
 <!--END_SECTION:activity-->
