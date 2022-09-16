@@ -48,9 +48,9 @@ I provide for free the Nocturlab Federated Instances ([PeerTube](https://tube.no
 
 ## - 🚀🔥 Recent Activity!
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#16](https://github.com//lenra-io/query-parser/issues/16) in [lenra-io/query-parser](https://github.com//lenra-io/query-parser)
-2. ❗️ Opened issue [#10](https://github.com//shiipou/sem-release/issues/10) in [shiipou/sem-release](https://github.com//shiipou/sem-release)
-3. ❗️ Opened issue [#9](https://github.com//shiipou/sem-release/issues/9) in [shiipou/sem-release](https://github.com//shiipou/sem-release)
-4. ❗️ Closed issue [#4](https://github.com//shiipou/sem-release/issues/4) in [shiipou/sem-release](https://github.com//shiipou/sem-release)
-5. 🎉 Merged PR [#8](https://github.com//shiipou/sem-release/pull/8) in [shiipou/sem-release](https://github.com//shiipou/sem-release)
+1. ❗️ Opened issue [#122](https://github.com//lenra-io/components-api/issues/122) in [lenra-io/components-api](https://github.com//lenra-io/components-api)
+2. 🗣 Commented on [#238](https://github.com//lenra-io/application-runner/issues/238) in [lenra-io/application-runner](https://github.com//lenra-io/application-runner)
+3. 🗣 Commented on [#16](https://github.com//lenra-io/query-parser/issues/16) in [lenra-io/query-parser](https://github.com//lenra-io/query-parser)
+4. ❗️ Opened issue [#10](https://github.com//shiipou/sem-release/issues/10) in [shiipou/sem-release](https://github.com//shiipou/sem-release)
+5. ❗️ Opened issue [#9](https://github.com//shiipou/sem-release/issues/9) in [shiipou/sem-release](https://github.com//shiipou/sem-release)
 <!--END_SECTION:activity-->
