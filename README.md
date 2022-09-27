@@ -48,9 +48,9 @@ I provide for free the Nocturlab Federated Instances ([PeerTube](https://tube.no
 
 ## - 🚀🔥 Recent Activity!
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com//LouisSchmieder/Vuild/issues/1) in [LouisSchmieder/Vuild](https://github.com//LouisSchmieder/Vuild)
-2. 🗣 Commented on [#40](https://github.com//lenra-io/client-backoffice/issues/40) in [lenra-io/client-backoffice](https://github.com//lenra-io/client-backoffice)
-3. ❌ Closed PR [#74](https://github.com//lenra-io/templates/pull/74) in [lenra-io/templates](https://github.com//lenra-io/templates)
-4. 🗣 Commented on [#20](https://github.com//lenra-io/client-store/issues/20) in [lenra-io/client-store](https://github.com//lenra-io/client-store)
-5. 🗣 Commented on [#180](https://github.com//lenra-io/lenra_ui_runner/issues/180) in [lenra-io/lenra_ui_runner](https://github.com//lenra-io/lenra_ui_runner)
+1. 🗣 Commented on [#41](https://github.com//lenra-io/client-backoffice/issues/41) in [lenra-io/client-backoffice](https://github.com//lenra-io/client-backoffice)
+2. 🗣 Commented on [#23](https://github.com//lenra-io/client-store/issues/23) in [lenra-io/client-store](https://github.com//lenra-io/client-store)
+3. 🗣 Commented on [#1](https://github.com//LouisSchmieder/Vuild/issues/1) in [LouisSchmieder/Vuild](https://github.com//LouisSchmieder/Vuild)
+4. 🗣 Commented on [#40](https://github.com//lenra-io/client-backoffice/issues/40) in [lenra-io/client-backoffice](https://github.com//lenra-io/client-backoffice)
+5. ❌ Closed PR [#74](https://github.com//lenra-io/templates/pull/74) in [lenra-io/templates](https://github.com//lenra-io/templates)
 <!--END_SECTION:activity-->
