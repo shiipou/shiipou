@@ -48,9 +48,9 @@ I provide for free the Nocturlab Federated Instances ([PeerTube](https://tube.no
 
 ## - 🚀🔥 Recent Activity!
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com//lenra-io/template-v/pull/10) in [lenra-io/template-v](https://github.com//lenra-io/template-v)
-2. ❗️ Closed issue [#4](https://github.com//lenra-io/template-v/issues/4) in [lenra-io/template-v](https://github.com//lenra-io/template-v)
-3. 💪 Opened PR [#10](https://github.com//lenra-io/template-v/pull/10) in [lenra-io/template-v](https://github.com//lenra-io/template-v)
-4. ❗️ Closed issue [#3](https://github.com//lenra-io/template-v/issues/3) in [lenra-io/template-v](https://github.com//lenra-io/template-v)
-5. 🗣 Commented on [#3](https://github.com//lenra-io/template-v/issues/3) in [lenra-io/template-v](https://github.com//lenra-io/template-v)
+1. 🗣 Commented on [#150](https://github.com//lenra-io/Lenra/issues/150) in [lenra-io/Lenra](https://github.com//lenra-io/Lenra)
+2. 🎉 Merged PR [#10](https://github.com//lenra-io/template-v/pull/10) in [lenra-io/template-v](https://github.com//lenra-io/template-v)
+3. ❗️ Closed issue [#4](https://github.com//lenra-io/template-v/issues/4) in [lenra-io/template-v](https://github.com//lenra-io/template-v)
+4. 💪 Opened PR [#10](https://github.com//lenra-io/template-v/pull/10) in [lenra-io/template-v](https://github.com//lenra-io/template-v)
+5. ❗️ Closed issue [#3](https://github.com//lenra-io/template-v/issues/3) in [lenra-io/template-v](https://github.com//lenra-io/template-v)
 <!--END_SECTION:activity-->
