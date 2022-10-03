@@ -48,9 +48,9 @@ I provide for free the Nocturlab Federated Instances ([PeerTube](https://tube.no
 
 ## - 🚀🔥 Recent Activity!
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#16](https://github.com//lenra-io/template-python/issues/16) in [lenra-io/template-python](https://github.com//lenra-io/template-python)
-2. 🗣 Commented on [#16](https://github.com//lenra-io/template-python/issues/16) in [lenra-io/template-python](https://github.com//lenra-io/template-python)
-3. ❗️ Opened issue [#156](https://github.com//lenra-io/Lenra/issues/156) in [lenra-io/Lenra](https://github.com//lenra-io/Lenra)
-4. ❗️ Opened issue [#19](https://github.com//lenra-io/template-go/issues/19) in [lenra-io/template-go](https://github.com//lenra-io/template-go)
-5. ❗️ Opened issue [#18](https://github.com//lenra-io/template-go/issues/18) in [lenra-io/template-go](https://github.com//lenra-io/template-go)
+1. ❗️ Opened issue [#157](https://github.com//lenra-io/Lenra/issues/157) in [lenra-io/Lenra](https://github.com//lenra-io/Lenra)
+2. ❗️ Opened issue [#19](https://github.com//lenra-io/template-elixir/issues/19) in [lenra-io/template-elixir](https://github.com//lenra-io/template-elixir)
+3. ❗️ Opened issue [#18](https://github.com//lenra-io/template-elixir/issues/18) in [lenra-io/template-elixir](https://github.com//lenra-io/template-elixir)
+4. ❗️ Opened issue [#17](https://github.com//lenra-io/template-elixir/issues/17) in [lenra-io/template-elixir](https://github.com//lenra-io/template-elixir)
+5. ❗️ Opened issue [#16](https://github.com//lenra-io/template-elixir/issues/16) in [lenra-io/template-elixir](https://github.com//lenra-io/template-elixir)
 <!--END_SECTION:activity-->
