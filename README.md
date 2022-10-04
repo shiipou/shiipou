@@ -48,9 +48,9 @@ I provide for free the Nocturlab Federated Instances ([PeerTube](https://tube.no
 
 ## - 🚀🔥 Recent Activity!
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#24](https://github.com//lenra-io/client-store/issues/24) in [lenra-io/client-store](https://github.com//lenra-io/client-store)
-2. 🗣 Commented on [#20](https://github.com//lenra-io/client-store/issues/20) in [lenra-io/client-store](https://github.com//lenra-io/client-store)
-3. 🗣 Commented on [#185](https://github.com//lenra-io/lenra_ui_runner/issues/185) in [lenra-io/lenra_ui_runner](https://github.com//lenra-io/lenra_ui_runner)
-4. 💪 Opened PR [#184](https://github.com//lenra-io/lenra_ui_runner/pull/184) in [lenra-io/lenra_ui_runner](https://github.com//lenra-io/lenra_ui_runner)
-5. 💪 Opened PR [#42](https://github.com//lenra-io/client-backoffice/pull/42) in [lenra-io/client-backoffice](https://github.com//lenra-io/client-backoffice)
+1. ❗️ Opened issue [#162](https://github.com//lenra-io/Lenra/issues/162) in [lenra-io/Lenra](https://github.com//lenra-io/Lenra)
+2. ❗️ Opened issue [#19](https://github.com//lenra-io/template-php/issues/19) in [lenra-io/template-php](https://github.com//lenra-io/template-php)
+3. ❗️ Opened issue [#18](https://github.com//lenra-io/template-php/issues/18) in [lenra-io/template-php](https://github.com//lenra-io/template-php)
+4. ❗️ Opened issue [#17](https://github.com//lenra-io/template-php/issues/17) in [lenra-io/template-php](https://github.com//lenra-io/template-php)
+5. ❗️ Opened issue [#16](https://github.com//lenra-io/template-php/issues/16) in [lenra-io/template-php](https://github.com//lenra-io/template-php)
 <!--END_SECTION:activity-->
