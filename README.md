@@ -48,9 +48,9 @@ I provide for free the Nocturlab Federated Instances ([PeerTube](https://tube.no
 
 ## - 🚀🔥 Recent Activity!
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#160](https://github.com//lenra-io/Lenra/issues/160) in [lenra-io/Lenra](https://github.com//lenra-io/Lenra)
-2. ❗️ Opened issue [#19](https://github.com//lenra-io/template-swift/issues/19) in [lenra-io/template-swift](https://github.com//lenra-io/template-swift)
-3. ❗️ Opened issue [#18](https://github.com//lenra-io/template-swift/issues/18) in [lenra-io/template-swift](https://github.com//lenra-io/template-swift)
-4. ❗️ Opened issue [#17](https://github.com//lenra-io/template-swift/issues/17) in [lenra-io/template-swift](https://github.com//lenra-io/template-swift)
-5. ❗️ Opened issue [#16](https://github.com//lenra-io/template-swift/issues/16) in [lenra-io/template-swift](https://github.com//lenra-io/template-swift)
+1. 🗣 Commented on [#160](https://github.com//lenra-io/Lenra/issues/160) in [lenra-io/Lenra](https://github.com//lenra-io/Lenra)
+2. ❗️ Opened issue [#160](https://github.com//lenra-io/Lenra/issues/160) in [lenra-io/Lenra](https://github.com//lenra-io/Lenra)
+3. ❗️ Opened issue [#19](https://github.com//lenra-io/template-swift/issues/19) in [lenra-io/template-swift](https://github.com//lenra-io/template-swift)
+4. ❗️ Opened issue [#18](https://github.com//lenra-io/template-swift/issues/18) in [lenra-io/template-swift](https://github.com//lenra-io/template-swift)
+5. ❗️ Opened issue [#17](https://github.com//lenra-io/template-swift/issues/17) in [lenra-io/template-swift](https://github.com//lenra-io/template-swift)
 <!--END_SECTION:activity-->
