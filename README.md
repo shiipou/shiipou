@@ -48,9 +48,9 @@ I provide for free the Nocturlab Federated Instances ([PeerTube](https://tube.no
 
 ## - 🚀🔥 Recent Activity!
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#162](https://github.com//lenra-io/Lenra/issues/162) in [lenra-io/Lenra](https://github.com//lenra-io/Lenra)
-2. ❗️ Opened issue [#19](https://github.com//lenra-io/template-php/issues/19) in [lenra-io/template-php](https://github.com//lenra-io/template-php)
-3. ❗️ Opened issue [#18](https://github.com//lenra-io/template-php/issues/18) in [lenra-io/template-php](https://github.com//lenra-io/template-php)
-4. ❗️ Opened issue [#17](https://github.com//lenra-io/template-php/issues/17) in [lenra-io/template-php](https://github.com//lenra-io/template-php)
-5. ❗️ Opened issue [#16](https://github.com//lenra-io/template-php/issues/16) in [lenra-io/template-php](https://github.com//lenra-io/template-php)
+1. ❗️ Opened issue [#6](https://github.com//lenra-io/template-ruby-on-rails/issues/6) in [lenra-io/template-ruby-on-rails](https://github.com//lenra-io/template-ruby-on-rails)
+2. ❗️ Opened issue [#5](https://github.com//lenra-io/template-ruby-on-rails/issues/5) in [lenra-io/template-ruby-on-rails](https://github.com//lenra-io/template-ruby-on-rails)
+3. ❗️ Opened issue [#4](https://github.com//lenra-io/template-ruby-on-rails/issues/4) in [lenra-io/template-ruby-on-rails](https://github.com//lenra-io/template-ruby-on-rails)
+4. ❗️ Opened issue [#3](https://github.com//lenra-io/template-ruby-on-rails/issues/3) in [lenra-io/template-ruby-on-rails](https://github.com//lenra-io/template-ruby-on-rails)
+5. ❗️ Opened issue [#2](https://github.com//lenra-io/template-ruby-on-rails/issues/2) in [lenra-io/template-ruby-on-rails](https://github.com//lenra-io/template-ruby-on-rails)
 <!--END_SECTION:activity-->
