@@ -48,9 +48,9 @@ I provide for free the Nocturlab Federated Instances ([PeerTube](https://tube.no
 
 ## - 🚀🔥 Recent Activity!
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#151](https://github.com//vlang/awesome-v/issues/151) in [vlang/awesome-v](https://github.com//vlang/awesome-v)
-2. 💪 Opened PR [#151](https://github.com//vlang/awesome-v/pull/151) in [vlang/awesome-v](https://github.com//vlang/awesome-v)
-3. 💪 Opened PR [#150](https://github.com//vlang/awesome-v/pull/150) in [vlang/awesome-v](https://github.com//vlang/awesome-v)
-4. ❗️ Opened issue [#13](https://github.com//lenra-io/template-v/issues/13) in [lenra-io/template-v](https://github.com//lenra-io/template-v)
-5. ❗️ Opened issue [#12](https://github.com//lenra-io/template-v/issues/12) in [lenra-io/template-v](https://github.com//lenra-io/template-v)
+1. 🎉 Merged PR [#5](https://github.com//lenra-io/template-node/pull/5) in [lenra-io/template-node](https://github.com//lenra-io/template-node)
+2. 🗣 Commented on [#151](https://github.com//vlang/awesome-v/issues/151) in [vlang/awesome-v](https://github.com//vlang/awesome-v)
+3. 💪 Opened PR [#151](https://github.com//vlang/awesome-v/pull/151) in [vlang/awesome-v](https://github.com//vlang/awesome-v)
+4. 💪 Opened PR [#150](https://github.com//vlang/awesome-v/pull/150) in [vlang/awesome-v](https://github.com//vlang/awesome-v)
+5. ❗️ Opened issue [#13](https://github.com//lenra-io/template-v/issues/13) in [lenra-io/template-v](https://github.com//lenra-io/template-v)
 <!--END_SECTION:activity-->
