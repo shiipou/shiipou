@@ -48,9 +48,9 @@ I provide for free the Nocturlab Federated Instances ([PeerTube](https://tube.no
 
 ## - 🚀🔥 Recent Activity!
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#16](https://github.com//lenra-io/template-java-springboot/issues/16) in [lenra-io/template-java-springboot](https://github.com//lenra-io/template-java-springboot)
-2. ❗️ Opened issue [#21](https://github.com//lenra-io/template-java-springboot/issues/21) in [lenra-io/template-java-springboot](https://github.com//lenra-io/template-java-springboot)
-3. ❗️ Opened issue [#20](https://github.com//lenra-io/template-go/issues/20) in [lenra-io/template-go](https://github.com//lenra-io/template-go)
-4. ❗️ Opened issue [#20](https://github.com//lenra-io/template-php/issues/20) in [lenra-io/template-php](https://github.com//lenra-io/template-php)
-5. ❗️ Opened issue [#20](https://github.com//lenra-io/template-ruby-on-rails/issues/20) in [lenra-io/template-ruby-on-rails](https://github.com//lenra-io/template-ruby-on-rails)
+1. ❗️ Opened issue [#20](https://github.com//lenra-io/template-elixir/issues/20) in [lenra-io/template-elixir](https://github.com//lenra-io/template-elixir)
+2. ❗️ Closed issue [#16](https://github.com//lenra-io/template-java-springboot/issues/16) in [lenra-io/template-java-springboot](https://github.com//lenra-io/template-java-springboot)
+3. ❗️ Opened issue [#21](https://github.com//lenra-io/template-java-springboot/issues/21) in [lenra-io/template-java-springboot](https://github.com//lenra-io/template-java-springboot)
+4. ❗️ Opened issue [#20](https://github.com//lenra-io/template-go/issues/20) in [lenra-io/template-go](https://github.com//lenra-io/template-go)
+5. ❗️ Opened issue [#20](https://github.com//lenra-io/template-php/issues/20) in [lenra-io/template-php](https://github.com//lenra-io/template-php)
 <!--END_SECTION:activity-->
