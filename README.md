@@ -48,9 +48,9 @@ I provide for free the Nocturlab Federated Instances ([PeerTube](https://tube.no
 
 ## - 🚀🔥 Recent Activity!
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#17](https://github.com//lenra-io/query-parser/issues/17) in [lenra-io/query-parser](https://github.com//lenra-io/query-parser)
-2. 🗣 Commented on [#10](https://github.com//lenra-io/lenra-common/issues/10) in [lenra-io/lenra-common](https://github.com//lenra-io/lenra-common)
-3. 🎉 Merged PR [#5](https://github.com//lenra-io/template-node/pull/5) in [lenra-io/template-node](https://github.com//lenra-io/template-node)
-4. 🗣 Commented on [#151](https://github.com//vlang/awesome-v/issues/151) in [vlang/awesome-v](https://github.com//vlang/awesome-v)
-5. 💪 Opened PR [#151](https://github.com//vlang/awesome-v/pull/151) in [vlang/awesome-v](https://github.com//vlang/awesome-v)
+1. 🗣 Commented on [#249](https://github.com//lenra-io/application-runner/issues/249) in [lenra-io/application-runner](https://github.com//lenra-io/application-runner)
+2. 🗣 Commented on [#17](https://github.com//lenra-io/query-parser/issues/17) in [lenra-io/query-parser](https://github.com//lenra-io/query-parser)
+3. 🗣 Commented on [#10](https://github.com//lenra-io/lenra-common/issues/10) in [lenra-io/lenra-common](https://github.com//lenra-io/lenra-common)
+4. 🎉 Merged PR [#5](https://github.com//lenra-io/template-node/pull/5) in [lenra-io/template-node](https://github.com//lenra-io/template-node)
+5. 🗣 Commented on [#151](https://github.com//vlang/awesome-v/issues/151) in [vlang/awesome-v](https://github.com//vlang/awesome-v)
 <!--END_SECTION:activity-->
