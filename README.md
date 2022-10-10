@@ -48,9 +48,9 @@ I provide for free the Nocturlab Federated Instances ([PeerTube](https://tube.no
 
 ## - 🚀🔥 Recent Activity!
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#184](https://github.com//lenra-io/lenra_ui_runner/issues/184) in [lenra-io/lenra_ui_runner](https://github.com//lenra-io/lenra_ui_runner)
-2. 🗣 Commented on [#42](https://github.com//lenra-io/client-backoffice/issues/42) in [lenra-io/client-backoffice](https://github.com//lenra-io/client-backoffice)
-3. 🗣 Commented on [#20](https://github.com//lenra-io/client-store/issues/20) in [lenra-io/client-store](https://github.com//lenra-io/client-store)
-4. 🗣 Commented on [#49](https://github.com//lenra-io/client-common/issues/49) in [lenra-io/client-common](https://github.com//lenra-io/client-common)
-5. 🗣 Commented on [#151](https://github.com//lenra-io/dev-tools/issues/151) in [lenra-io/dev-tools](https://github.com//lenra-io/dev-tools)
+1. 🗣 Commented on [#43](https://github.com//lenra-io/client-backoffice/issues/43) in [lenra-io/client-backoffice](https://github.com//lenra-io/client-backoffice)
+2. 🗣 Commented on [#184](https://github.com//lenra-io/lenra_ui_runner/issues/184) in [lenra-io/lenra_ui_runner](https://github.com//lenra-io/lenra_ui_runner)
+3. 🗣 Commented on [#42](https://github.com//lenra-io/client-backoffice/issues/42) in [lenra-io/client-backoffice](https://github.com//lenra-io/client-backoffice)
+4. 🗣 Commented on [#20](https://github.com//lenra-io/client-store/issues/20) in [lenra-io/client-store](https://github.com//lenra-io/client-store)
+5. 🗣 Commented on [#49](https://github.com//lenra-io/client-common/issues/49) in [lenra-io/client-common](https://github.com//lenra-io/client-common)
 <!--END_SECTION:activity-->
