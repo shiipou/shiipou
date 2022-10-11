@@ -48,9 +48,9 @@ I provide for free the Nocturlab Federated Instances ([PeerTube](https://tube.no
 
 ## - 🚀🔥 Recent Activity!
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#253](https://github.com//lenra-io/application-runner/issues/253) in [lenra-io/application-runner](https://github.com//lenra-io/application-runner)
-2. 🗣 Commented on [#21](https://github.com//lenra-io/template-go/issues/21) in [lenra-io/template-go](https://github.com//lenra-io/template-go)
-3. ❗️ Opened issue [#124](https://github.com//lenra-io/components-api/issues/124) in [lenra-io/components-api](https://github.com//lenra-io/components-api)
-4. 🗣 Commented on [#184](https://github.com//lenra-io/lenra_ui_runner/issues/184) in [lenra-io/lenra_ui_runner](https://github.com//lenra-io/lenra_ui_runner)
-5. 🗣 Commented on [#20](https://github.com//lenra-io/client-store/issues/20) in [lenra-io/client-store](https://github.com//lenra-io/client-store)
+1. ❗️ Closed issue [#21](https://github.com//lenra-io/template-python/issues/21) in [lenra-io/template-python](https://github.com//lenra-io/template-python)
+2. 🎉 Merged PR [#22](https://github.com//lenra-io/template-python/pull/22) in [lenra-io/template-python](https://github.com//lenra-io/template-python)
+3. 🗣 Commented on [#22](https://github.com//lenra-io/template-python/issues/22) in [lenra-io/template-python](https://github.com//lenra-io/template-python)
+4. 🗣 Commented on [#22](https://github.com//lenra-io/template-python/issues/22) in [lenra-io/template-python](https://github.com//lenra-io/template-python)
+5. 🗣 Commented on [#253](https://github.com//lenra-io/application-runner/issues/253) in [lenra-io/application-runner](https://github.com//lenra-io/application-runner)
 <!--END_SECTION:activity-->
