@@ -48,9 +48,9 @@ I provide for free the Nocturlab Federated Instances ([PeerTube](https://tube.no
 
 ## - 🚀🔥 Recent Activity!
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#165](https://github.com//vlang/v/issues/165) in [vlang/v](https://github.com//vlang/v)
-2. 🗣 Commented on [#265](https://github.com//lenra-io/application-runner/issues/265) in [lenra-io/application-runner](https://github.com//lenra-io/application-runner)
-3. 🗣 Commented on [#21](https://github.com//lenra-io/template-ruby-on-rails/issues/21) in [lenra-io/template-ruby-on-rails](https://github.com//lenra-io/template-ruby-on-rails)
-4. 💪 Opened PR [#157](https://github.com//lenra-io/dev-tools/pull/157) in [lenra-io/dev-tools](https://github.com//lenra-io/dev-tools)
-5. 🗣 Commented on [#20](https://github.com//lenra-io/client-store/issues/20) in [lenra-io/client-store](https://github.com//lenra-io/client-store)
+1. ❗️ Opened issue [#125](https://github.com//lenra-io/components-api/issues/125) in [lenra-io/components-api](https://github.com//lenra-io/components-api)
+2. 🗣 Commented on [#165](https://github.com//vlang/v/issues/165) in [vlang/v](https://github.com//vlang/v)
+3. 🗣 Commented on [#265](https://github.com//lenra-io/application-runner/issues/265) in [lenra-io/application-runner](https://github.com//lenra-io/application-runner)
+4. 🗣 Commented on [#21](https://github.com//lenra-io/template-ruby-on-rails/issues/21) in [lenra-io/template-ruby-on-rails](https://github.com//lenra-io/template-ruby-on-rails)
+5. 💪 Opened PR [#157](https://github.com//lenra-io/dev-tools/pull/157) in [lenra-io/dev-tools](https://github.com//lenra-io/dev-tools)
 <!--END_SECTION:activity-->
