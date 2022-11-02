@@ -49,8 +49,8 @@ I provide for free the Nocturlab Federated Instances ([PeerTube](https://tube.no
 ## - 🚀🔥 Recent Activity!
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#20](https://github.com//lenra-io/client-store/issues/20) in [lenra-io/client-store](https://github.com//lenra-io/client-store)
-2. 🗣 Commented on [#157](https://github.com//lenra-io/dev-tools/issues/157) in [lenra-io/dev-tools](https://github.com//lenra-io/dev-tools)
-3. 🗣 Commented on [#189](https://github.com//lenra-io/lenra_ui_runner/issues/189) in [lenra-io/lenra_ui_runner](https://github.com//lenra-io/lenra_ui_runner)
-4. 🗣 Commented on [#242](https://github.com//lenra-io/application-runner/issues/242) in [lenra-io/application-runner](https://github.com//lenra-io/application-runner)
-5. ❗️ Closed issue [#20](https://github.com//lenra-io/template-ruby-on-rails/issues/20) in [lenra-io/template-ruby-on-rails](https://github.com//lenra-io/template-ruby-on-rails)
+2. 🗣 Commented on [#42](https://github.com//lenra-io/client-backoffice/issues/42) in [lenra-io/client-backoffice](https://github.com//lenra-io/client-backoffice)
+3. 💪 Opened PR [#192](https://github.com//lenra-io/lenra_ui_runner/pull/192) in [lenra-io/lenra_ui_runner](https://github.com//lenra-io/lenra_ui_runner)
+4. 🗣 Commented on [#55](https://github.com//lenra-io/client-common/issues/55) in [lenra-io/client-common](https://github.com//lenra-io/client-common)
+5. 🗣 Commented on [#20](https://github.com//lenra-io/client-store/issues/20) in [lenra-io/client-store](https://github.com//lenra-io/client-store)
 <!--END_SECTION:activity-->
