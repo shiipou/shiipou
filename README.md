@@ -50,7 +50,7 @@ I provide for free the Nocturlab Federated Instances ([PeerTube](https://tube.no
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#20](https://github.com//lenra-io/client-store/issues/20) in [lenra-io/client-store](https://github.com//lenra-io/client-store)
 2. 🗣 Commented on [#157](https://github.com//lenra-io/dev-tools/issues/157) in [lenra-io/dev-tools](https://github.com//lenra-io/dev-tools)
-3. 🗣 Commented on [#200](https://github.com//lenra-io/lenra_ui_runner/issues/200) in [lenra-io/lenra_ui_runner](https://github.com//lenra-io/lenra_ui_runner)
+3. 🗣 Commented on [#198](https://github.com//lenra-io/lenra_ui_runner/issues/198) in [lenra-io/lenra_ui_runner](https://github.com//lenra-io/lenra_ui_runner)
 4. 🗣 Commented on [#20](https://github.com//lenra-io/client-store/issues/20) in [lenra-io/client-store](https://github.com//lenra-io/client-store)
-5. 🗣 Commented on [#193](https://github.com//lenra-io/lenra_ui_runner/issues/193) in [lenra-io/lenra_ui_runner](https://github.com//lenra-io/lenra_ui_runner)
+5. 🗣 Commented on [#157](https://github.com//lenra-io/dev-tools/issues/157) in [lenra-io/dev-tools](https://github.com//lenra-io/dev-tools)
 <!--END_SECTION:activity-->
