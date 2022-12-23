@@ -50,7 +50,7 @@ I provide for free the Nocturlab Federated Instances ([PeerTube](https://tube.no
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#10](https://github.com//Valalol/Star-Citizen-Navigation/issues/10) in [Valalol/Star-Citizen-Navigation](https://github.com//Valalol/Star-Citizen-Navigation)
 2. 🗣 Commented on [#10](https://github.com//Valalol/Star-Citizen-Navigation/issues/10) in [Valalol/Star-Citizen-Navigation](https://github.com//Valalol/Star-Citizen-Navigation)
-3. 💪 Opened PR [#9](https://github.com//Valalol/Star-Citizen-Navigation/pull/9) in [Valalol/Star-Citizen-Navigation](https://github.com//Valalol/Star-Citizen-Navigation)
-4. 🗣 Commented on [#266](https://github.com//lenra-io/application-runner/issues/266) in [lenra-io/application-runner](https://github.com//lenra-io/application-runner)
-5. 🗣 Commented on [#134](https://github.com//lenra-io/components-api/issues/134) in [lenra-io/components-api](https://github.com//lenra-io/components-api)
+3. 🗣 Commented on [#10](https://github.com//Valalol/Star-Citizen-Navigation/issues/10) in [Valalol/Star-Citizen-Navigation](https://github.com//Valalol/Star-Citizen-Navigation)
+4. 💪 Opened PR [#9](https://github.com//Valalol/Star-Citizen-Navigation/pull/9) in [Valalol/Star-Citizen-Navigation](https://github.com//Valalol/Star-Citizen-Navigation)
+5. 🗣 Commented on [#266](https://github.com//lenra-io/application-runner/issues/266) in [lenra-io/application-runner](https://github.com//lenra-io/application-runner)
 <!--END_SECTION:activity-->
