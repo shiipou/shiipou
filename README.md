@@ -48,9 +48,9 @@ I provide for free the Nocturlab Federated Instances ([PeerTube](https://tube.no
 
 ## - 🚀🔥 Recent Activity!
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#11](https://github.com//Valalol/Star-Citizen-Navigation/pull/11) in [Valalol/Star-Citizen-Navigation](https://github.com//Valalol/Star-Citizen-Navigation)
-2. 💪 Opened PR [#14](https://github.com//lenra-io/template-v/pull/14) in [lenra-io/template-v](https://github.com//lenra-io/template-v)
-3. 🗣 Commented on [#10](https://github.com//Valalol/Star-Citizen-Navigation/issues/10) in [Valalol/Star-Citizen-Navigation](https://github.com//Valalol/Star-Citizen-Navigation)
-4. 🗣 Commented on [#10](https://github.com//Valalol/Star-Citizen-Navigation/issues/10) in [Valalol/Star-Citizen-Navigation](https://github.com//Valalol/Star-Citizen-Navigation)
-5. 🗣 Commented on [#10](https://github.com//Valalol/Star-Citizen-Navigation/issues/10) in [Valalol/Star-Citizen-Navigation](https://github.com//Valalol/Star-Citizen-Navigation)
+1. 🗣 Commented on [#42](https://github.com//lenra-io/client-backoffice/issues/42) in [lenra-io/client-backoffice](https://github.com//lenra-io/client-backoffice)
+2. 🗣 Commented on [#20](https://github.com//lenra-io/client-store/issues/20) in [lenra-io/client-store](https://github.com//lenra-io/client-store)
+3. 🗣 Commented on [#193](https://github.com//lenra-io/lenra_ui_runner/issues/193) in [lenra-io/lenra_ui_runner](https://github.com//lenra-io/lenra_ui_runner)
+4. 🗣 Commented on [#63](https://github.com//lenra-io/client-common/issues/63) in [lenra-io/client-common](https://github.com//lenra-io/client-common)
+5. 🗣 Commented on [#164](https://github.com//lenra-io/dev-tools/issues/164) in [lenra-io/dev-tools](https://github.com//lenra-io/dev-tools)
 <!--END_SECTION:activity-->
