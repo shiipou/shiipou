@@ -48,9 +48,9 @@ I provide for free the Nocturlab Federated Instances ([PeerTube](https://tube.no
 
 ## - 🚀🔥 Recent Activity!
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#38](https://github.com//lenra-io/client-store/issues/38) in [lenra-io/client-store](https://github.com//lenra-io/client-store)
-2. 🗣 Commented on [#40](https://github.com//lenra-io/client-store/issues/40) in [lenra-io/client-store](https://github.com//lenra-io/client-store)
-3. 🗣 Commented on [#36](https://github.com//lenra-io/client-store/issues/36) in [lenra-io/client-store](https://github.com//lenra-io/client-store)
-4. 🗣 Commented on [#293](https://github.com//lenra-io/application-runner/issues/293) in [lenra-io/application-runner](https://github.com//lenra-io/application-runner)
-5. 🗣 Commented on [#292](https://github.com//lenra-io/application-runner/issues/292) in [lenra-io/application-runner](https://github.com//lenra-io/application-runner)
+1. 🗣 Commented on [#171](https://github.com//lenra-io/dev-tools/issues/171) in [lenra-io/dev-tools](https://github.com//lenra-io/dev-tools)
+2. 🗣 Commented on [#38](https://github.com//lenra-io/client-store/issues/38) in [lenra-io/client-store](https://github.com//lenra-io/client-store)
+3. 🗣 Commented on [#40](https://github.com//lenra-io/client-store/issues/40) in [lenra-io/client-store](https://github.com//lenra-io/client-store)
+4. 🗣 Commented on [#36](https://github.com//lenra-io/client-store/issues/36) in [lenra-io/client-store](https://github.com//lenra-io/client-store)
+5. 🗣 Commented on [#293](https://github.com//lenra-io/application-runner/issues/293) in [lenra-io/application-runner](https://github.com//lenra-io/application-runner)
 <!--END_SECTION:activity-->
