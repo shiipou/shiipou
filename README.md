@@ -49,9 +49,9 @@ I provide for free the Nocturlab Federated Instances ([PeerTube](https://tube.no
 
 ## - 🚀🔥 Recent Activity!
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#47](https://github.com//lenra-io/client/issues/47) in [lenra-io/client](https://github.com//lenra-io/client)
-2. 🗣 Commented on [#167](https://github.com//lenra-io/dev-tools/issues/167) in [lenra-io/dev-tools](https://github.com//lenra-io/dev-tools)
-3. 🗣 Commented on [#208](https://github.com//lenra-io/lenra_ui_runner/issues/208) in [lenra-io/lenra_ui_runner](https://github.com//lenra-io/lenra_ui_runner)
-4. 🗣 Commented on [#205](https://github.com//lenra-io/lenra_ui_runner/issues/205) in [lenra-io/lenra_ui_runner](https://github.com//lenra-io/lenra_ui_runner)
-5. 🗣 Commented on [#72](https://github.com//lenra-io/client-common/issues/72) in [lenra-io/client-common](https://github.com//lenra-io/client-common)
+1. 🗣 Commented on [#24](https://github.com//lenra-io/query-parser/issues/24) in [lenra-io/query-parser](https://github.com//lenra-io/query-parser)
+2. 🗣 Commented on [#47](https://github.com//lenra-io/client/issues/47) in [lenra-io/client](https://github.com//lenra-io/client)
+3. 🗣 Commented on [#167](https://github.com//lenra-io/dev-tools/issues/167) in [lenra-io/dev-tools](https://github.com//lenra-io/dev-tools)
+4. 🗣 Commented on [#208](https://github.com//lenra-io/lenra_ui_runner/issues/208) in [lenra-io/lenra_ui_runner](https://github.com//lenra-io/lenra_ui_runner)
+5. 🗣 Commented on [#205](https://github.com//lenra-io/lenra_ui_runner/issues/205) in [lenra-io/lenra_ui_runner](https://github.com//lenra-io/lenra_ui_runner)
 <!--END_SECTION:activity-->
