@@ -49,9 +49,9 @@ I provide for free the Nocturlab Federated Instances ([PeerTube](https://tube.no
 
 ## - 🚀🔥 Recent Activity!
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#76](https://github.com//lenra-io/backoffice/pull/76) in [lenra-io/backoffice](https://github.com//lenra-io/backoffice)
-2. 🗣 Commented on [#74](https://github.com//lenra-io/client-common/issues/74) in [lenra-io/client-common](https://github.com//lenra-io/client-common)
-3. 🗣 Commented on [#205](https://github.com//lenra-io/lenra_ui_runner/issues/205) in [lenra-io/lenra_ui_runner](https://github.com//lenra-io/lenra_ui_runner)
-4. 🎉 Merged PR [#205](https://github.com//lenra-io/lenra_ui_runner/pull/205) in [lenra-io/lenra_ui_runner](https://github.com//lenra-io/lenra_ui_runner)
-5. 🗣 Commented on [#205](https://github.com//lenra-io/lenra_ui_runner/issues/205) in [lenra-io/lenra_ui_runner](https://github.com//lenra-io/lenra_ui_runner)
+1. 🗣 Commented on [#53](https://github.com//lenra-io/client/issues/53) in [lenra-io/client](https://github.com//lenra-io/client)
+2. 🗣 Commented on [#76](https://github.com//lenra-io/backoffice/issues/76) in [lenra-io/backoffice](https://github.com//lenra-io/backoffice)
+3. 🎉 Merged PR [#53](https://github.com//lenra-io/client/pull/53) in [lenra-io/client](https://github.com//lenra-io/client)
+4. 🎉 Merged PR [#76](https://github.com//lenra-io/backoffice/pull/76) in [lenra-io/backoffice](https://github.com//lenra-io/backoffice)
+5. 🗣 Commented on [#74](https://github.com//lenra-io/client-common/issues/74) in [lenra-io/client-common](https://github.com//lenra-io/client-common)
 <!--END_SECTION:activity-->
