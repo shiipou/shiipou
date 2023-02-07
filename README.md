@@ -49,9 +49,9 @@ I provide for free the Nocturlab Federated Instances ([PeerTube](https://tube.no
 
 ## - 🚀🔥 Recent Activity!
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#182](https://github.com//lenra-io/lenra_cli/issues/182) in [lenra-io/lenra_cli](https://github.com//lenra-io/lenra_cli)
-2. 🗣 Commented on [#182](https://github.com//lenra-io/lenra_cli/issues/182) in [lenra-io/lenra_cli](https://github.com//lenra-io/lenra_cli)
-3. ❗️ Opened issue [#182](https://github.com//lenra-io/lenra_cli/issues/182) in [lenra-io/lenra_cli](https://github.com//lenra-io/lenra_cli)
-4. 🗣 Commented on [#211](https://github.com//lenra-io/lenra_ui_runner/issues/211) in [lenra-io/lenra_ui_runner](https://github.com//lenra-io/lenra_ui_runner)
-5. 🗣 Commented on [#214](https://github.com//lenra-io/lenra_ui_runner/issues/214) in [lenra-io/lenra_ui_runner](https://github.com//lenra-io/lenra_ui_runner)
+1. ❗️ Opened issue [#187](https://github.com//lenra-io/lenra_cli/issues/187) in [lenra-io/lenra_cli](https://github.com//lenra-io/lenra_cli)
+2. ❗️ Opened issue [#186](https://github.com//lenra-io/lenra_cli/issues/186) in [lenra-io/lenra_cli](https://github.com//lenra-io/lenra_cli)
+3. ❗️ Opened issue [#185](https://github.com//lenra-io/lenra_cli/issues/185) in [lenra-io/lenra_cli](https://github.com//lenra-io/lenra_cli)
+4. ❗️ Opened issue [#184](https://github.com//lenra-io/lenra_cli/issues/184) in [lenra-io/lenra_cli](https://github.com//lenra-io/lenra_cli)
+5. 🗣 Commented on [#182](https://github.com//lenra-io/lenra_cli/issues/182) in [lenra-io/lenra_cli](https://github.com//lenra-io/lenra_cli)
 <!--END_SECTION:activity-->
