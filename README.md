@@ -49,9 +49,9 @@ I provide for free the Nocturlab Federated Instances ([PeerTube](https://tube.no
 
 ## - 🚀🔥 Recent Activity!
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6](https://github.com//shiipou/gimmick-app/pull/6) in [shiipou/gimmick-app](https://github.com//shiipou/gimmick-app)
-2. ❗️ Opened issue [#5](https://github.com//shiipou/gimmick-app/issues/5) in [shiipou/gimmick-app](https://github.com//shiipou/gimmick-app)
-3. ❗️ Opened issue [#4](https://github.com//shiipou/gimmick-app/issues/4) in [shiipou/gimmick-app](https://github.com//shiipou/gimmick-app)
-4. ❗️ Opened issue [#3](https://github.com//shiipou/gimmick-app/issues/3) in [shiipou/gimmick-app](https://github.com//shiipou/gimmick-app)
-5. ❗️ Opened issue [#2](https://github.com//shiipou/gimmick-app/issues/2) in [shiipou/gimmick-app](https://github.com//shiipou/gimmick-app)
+1. ❗️ Closed issue [#5](https://github.com//shiipou/gimmick-app/issues/5) in [shiipou/gimmick-app](https://github.com//shiipou/gimmick-app)
+2. 🎉 Merged PR [#6](https://github.com//shiipou/gimmick-app/pull/6) in [shiipou/gimmick-app](https://github.com//shiipou/gimmick-app)
+3. 💪 Opened PR [#6](https://github.com//shiipou/gimmick-app/pull/6) in [shiipou/gimmick-app](https://github.com//shiipou/gimmick-app)
+4. ❗️ Opened issue [#5](https://github.com//shiipou/gimmick-app/issues/5) in [shiipou/gimmick-app](https://github.com//shiipou/gimmick-app)
+5. ❗️ Opened issue [#4](https://github.com//shiipou/gimmick-app/issues/4) in [shiipou/gimmick-app](https://github.com//shiipou/gimmick-app)
 <!--END_SECTION:activity-->
