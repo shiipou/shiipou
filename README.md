@@ -49,9 +49,9 @@ I provide for free the Nocturlab Federated Instances ([PeerTube](https://tube.no
 
 ## - 🚀🔥 Recent Activity!
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#15](https://github.com//lenra-io/template-v/pull/15) in [lenra-io/template-v](https://github.com//lenra-io/template-v)
-2. ❗️ Closed issue [#5](https://github.com//shiipou/gimmick-app/issues/5) in [shiipou/gimmick-app](https://github.com//shiipou/gimmick-app)
-3. 🎉 Merged PR [#6](https://github.com//shiipou/gimmick-app/pull/6) in [shiipou/gimmick-app](https://github.com//shiipou/gimmick-app)
-4. 💪 Opened PR [#6](https://github.com//shiipou/gimmick-app/pull/6) in [shiipou/gimmick-app](https://github.com//shiipou/gimmick-app)
-5. ❗️ Opened issue [#5](https://github.com//shiipou/gimmick-app/issues/5) in [shiipou/gimmick-app](https://github.com//shiipou/gimmick-app)
+1. 🗣 Commented on [#196](https://github.com//lenra-io/lenra_ui_runner/issues/196) in [lenra-io/lenra_ui_runner](https://github.com//lenra-io/lenra_ui_runner)
+2. 🎉 Merged PR [#15](https://github.com//lenra-io/template-v/pull/15) in [lenra-io/template-v](https://github.com//lenra-io/template-v)
+3. ❗️ Closed issue [#5](https://github.com//shiipou/gimmick-app/issues/5) in [shiipou/gimmick-app](https://github.com//shiipou/gimmick-app)
+4. 🎉 Merged PR [#6](https://github.com//shiipou/gimmick-app/pull/6) in [shiipou/gimmick-app](https://github.com//shiipou/gimmick-app)
+5. 💪 Opened PR [#6](https://github.com//shiipou/gimmick-app/pull/6) in [shiipou/gimmick-app](https://github.com//shiipou/gimmick-app)
 <!--END_SECTION:activity-->
