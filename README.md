@@ -49,9 +49,9 @@ I provide for free the Nocturlab Federated Instances ([PeerTube](https://tube.no
 
 ## - 🚀🔥 Recent Activity!
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#322](https://github.com//lenra-io/application-runner/issues/322) in [lenra-io/application-runner](https://github.com//lenra-io/application-runner)
-2. 🗣 Commented on [#182](https://github.com//lenra-io/devtool/issues/182) in [lenra-io/devtool](https://github.com//lenra-io/devtool)
-3. 🗣 Commented on [#321](https://github.com//lenra-io/application-runner/issues/321) in [lenra-io/application-runner](https://github.com//lenra-io/application-runner)
-4. 🗣 Commented on [#87](https://github.com//lenra-io/docs/issues/87) in [lenra-io/docs](https://github.com//lenra-io/docs)
-5. 🗣 Commented on [#181](https://github.com//lenra-io/devtool/issues/181) in [lenra-io/devtool](https://github.com//lenra-io/devtool)
+1. ❗️ Opened issue [#202](https://github.com//lenra-io/lenra_cli/issues/202) in [lenra-io/lenra_cli](https://github.com//lenra-io/lenra_cli)
+2. 🗣 Commented on [#322](https://github.com//lenra-io/application-runner/issues/322) in [lenra-io/application-runner](https://github.com//lenra-io/application-runner)
+3. 🗣 Commented on [#182](https://github.com//lenra-io/devtool/issues/182) in [lenra-io/devtool](https://github.com//lenra-io/devtool)
+4. 🗣 Commented on [#321](https://github.com//lenra-io/application-runner/issues/321) in [lenra-io/application-runner](https://github.com//lenra-io/application-runner)
+5. 🗣 Commented on [#87](https://github.com//lenra-io/docs/issues/87) in [lenra-io/docs](https://github.com//lenra-io/docs)
 <!--END_SECTION:activity-->
