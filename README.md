@@ -49,9 +49,9 @@ I provide for free the Nocturlab Federated Instances ([PeerTube](https://tube.no
 
 ## - 🚀🔥 Recent Activity!
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#12](https://github.com//lenra-io/template-javascript/pull/12) in [lenra-io/template-javascript](https://github.com//lenra-io/template-javascript)
-2. ❗️ Opened issue [#202](https://github.com//lenra-io/lenra_cli/issues/202) in [lenra-io/lenra_cli](https://github.com//lenra-io/lenra_cli)
-3. 🗣 Commented on [#322](https://github.com//lenra-io/application-runner/issues/322) in [lenra-io/application-runner](https://github.com//lenra-io/application-runner)
-4. 🗣 Commented on [#182](https://github.com//lenra-io/devtool/issues/182) in [lenra-io/devtool](https://github.com//lenra-io/devtool)
-5. 🗣 Commented on [#321](https://github.com//lenra-io/application-runner/issues/321) in [lenra-io/application-runner](https://github.com//lenra-io/application-runner)
+1. 💪 Opened PR [#203](https://github.com//lenra-io/lenra_cli/pull/203) in [lenra-io/lenra_cli](https://github.com//lenra-io/lenra_cli)
+2. 💪 Opened PR [#12](https://github.com//lenra-io/template-javascript/pull/12) in [lenra-io/template-javascript](https://github.com//lenra-io/template-javascript)
+3. ❗️ Opened issue [#202](https://github.com//lenra-io/lenra_cli/issues/202) in [lenra-io/lenra_cli](https://github.com//lenra-io/lenra_cli)
+4. 🗣 Commented on [#322](https://github.com//lenra-io/application-runner/issues/322) in [lenra-io/application-runner](https://github.com//lenra-io/application-runner)
+5. 🗣 Commented on [#182](https://github.com//lenra-io/devtool/issues/182) in [lenra-io/devtool](https://github.com//lenra-io/devtool)
 <!--END_SECTION:activity-->
