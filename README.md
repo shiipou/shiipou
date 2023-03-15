@@ -49,9 +49,9 @@ I provide for free the Nocturlab Federated Instances ([PeerTube](https://tube.no
 
 ## - 🚀🔥 Recent Activity!
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#72](https://github.com//lenra-io/website/issues/72) in [lenra-io/website](https://github.com//lenra-io/website)
-2. 🗣 Commented on [#66](https://github.com//lenra-io/website/issues/66) in [lenra-io/website](https://github.com//lenra-io/website)
-3. 🗣 Commented on [#64](https://github.com//lenra-io/website/issues/64) in [lenra-io/website](https://github.com//lenra-io/website)
-4. 🗣 Commented on [#71](https://github.com//lenra-io/website/issues/71) in [lenra-io/website](https://github.com//lenra-io/website)
-5. 🗣 Commented on [#70](https://github.com//lenra-io/website/issues/70) in [lenra-io/website](https://github.com//lenra-io/website)
+1. 💪 Opened PR [#1](https://github.com//CaptainMarty/hermes/pull/1) in [CaptainMarty/hermes](https://github.com//CaptainMarty/hermes)
+2. 🗣 Commented on [#72](https://github.com//lenra-io/website/issues/72) in [lenra-io/website](https://github.com//lenra-io/website)
+3. 🗣 Commented on [#66](https://github.com//lenra-io/website/issues/66) in [lenra-io/website](https://github.com//lenra-io/website)
+4. 🗣 Commented on [#64](https://github.com//lenra-io/website/issues/64) in [lenra-io/website](https://github.com//lenra-io/website)
+5. 🗣 Commented on [#71](https://github.com//lenra-io/website/issues/71) in [lenra-io/website](https://github.com//lenra-io/website)
 <!--END_SECTION:activity-->
