@@ -49,9 +49,9 @@ I provide for free the Nocturlab Federated Instances ([PeerTube](https://tube.no
 
 ## - 🚀🔥 Recent Activity!
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#411](https://github.com//ggerganov/llama.cpp/issues/411) in [ggerganov/llama.cpp](https://github.com//ggerganov/llama.cpp)
-2. 🗣 Commented on [#411](https://github.com//ggerganov/llama.cpp/issues/411) in [ggerganov/llama.cpp](https://github.com//ggerganov/llama.cpp)
+1. 🗣 Commented on [#90](https://github.com//lenra-io/backoffice/issues/90) in [lenra-io/backoffice](https://github.com//lenra-io/backoffice)
+2. ❗️ Closed issue [#411](https://github.com//ggerganov/llama.cpp/issues/411) in [ggerganov/llama.cpp](https://github.com//ggerganov/llama.cpp)
 3. 🗣 Commented on [#411](https://github.com//ggerganov/llama.cpp/issues/411) in [ggerganov/llama.cpp](https://github.com//ggerganov/llama.cpp)
 4. 🗣 Commented on [#411](https://github.com//ggerganov/llama.cpp/issues/411) in [ggerganov/llama.cpp](https://github.com//ggerganov/llama.cpp)
-5. ❗️ Opened issue [#411](https://github.com//ggerganov/llama.cpp/issues/411) in [ggerganov/llama.cpp](https://github.com//ggerganov/llama.cpp)
+5. 🗣 Commented on [#411](https://github.com//ggerganov/llama.cpp/issues/411) in [ggerganov/llama.cpp](https://github.com//ggerganov/llama.cpp)
 <!--END_SECTION:activity-->
