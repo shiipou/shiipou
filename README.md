@@ -49,9 +49,9 @@ I provide for free the Nocturlab Federated Instances ([PeerTube](https://tube.no
 
 ## - 🚀🔥 Recent Activity!
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#280](https://github.com//lenra-io/server/issues/280) in [lenra-io/server](https://github.com//lenra-io/server)
-2. 🗣 Commented on [#279](https://github.com//lenra-io/server/issues/279) in [lenra-io/server](https://github.com//lenra-io/server)
-3. 🗣 Commented on [#296](https://github.com//lenra-io/server/issues/296) in [lenra-io/server](https://github.com//lenra-io/server)
-4. 🗣 Commented on [#295](https://github.com//lenra-io/server/issues/295) in [lenra-io/server](https://github.com//lenra-io/server)
-5. 🗣 Commented on [#294](https://github.com//lenra-io/server/issues/294) in [lenra-io/server](https://github.com//lenra-io/server)
+1. 🗣 Commented on [#182](https://github.com//lenra-io/server/issues/182) in [lenra-io/server](https://github.com//lenra-io/server)
+2. 🗣 Commented on [#181](https://github.com//lenra-io/server/issues/181) in [lenra-io/server](https://github.com//lenra-io/server)
+3. 🗣 Commented on [#212](https://github.com//lenra-io/server/issues/212) in [lenra-io/server](https://github.com//lenra-io/server)
+4. 🗣 Commented on [#258](https://github.com//lenra-io/server/issues/258) in [lenra-io/server](https://github.com//lenra-io/server)
+5. 🗣 Commented on [#275](https://github.com//lenra-io/server/issues/275) in [lenra-io/server](https://github.com//lenra-io/server)
 <!--END_SECTION:activity-->
