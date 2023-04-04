@@ -49,9 +49,9 @@ I provide for free the Nocturlab Federated Instances ([PeerTube](https://tube.no
 
 ## - 🚀🔥 Recent Activity!
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#74](https://github.com//lenra-io/website/issues/74) in [lenra-io/website](https://github.com//lenra-io/website)
-2. 🗣 Commented on [#76](https://github.com//lenra-io/website/issues/76) in [lenra-io/website](https://github.com//lenra-io/website)
-3. 💪 Opened PR [#2](https://github.com//CaptainMarty/hermes/pull/2) in [CaptainMarty/hermes](https://github.com//CaptainMarty/hermes)
-4. 🗣 Commented on [#90](https://github.com//lenra-io/backoffice/issues/90) in [lenra-io/backoffice](https://github.com//lenra-io/backoffice)
-5. ❗️ Closed issue [#411](https://github.com//ggerganov/llama.cpp/issues/411) in [ggerganov/llama.cpp](https://github.com//ggerganov/llama.cpp)
+1. ❗️ Opened issue [#218](https://github.com//lenra-io/lenra_cli/issues/218) in [lenra-io/lenra_cli](https://github.com//lenra-io/lenra_cli)
+2. 🗣 Commented on [#74](https://github.com//lenra-io/website/issues/74) in [lenra-io/website](https://github.com//lenra-io/website)
+3. 🗣 Commented on [#76](https://github.com//lenra-io/website/issues/76) in [lenra-io/website](https://github.com//lenra-io/website)
+4. 💪 Opened PR [#2](https://github.com//CaptainMarty/hermes/pull/2) in [CaptainMarty/hermes](https://github.com//CaptainMarty/hermes)
+5. 🗣 Commented on [#90](https://github.com//lenra-io/backoffice/issues/90) in [lenra-io/backoffice](https://github.com//lenra-io/backoffice)
 <!--END_SECTION:activity-->
