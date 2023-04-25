@@ -15,8 +15,6 @@ My main competances was in Sys-Admin and bakcend development. But I do website i
 
 My mains project are in V but sometimes I do Dart (and Flutter), Go, TypeScript (Deno and Node), Java (Springboot or not), C#, bash, and C/C++.
 
-I provide for free the Nocturlab Federated Instances ([PeerTube](https://tube.nocturlab.fr), [NextCloud](https://cloud.nocturlab.fr), [Matrix](https://talk.nocturlab.fr), ...)
-
 [![](https://img.shields.io/badge/Fedora-Framework%20Laptop-2376bc?style=flat-square&logo=fedora)](https://getfedora.org/)
 [![](https://img.shields.io/badge/Debian-IBM%20server-D50032?style=flat-square&logo=debian&logoColor=CE0056)](https://www.debian.org/)
 [![](https://img.shields.io/badge/Android%2013-Pixel%207%20Pro-DD4814?style=flat-square&logo=Phone)](https://store.google.com/)
@@ -43,7 +41,7 @@ I provide for free the Nocturlab Federated Instances ([PeerTube](https://tube.no
 - 🔭 I’m currently working on [Clyde](https://github.com/shiipou/clyde) and [Vi-v](https://github.com/nocturlab/vi-v) <!--- 🌱 I’m currently learning [Rust](https://www.rust-lang.org/) -->
 - 👯 I’m looking to collaborate on multi-plateform UI library using canvas.
 - 💬 Ask me about anything
-- 📫 How to reach me: [Twitter (@nocturlab)](https://twitter.com/nocturlab) [Matrix (@shiishii:nocturlab.fr)](https://matrix.to/#/@shiishii:nocturlab.fr)
+- 📫 How to reach me: [Email (shiishii@nocturlab.fr)](mailto:shiishii@nocturlab.fr)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Most Developers refer to themselves professionally as `Developers`. But some still prefer to be called `Ninja`.
 
