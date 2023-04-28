@@ -47,9 +47,9 @@ My mains project are in V but sometimes I do Dart (and Flutter), Go, TypeScript 
 
 ## - 🚀🔥 Recent Activity!
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#73](https://github.com//lenra-io/docs/issues/73) in [lenra-io/docs](https://github.com//lenra-io/docs)
-2. 🗣 Commented on [#95](https://github.com//lenra-io/docs/issues/95) in [lenra-io/docs](https://github.com//lenra-io/docs)
-3. 🗣 Commented on [#100](https://github.com//lenra-io/docs/issues/100) in [lenra-io/docs](https://github.com//lenra-io/docs)
-4. 🗣 Commented on [#93](https://github.com//lenra-io/docs/issues/93) in [lenra-io/docs](https://github.com//lenra-io/docs)
-5. 🗣 Commented on [#94](https://github.com//lenra-io/docs/issues/94) in [lenra-io/docs](https://github.com//lenra-io/docs)
+1. 🗣 Commented on [#68](https://github.com//lenra-io/client/issues/68) in [lenra-io/client](https://github.com//lenra-io/client)
+2. 🗣 Commented on [#73](https://github.com//lenra-io/docs/issues/73) in [lenra-io/docs](https://github.com//lenra-io/docs)
+3. 🗣 Commented on [#95](https://github.com//lenra-io/docs/issues/95) in [lenra-io/docs](https://github.com//lenra-io/docs)
+4. 🗣 Commented on [#100](https://github.com//lenra-io/docs/issues/100) in [lenra-io/docs](https://github.com//lenra-io/docs)
+5. 🗣 Commented on [#93](https://github.com//lenra-io/docs/issues/93) in [lenra-io/docs](https://github.com//lenra-io/docs)
 <!--END_SECTION:activity-->
