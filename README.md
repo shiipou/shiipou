@@ -47,9 +47,9 @@ My mains project are in V but sometimes I do Dart (and Flutter), Go, TypeScript 
 
 ## - 🚀🔥 Recent Activity!
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#258](https://github.com//lenra-io/lenra_cli/issues/258) in [lenra-io/lenra_cli](https://github.com//lenra-io/lenra_cli)
-2. 🗣 Commented on [#97](https://github.com//lenra-io/docs/issues/97) in [lenra-io/docs](https://github.com//lenra-io/docs)
-3. 🗣 Commented on [#102](https://github.com//lenra-io/docs/issues/102) in [lenra-io/docs](https://github.com//lenra-io/docs)
-4. 🗣 Commented on [#103](https://github.com//lenra-io/docs/issues/103) in [lenra-io/docs](https://github.com//lenra-io/docs)
-5. ❗️ Opened issue [#7](https://github.com//shiipou/gimmick-app/issues/7) in [shiipou/gimmick-app](https://github.com//shiipou/gimmick-app)
+1. ❗️ Opened issue [#4](https://github.com//shiipou/pr-is-wip-action/issues/4) in [shiipou/pr-is-wip-action](https://github.com//shiipou/pr-is-wip-action)
+2. ❗️ Opened issue [#258](https://github.com//lenra-io/lenra_cli/issues/258) in [lenra-io/lenra_cli](https://github.com//lenra-io/lenra_cli)
+3. 🗣 Commented on [#97](https://github.com//lenra-io/docs/issues/97) in [lenra-io/docs](https://github.com//lenra-io/docs)
+4. 🗣 Commented on [#102](https://github.com//lenra-io/docs/issues/102) in [lenra-io/docs](https://github.com//lenra-io/docs)
+5. 🗣 Commented on [#103](https://github.com//lenra-io/docs/issues/103) in [lenra-io/docs](https://github.com//lenra-io/docs)
 <!--END_SECTION:activity-->
