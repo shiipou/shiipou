@@ -47,9 +47,9 @@ My mains project are in V but sometimes I do Dart (and Flutter), Go, TypeScript 
 
 ## - 🚀🔥 Recent Activity!
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#7](https://github.com//lenra-io/github-actions/issues/7) in [lenra-io/github-actions](https://github.com//lenra-io/github-actions)
-2. ❗️ Closed issue [#4](https://github.com//shiipou/pr-is-wip-action/issues/4) in [shiipou/pr-is-wip-action](https://github.com//shiipou/pr-is-wip-action)
-3. 🎉 Merged PR [#5](https://github.com//shiipou/pr-is-wip-action/pull/5) in [shiipou/pr-is-wip-action](https://github.com//shiipou/pr-is-wip-action)
-4. 🗣 Commented on [#5](https://github.com//shiipou/pr-is-wip-action/issues/5) in [shiipou/pr-is-wip-action](https://github.com//shiipou/pr-is-wip-action)
-5. 💪 Opened PR [#5](https://github.com//shiipou/pr-is-wip-action/pull/5) in [shiipou/pr-is-wip-action](https://github.com//shiipou/pr-is-wip-action)
+1. 🗣 Commented on [#4](https://github.com//lenra-io/github-actions/issues/4) in [lenra-io/github-actions](https://github.com//lenra-io/github-actions)
+2. ❗️ Closed issue [#4](https://github.com//lenra-io/github-actions/issues/4) in [lenra-io/github-actions](https://github.com//lenra-io/github-actions)
+3. ❗️ Opened issue [#7](https://github.com//lenra-io/github-actions/issues/7) in [lenra-io/github-actions](https://github.com//lenra-io/github-actions)
+4. ❗️ Closed issue [#4](https://github.com//shiipou/pr-is-wip-action/issues/4) in [shiipou/pr-is-wip-action](https://github.com//shiipou/pr-is-wip-action)
+5. 🎉 Merged PR [#5](https://github.com//shiipou/pr-is-wip-action/pull/5) in [shiipou/pr-is-wip-action](https://github.com//shiipou/pr-is-wip-action)
 <!--END_SECTION:activity-->
