@@ -47,9 +47,9 @@ My mains project are in V but sometimes I do Dart (and Flutter), Go, TypeScript 
 
 ## - 🚀🔥 Recent Activity!
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#23](https://github.com//lenra-io/website/issues/23) in [lenra-io/website](https://github.com//lenra-io/website)
-2. ❌ Closed PR [#81](https://github.com//lenra-io/devtool/pull/81) in [lenra-io/devtool](https://github.com//lenra-io/devtool)
-3. 🗣 Commented on [#81](https://github.com//lenra-io/devtool/issues/81) in [lenra-io/devtool](https://github.com//lenra-io/devtool)
-4. 🗣 Commented on [#4](https://github.com//lenra-io/github-actions/issues/4) in [lenra-io/github-actions](https://github.com//lenra-io/github-actions)
-5. ❗️ Closed issue [#4](https://github.com//lenra-io/github-actions/issues/4) in [lenra-io/github-actions](https://github.com//lenra-io/github-actions)
+1. 🗣 Commented on [#73](https://github.com//lenra-io/lenra_cli/issues/73) in [lenra-io/lenra_cli](https://github.com//lenra-io/lenra_cli)
+2. 🗣 Commented on [#23](https://github.com//lenra-io/website/issues/23) in [lenra-io/website](https://github.com//lenra-io/website)
+3. ❌ Closed PR [#81](https://github.com//lenra-io/devtool/pull/81) in [lenra-io/devtool](https://github.com//lenra-io/devtool)
+4. 🗣 Commented on [#81](https://github.com//lenra-io/devtool/issues/81) in [lenra-io/devtool](https://github.com//lenra-io/devtool)
+5. 🗣 Commented on [#4](https://github.com//lenra-io/github-actions/issues/4) in [lenra-io/github-actions](https://github.com//lenra-io/github-actions)
 <!--END_SECTION:activity-->
