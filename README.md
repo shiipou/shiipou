@@ -47,9 +47,9 @@ My mains project are in V but sometimes I do Dart (and Flutter), Go, TypeScript 
 
 ## - 🚀🔥 Recent Activity!
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#34](https://github.com//lenra-io/query-parser/issues/34) in [lenra-io/query-parser](https://github.com//lenra-io/query-parser)
-2. 🗣 Commented on [#73](https://github.com//lenra-io/lenra_cli/issues/73) in [lenra-io/lenra_cli](https://github.com//lenra-io/lenra_cli)
-3. 🗣 Commented on [#23](https://github.com//lenra-io/website/issues/23) in [lenra-io/website](https://github.com//lenra-io/website)
-4. ❌ Closed PR [#81](https://github.com//lenra-io/devtool/pull/81) in [lenra-io/devtool](https://github.com//lenra-io/devtool)
-5. 🗣 Commented on [#81](https://github.com//lenra-io/devtool/issues/81) in [lenra-io/devtool](https://github.com//lenra-io/devtool)
+1. 🗣 Commented on [#369](https://github.com//lenra-io/server/issues/369) in [lenra-io/server](https://github.com//lenra-io/server)
+2. 🗣 Commented on [#380](https://github.com//lenra-io/server/issues/380) in [lenra-io/server](https://github.com//lenra-io/server)
+3. 🗣 Commented on [#34](https://github.com//lenra-io/query-parser/issues/34) in [lenra-io/query-parser](https://github.com//lenra-io/query-parser)
+4. 🗣 Commented on [#73](https://github.com//lenra-io/lenra_cli/issues/73) in [lenra-io/lenra_cli](https://github.com//lenra-io/lenra_cli)
+5. 🗣 Commented on [#23](https://github.com//lenra-io/website/issues/23) in [lenra-io/website](https://github.com//lenra-io/website)
 <!--END_SECTION:activity-->
