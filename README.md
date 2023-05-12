@@ -47,9 +47,9 @@ My mains project are in V but sometimes I do Dart (and Flutter), Go, TypeScript 
 
 ## - 🚀🔥 Recent Activity!
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#96](https://github.com//lenra-io/docs/issues/96) in [lenra-io/docs](https://github.com//lenra-io/docs)
-2. 🗣 Commented on [#337](https://github.com//lenra-io/application-runner/issues/337) in [lenra-io/application-runner](https://github.com//lenra-io/application-runner)
-3. 🗣 Commented on [#369](https://github.com//lenra-io/server/issues/369) in [lenra-io/server](https://github.com//lenra-io/server)
-4. 🗣 Commented on [#380](https://github.com//lenra-io/server/issues/380) in [lenra-io/server](https://github.com//lenra-io/server)
-5. 🗣 Commented on [#34](https://github.com//lenra-io/query-parser/issues/34) in [lenra-io/query-parser](https://github.com//lenra-io/query-parser)
+1. 🗣 Commented on [#331](https://github.com//lenra-io/application-runner/issues/331) in [lenra-io/application-runner](https://github.com//lenra-io/application-runner)
+2. 🗣 Commented on [#96](https://github.com//lenra-io/docs/issues/96) in [lenra-io/docs](https://github.com//lenra-io/docs)
+3. 🗣 Commented on [#337](https://github.com//lenra-io/application-runner/issues/337) in [lenra-io/application-runner](https://github.com//lenra-io/application-runner)
+4. 🗣 Commented on [#369](https://github.com//lenra-io/server/issues/369) in [lenra-io/server](https://github.com//lenra-io/server)
+5. 🗣 Commented on [#380](https://github.com//lenra-io/server/issues/380) in [lenra-io/server](https://github.com//lenra-io/server)
 <!--END_SECTION:activity-->
