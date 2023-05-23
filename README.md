@@ -49,7 +49,7 @@ My mains project are in V but sometimes I do Dart (and Flutter), Go, TypeScript 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#233](https://github.com//lenra-io/lenra_cli/issues/233) in [lenra-io/lenra_cli](https://github.com//lenra-io/lenra_cli)
 2. 🗣 Commented on [#233](https://github.com//lenra-io/lenra_cli/issues/233) in [lenra-io/lenra_cli](https://github.com//lenra-io/lenra_cli)
-3. 💪 Opened PR [#155](https://github.com//tg123/sshpiper/pull/155) in [tg123/sshpiper](https://github.com//tg123/sshpiper)
-4. 🗣 Commented on [#333](https://github.com//lenra-io/application-runner/issues/333) in [lenra-io/application-runner](https://github.com//lenra-io/application-runner)
-5. 🗣 Commented on [#340](https://github.com//lenra-io/application-runner/issues/340) in [lenra-io/application-runner](https://github.com//lenra-io/application-runner)
+3. 🗣 Commented on [#233](https://github.com//lenra-io/lenra_cli/issues/233) in [lenra-io/lenra_cli](https://github.com//lenra-io/lenra_cli)
+4. 💪 Opened PR [#155](https://github.com//tg123/sshpiper/pull/155) in [tg123/sshpiper](https://github.com//tg123/sshpiper)
+5. 🗣 Commented on [#333](https://github.com//lenra-io/application-runner/issues/333) in [lenra-io/application-runner](https://github.com//lenra-io/application-runner)
 <!--END_SECTION:activity-->
