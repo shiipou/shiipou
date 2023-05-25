@@ -47,9 +47,9 @@ My mains project are in V but sometimes I do Dart (and Flutter), Go, TypeScript 
 
 ## - 🚀🔥 Recent Activity!
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#92](https://github.com//lenra-io/docs/issues/92) in [lenra-io/docs](https://github.com//lenra-io/docs)
-2. 🗣 Commented on [#105](https://github.com//lenra-io/docs/issues/105) in [lenra-io/docs](https://github.com//lenra-io/docs)
-3. 🗣 Commented on [#361](https://github.com//lenra-io/server/issues/361) in [lenra-io/server](https://github.com//lenra-io/server)
+1. 🗣 Commented on [#47](https://github.com//lchmagKekse/TOTK-SaveGame-Editor/issues/47) in [lchmagKekse/TOTK-SaveGame-Editor](https://github.com//lchmagKekse/TOTK-SaveGame-Editor)
+2. 🗣 Commented on [#92](https://github.com//lenra-io/docs/issues/92) in [lenra-io/docs](https://github.com//lenra-io/docs)
+3. 🗣 Commented on [#105](https://github.com//lenra-io/docs/issues/105) in [lenra-io/docs](https://github.com//lenra-io/docs)
 4. 🗣 Commented on [#361](https://github.com//lenra-io/server/issues/361) in [lenra-io/server](https://github.com//lenra-io/server)
-5. 🗣 Commented on [#387](https://github.com//lenra-io/server/issues/387) in [lenra-io/server](https://github.com//lenra-io/server)
+5. 🗣 Commented on [#361](https://github.com//lenra-io/server/issues/361) in [lenra-io/server](https://github.com//lenra-io/server)
 <!--END_SECTION:activity-->
