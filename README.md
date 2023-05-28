@@ -47,9 +47,9 @@ My mains project are in V but sometimes I do Dart (and Flutter), Go, TypeScript 
 
 ## - 🚀🔥 Recent Activity!
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#11](https://github.com//shiipou/sem-release/issues/11) in [shiipou/sem-release](https://github.com//shiipou/sem-release)
-2. ❗️ Opened issue [#1](https://github.com//shiipou/modmopet/issues/1) in [shiipou/modmopet](https://github.com//shiipou/modmopet)
-3. 🗣 Commented on [#183](https://github.com//lenra-io/devtool/issues/183) in [lenra-io/devtool](https://github.com//lenra-io/devtool)
-4. 🗣 Commented on [#185](https://github.com//lenra-io/devtool/issues/185) in [lenra-io/devtool](https://github.com//lenra-io/devtool)
-5. 🗣 Commented on [#47](https://github.com//lchmagKekse/TOTK-SaveGame-Editor/issues/47) in [lchmagKekse/TOTK-SaveGame-Editor](https://github.com//lchmagKekse/TOTK-SaveGame-Editor)
+1. ❗️ Closed issue [#10](https://github.com//shiipou/sem-version/issues/10) in [shiipou/sem-version](https://github.com//shiipou/sem-version)
+2. 🎉 Merged PR [#12](https://github.com//shiipou/sem-version/pull/12) in [shiipou/sem-version](https://github.com//shiipou/sem-version)
+3. 💪 Opened PR [#12](https://github.com//shiipou/sem-version/pull/12) in [shiipou/sem-version](https://github.com//shiipou/sem-version)
+4. ❗️ Closed issue [#11](https://github.com//shiipou/sem-release/issues/11) in [shiipou/sem-release](https://github.com//shiipou/sem-release)
+5. 🗣 Commented on [#11](https://github.com//shiipou/sem-release/issues/11) in [shiipou/sem-release](https://github.com//shiipou/sem-release)
 <!--END_SECTION:activity-->
