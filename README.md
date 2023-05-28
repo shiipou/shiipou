@@ -47,9 +47,9 @@ My mains project are in V but sometimes I do Dart (and Flutter), Go, TypeScript 
 
 ## - 🚀🔥 Recent Activity!
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com//shiipou/modmopet/issues/1) in [shiipou/modmopet](https://github.com//shiipou/modmopet)
-2. 💪 Opened PR [#3](https://github.com//modmopet/modmopet/pull/3) in [modmopet/modmopet](https://github.com//modmopet/modmopet)
-3. 💪 Opened PR [#2](https://github.com//modmopet/modmopet/pull/2) in [modmopet/modmopet](https://github.com//modmopet/modmopet)
-4. ❗️ Closed issue [#10](https://github.com//shiipou/sem-version/issues/10) in [shiipou/sem-version](https://github.com//shiipou/sem-version)
-5. 🎉 Merged PR [#12](https://github.com//shiipou/sem-version/pull/12) in [shiipou/sem-version](https://github.com//shiipou/sem-version)
+1. ❌ Closed PR [#3](https://github.com//modmopet/modmopet/pull/3) in [modmopet/modmopet](https://github.com//modmopet/modmopet)
+2. ❗️ Closed issue [#1](https://github.com//shiipou/modmopet/issues/1) in [shiipou/modmopet](https://github.com//shiipou/modmopet)
+3. 💪 Opened PR [#3](https://github.com//modmopet/modmopet/pull/3) in [modmopet/modmopet](https://github.com//modmopet/modmopet)
+4. 💪 Opened PR [#2](https://github.com//modmopet/modmopet/pull/2) in [modmopet/modmopet](https://github.com//modmopet/modmopet)
+5. ❗️ Closed issue [#10](https://github.com//shiipou/sem-version/issues/10) in [shiipou/sem-version](https://github.com//shiipou/sem-version)
 <!--END_SECTION:activity-->
