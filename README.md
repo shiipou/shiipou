@@ -47,9 +47,9 @@ My mains project are in V but sometimes I do Dart (and Flutter), Go, TypeScript 
 
 ## - 🚀🔥 Recent Activity!
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#183](https://github.com//lenra-io/devtool/issues/183) in [lenra-io/devtool](https://github.com//lenra-io/devtool)
-2. 🗣 Commented on [#185](https://github.com//lenra-io/devtool/issues/185) in [lenra-io/devtool](https://github.com//lenra-io/devtool)
-3. 🗣 Commented on [#47](https://github.com//lchmagKekse/TOTK-SaveGame-Editor/issues/47) in [lchmagKekse/TOTK-SaveGame-Editor](https://github.com//lchmagKekse/TOTK-SaveGame-Editor)
-4. 🗣 Commented on [#92](https://github.com//lenra-io/docs/issues/92) in [lenra-io/docs](https://github.com//lenra-io/docs)
-5. 🗣 Commented on [#105](https://github.com//lenra-io/docs/issues/105) in [lenra-io/docs](https://github.com//lenra-io/docs)
+1. ❗️ Opened issue [#1](https://github.com//shiipou/modmopet/issues/1) in [shiipou/modmopet](https://github.com//shiipou/modmopet)
+2. 🗣 Commented on [#183](https://github.com//lenra-io/devtool/issues/183) in [lenra-io/devtool](https://github.com//lenra-io/devtool)
+3. 🗣 Commented on [#185](https://github.com//lenra-io/devtool/issues/185) in [lenra-io/devtool](https://github.com//lenra-io/devtool)
+4. 🗣 Commented on [#47](https://github.com//lchmagKekse/TOTK-SaveGame-Editor/issues/47) in [lchmagKekse/TOTK-SaveGame-Editor](https://github.com//lchmagKekse/TOTK-SaveGame-Editor)
+5. 🗣 Commented on [#92](https://github.com//lenra-io/docs/issues/92) in [lenra-io/docs](https://github.com//lenra-io/docs)
 <!--END_SECTION:activity-->
