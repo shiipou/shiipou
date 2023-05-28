@@ -47,9 +47,9 @@ My mains project are in V but sometimes I do Dart (and Flutter), Go, TypeScript 
 
 ## - 🚀🔥 Recent Activity!
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#10](https://github.com//shiipou/sem-version/issues/10) in [shiipou/sem-version](https://github.com//shiipou/sem-version)
-2. 🎉 Merged PR [#12](https://github.com//shiipou/sem-version/pull/12) in [shiipou/sem-version](https://github.com//shiipou/sem-version)
-3. 💪 Opened PR [#12](https://github.com//shiipou/sem-version/pull/12) in [shiipou/sem-version](https://github.com//shiipou/sem-version)
-4. ❗️ Closed issue [#11](https://github.com//shiipou/sem-release/issues/11) in [shiipou/sem-release](https://github.com//shiipou/sem-release)
-5. 🗣 Commented on [#11](https://github.com//shiipou/sem-release/issues/11) in [shiipou/sem-release](https://github.com//shiipou/sem-release)
+1. 💪 Opened PR [#3](https://github.com//modmopet/modmopet/pull/3) in [modmopet/modmopet](https://github.com//modmopet/modmopet)
+2. 💪 Opened PR [#2](https://github.com//modmopet/modmopet/pull/2) in [modmopet/modmopet](https://github.com//modmopet/modmopet)
+3. ❗️ Closed issue [#10](https://github.com//shiipou/sem-version/issues/10) in [shiipou/sem-version](https://github.com//shiipou/sem-version)
+4. 🎉 Merged PR [#12](https://github.com//shiipou/sem-version/pull/12) in [shiipou/sem-version](https://github.com//shiipou/sem-version)
+5. 💪 Opened PR [#12](https://github.com//shiipou/sem-version/pull/12) in [shiipou/sem-version](https://github.com//shiipou/sem-version)
 <!--END_SECTION:activity-->
