@@ -47,9 +47,9 @@ My mains project are in V but sometimes I do Dart (and Flutter), Go, TypeScript 
 
 ## - 🚀🔥 Recent Activity!
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#188](https://github.com//lenra-io/devtool/issues/188) in [lenra-io/devtool](https://github.com//lenra-io/devtool)
-2. 🗣 Commented on [#104](https://github.com//lenra-io/docs/issues/104) in [lenra-io/docs](https://github.com//lenra-io/docs)
-3. 🗣 Commented on [#106](https://github.com//lenra-io/docs/issues/106) in [lenra-io/docs](https://github.com//lenra-io/docs)
-4. 🗣 Commented on [#187](https://github.com//lenra-io/devtool/issues/187) in [lenra-io/devtool](https://github.com//lenra-io/devtool)
-5. 🗣 Commented on [#29](https://github.com//lenra-io/query-parser/issues/29) in [lenra-io/query-parser](https://github.com//lenra-io/query-parser)
+1. 💪 Opened PR [#226](https://github.com//lenra-io/lenra_ui_runner/pull/226) in [lenra-io/lenra_ui_runner](https://github.com//lenra-io/lenra_ui_runner)
+2. 🗣 Commented on [#83](https://github.com//lenra-io/client-common/issues/83) in [lenra-io/client-common](https://github.com//lenra-io/client-common)
+3. 🗣 Commented on [#188](https://github.com//lenra-io/devtool/issues/188) in [lenra-io/devtool](https://github.com//lenra-io/devtool)
+4. 🗣 Commented on [#104](https://github.com//lenra-io/docs/issues/104) in [lenra-io/docs](https://github.com//lenra-io/docs)
+5. 🗣 Commented on [#106](https://github.com//lenra-io/docs/issues/106) in [lenra-io/docs](https://github.com//lenra-io/docs)
 <!--END_SECTION:activity-->
