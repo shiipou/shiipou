@@ -47,9 +47,9 @@ My mains project are in V but sometimes I do Dart (and Flutter), Go, TypeScript 
 
 ## - 🚀🔥 Recent Activity!
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com//modmopet/modmopet/issues/4) in [modmopet/modmopet](https://github.com//modmopet/modmopet)
-2. 🗣 Commented on [#53](https://github.com//lchmagKekse/TOTK-SaveGame-Editor/issues/53) in [lchmagKekse/TOTK-SaveGame-Editor](https://github.com//lchmagKekse/TOTK-SaveGame-Editor)
-3. 💪 Opened PR [#4](https://github.com//CaptainMarty/hermes/pull/4) in [CaptainMarty/hermes](https://github.com//CaptainMarty/hermes)
-4. 🗣 Commented on [#189](https://github.com//lenra-io/devtool/issues/189) in [lenra-io/devtool](https://github.com//lenra-io/devtool)
-5. 🗣 Commented on [#110](https://github.com//lenra-io/docs/issues/110) in [lenra-io/docs](https://github.com//lenra-io/docs)
+1. 💪 Opened PR [#5](https://github.com//modmopet/modmopet/pull/5) in [modmopet/modmopet](https://github.com//modmopet/modmopet)
+2. 🗣 Commented on [#4](https://github.com//modmopet/modmopet/issues/4) in [modmopet/modmopet](https://github.com//modmopet/modmopet)
+3. 🗣 Commented on [#53](https://github.com//lchmagKekse/TOTK-SaveGame-Editor/issues/53) in [lchmagKekse/TOTK-SaveGame-Editor](https://github.com//lchmagKekse/TOTK-SaveGame-Editor)
+4. 💪 Opened PR [#4](https://github.com//CaptainMarty/hermes/pull/4) in [CaptainMarty/hermes](https://github.com//CaptainMarty/hermes)
+5. 🗣 Commented on [#189](https://github.com//lenra-io/devtool/issues/189) in [lenra-io/devtool](https://github.com//lenra-io/devtool)
 <!--END_SECTION:activity-->
