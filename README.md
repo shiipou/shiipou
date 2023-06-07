@@ -47,9 +47,9 @@ My mains project are in V but sometimes I do Dart (and Flutter), Go, TypeScript 
 
 ## - 🚀🔥 Recent Activity!
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#10](https://github.com//modmopet/modmopet/pull/10) in [modmopet/modmopet](https://github.com//modmopet/modmopet)
-2. 💪 Opened PR [#5](https://github.com//modmopet/modmopet/pull/5) in [modmopet/modmopet](https://github.com//modmopet/modmopet)
-3. 🗣 Commented on [#4](https://github.com//modmopet/modmopet/issues/4) in [modmopet/modmopet](https://github.com//modmopet/modmopet)
-4. 🗣 Commented on [#53](https://github.com//lchmagKekse/TOTK-SaveGame-Editor/issues/53) in [lchmagKekse/TOTK-SaveGame-Editor](https://github.com//lchmagKekse/TOTK-SaveGame-Editor)
-5. 💪 Opened PR [#4](https://github.com//CaptainMarty/hermes/pull/4) in [CaptainMarty/hermes](https://github.com//CaptainMarty/hermes)
+1. ❗️ Opened issue [#1112](https://github.com//openfaas/faas-netes/issues/1112) in [openfaas/faas-netes](https://github.com//openfaas/faas-netes)
+2. 💪 Opened PR [#10](https://github.com//modmopet/modmopet/pull/10) in [modmopet/modmopet](https://github.com//modmopet/modmopet)
+3. 💪 Opened PR [#5](https://github.com//modmopet/modmopet/pull/5) in [modmopet/modmopet](https://github.com//modmopet/modmopet)
+4. 🗣 Commented on [#4](https://github.com//modmopet/modmopet/issues/4) in [modmopet/modmopet](https://github.com//modmopet/modmopet)
+5. 🗣 Commented on [#53](https://github.com//lchmagKekse/TOTK-SaveGame-Editor/issues/53) in [lchmagKekse/TOTK-SaveGame-Editor](https://github.com//lchmagKekse/TOTK-SaveGame-Editor)
 <!--END_SECTION:activity-->
