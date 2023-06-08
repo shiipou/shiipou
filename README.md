@@ -47,9 +47,9 @@ My mains project are in V but sometimes I do Dart (and Flutter), Go, TypeScript 
 
 ## - 🚀🔥 Recent Activity!
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#70](https://github.com//lenra-io/client/pull/70) in [lenra-io/client](https://github.com//lenra-io/client)
-2. 🗣 Commented on [#385](https://github.com//lenra-io/server/issues/385) in [lenra-io/server](https://github.com//lenra-io/server)
+1. 💪 Opened PR [#91](https://github.com//lenra-io/website/pull/91) in [lenra-io/website](https://github.com//lenra-io/website)
+2. 🎉 Merged PR [#70](https://github.com//lenra-io/client/pull/70) in [lenra-io/client](https://github.com//lenra-io/client)
 3. 🗣 Commented on [#385](https://github.com//lenra-io/server/issues/385) in [lenra-io/server](https://github.com//lenra-io/server)
-4. 🎉 Merged PR [#220](https://github.com//lenra-io/lenra_ui_runner/pull/220) in [lenra-io/lenra_ui_runner](https://github.com//lenra-io/lenra_ui_runner)
-5. 🗣 Commented on [#74](https://github.com//lenra-io/client/issues/74) in [lenra-io/client](https://github.com//lenra-io/client)
+4. 🗣 Commented on [#385](https://github.com//lenra-io/server/issues/385) in [lenra-io/server](https://github.com//lenra-io/server)
+5. 🎉 Merged PR [#220](https://github.com//lenra-io/lenra_ui_runner/pull/220) in [lenra-io/lenra_ui_runner](https://github.com//lenra-io/lenra_ui_runner)
 <!--END_SECTION:activity-->
