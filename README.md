@@ -47,9 +47,9 @@ My mains project are in V but sometimes I do Dart (and Flutter), Go, TypeScript 
 
 ## - 🚀🔥 Recent Activity!
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#70](https://github.com//lenra-io/client/issues/70) in [lenra-io/client](https://github.com//lenra-io/client)
-2. 💪 Opened PR [#91](https://github.com//lenra-io/website/pull/91) in [lenra-io/website](https://github.com//lenra-io/website)
-3. 🎉 Merged PR [#70](https://github.com//lenra-io/client/pull/70) in [lenra-io/client](https://github.com//lenra-io/client)
-4. 🗣 Commented on [#385](https://github.com//lenra-io/server/issues/385) in [lenra-io/server](https://github.com//lenra-io/server)
+1. 🎉 Merged PR [#91](https://github.com//lenra-io/website/pull/91) in [lenra-io/website](https://github.com//lenra-io/website)
+2. 🗣 Commented on [#70](https://github.com//lenra-io/client/issues/70) in [lenra-io/client](https://github.com//lenra-io/client)
+3. 💪 Opened PR [#91](https://github.com//lenra-io/website/pull/91) in [lenra-io/website](https://github.com//lenra-io/website)
+4. 🎉 Merged PR [#70](https://github.com//lenra-io/client/pull/70) in [lenra-io/client](https://github.com//lenra-io/client)
 5. 🗣 Commented on [#385](https://github.com//lenra-io/server/issues/385) in [lenra-io/server](https://github.com//lenra-io/server)
 <!--END_SECTION:activity-->
