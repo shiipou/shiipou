@@ -47,9 +47,9 @@ My mains project are in V but sometimes I do Dart (and Flutter), Go, TypeScript 
 
 ## - 🚀🔥 Recent Activity!
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#34](https://github.com//modmopet/modmopet/pull/34) in [modmopet/modmopet](https://github.com//modmopet/modmopet)
-2. ❗️ Opened issue [#33](https://github.com//modmopet/modmopet/issues/33) in [modmopet/modmopet](https://github.com//modmopet/modmopet)
-3. 🗣 Commented on [#30](https://github.com//modmopet/modmopet/issues/30) in [modmopet/modmopet](https://github.com//modmopet/modmopet)
+1. 💪 Opened PR [#36](https://github.com//modmopet/modmopet/pull/36) in [modmopet/modmopet](https://github.com//modmopet/modmopet)
+2. 💪 Opened PR [#34](https://github.com//modmopet/modmopet/pull/34) in [modmopet/modmopet](https://github.com//modmopet/modmopet)
+3. ❗️ Opened issue [#33](https://github.com//modmopet/modmopet/issues/33) in [modmopet/modmopet](https://github.com//modmopet/modmopet)
 4. 🗣 Commented on [#30](https://github.com//modmopet/modmopet/issues/30) in [modmopet/modmopet](https://github.com//modmopet/modmopet)
 5. 🗣 Commented on [#30](https://github.com//modmopet/modmopet/issues/30) in [modmopet/modmopet](https://github.com//modmopet/modmopet)
 <!--END_SECTION:activity-->
