@@ -48,8 +48,8 @@ My mains project are in V but sometimes I do Dart (and Flutter), Go, TypeScript 
 ## - 🚀🔥 Recent Activity!
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#30](https://github.com//modmopet/modmopet/issues/30) in [modmopet/modmopet](https://github.com//modmopet/modmopet)
-2. 💪 Opened PR [#30](https://github.com//modmopet/modmopet/pull/30) in [modmopet/modmopet](https://github.com//modmopet/modmopet)
-3. 💪 Opened PR [#21](https://github.com//modmopet/modmopet/pull/21) in [modmopet/modmopet](https://github.com//modmopet/modmopet)
-4. ❌ Closed PR [#20](https://github.com//modmopet/modmopet/pull/20) in [modmopet/modmopet](https://github.com//modmopet/modmopet)
-5. 💪 Opened PR [#20](https://github.com//modmopet/modmopet/pull/20) in [modmopet/modmopet](https://github.com//modmopet/modmopet)
+2. 🗣 Commented on [#30](https://github.com//modmopet/modmopet/issues/30) in [modmopet/modmopet](https://github.com//modmopet/modmopet)
+3. 🗣 Commented on [#30](https://github.com//modmopet/modmopet/issues/30) in [modmopet/modmopet](https://github.com//modmopet/modmopet)
+4. 💪 Opened PR [#30](https://github.com//modmopet/modmopet/pull/30) in [modmopet/modmopet](https://github.com//modmopet/modmopet)
+5. 💪 Opened PR [#21](https://github.com//modmopet/modmopet/pull/21) in [modmopet/modmopet](https://github.com//modmopet/modmopet)
 <!--END_SECTION:activity-->
