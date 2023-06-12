@@ -47,9 +47,9 @@ My mains project are in V but sometimes I do Dart (and Flutter), Go, TypeScript 
 
 ## - 🚀🔥 Recent Activity!
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#8](https://github.com//lenra-io/github-actions/issues/8) in [lenra-io/github-actions](https://github.com//lenra-io/github-actions)
-2. 💪 Opened PR [#45](https://github.com//modmopet/modmopet/pull/45) in [modmopet/modmopet](https://github.com//modmopet/modmopet)
-3. 💪 Opened PR [#43](https://github.com//modmopet/modmopet/pull/43) in [modmopet/modmopet](https://github.com//modmopet/modmopet)
-4. 💪 Opened PR [#39](https://github.com//modmopet/modmopet/pull/39) in [modmopet/modmopet](https://github.com//modmopet/modmopet)
-5. 🎉 Merged PR [#37](https://github.com//modmopet/modmopet/pull/37) in [modmopet/modmopet](https://github.com//modmopet/modmopet)
+1. ❗️ Opened issue [#77](https://github.com//lenra-io/client/issues/77) in [lenra-io/client](https://github.com//lenra-io/client)
+2. ❗️ Opened issue [#8](https://github.com//lenra-io/github-actions/issues/8) in [lenra-io/github-actions](https://github.com//lenra-io/github-actions)
+3. 💪 Opened PR [#45](https://github.com//modmopet/modmopet/pull/45) in [modmopet/modmopet](https://github.com//modmopet/modmopet)
+4. 💪 Opened PR [#43](https://github.com//modmopet/modmopet/pull/43) in [modmopet/modmopet](https://github.com//modmopet/modmopet)
+5. 💪 Opened PR [#39](https://github.com//modmopet/modmopet/pull/39) in [modmopet/modmopet](https://github.com//modmopet/modmopet)
 <!--END_SECTION:activity-->
