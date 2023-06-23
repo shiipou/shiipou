@@ -47,9 +47,9 @@ My mains project are in V but sometimes I do Dart (and Flutter), Go, TypeScript 
 
 ## - 🚀🔥 Recent Activity!
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com//shiipou/github-actions/issues/1) in [shiipou/github-actions](https://github.com//shiipou/github-actions)
-2. 💪 Opened PR [#79](https://github.com//lenra-io/client/pull/79) in [lenra-io/client](https://github.com//lenra-io/client)
-3. 🗣 Commented on [#55](https://github.com//lchmagKekse/TOTK-SaveGame-Editor/issues/55) in [lchmagKekse/TOTK-SaveGame-Editor](https://github.com//lchmagKekse/TOTK-SaveGame-Editor)
-4. 🗣 Commented on [#78](https://github.com//lenra-io/client/issues/78) in [lenra-io/client](https://github.com//lenra-io/client)
-5. 🗣 Commented on [#226](https://github.com//lenra-io/lenra_ui_runner/issues/226) in [lenra-io/lenra_ui_runner](https://github.com//lenra-io/lenra_ui_runner)
+1. 🎉 Merged PR [#79](https://github.com//lenra-io/client/pull/79) in [lenra-io/client](https://github.com//lenra-io/client)
+2. ❗️ Opened issue [#1](https://github.com//shiipou/github-actions/issues/1) in [shiipou/github-actions](https://github.com//shiipou/github-actions)
+3. 💪 Opened PR [#79](https://github.com//lenra-io/client/pull/79) in [lenra-io/client](https://github.com//lenra-io/client)
+4. 🗣 Commented on [#55](https://github.com//lchmagKekse/TOTK-SaveGame-Editor/issues/55) in [lchmagKekse/TOTK-SaveGame-Editor](https://github.com//lchmagKekse/TOTK-SaveGame-Editor)
+5. 🗣 Commented on [#78](https://github.com//lenra-io/client/issues/78) in [lenra-io/client](https://github.com//lenra-io/client)
 <!--END_SECTION:activity-->
