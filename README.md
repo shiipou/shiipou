@@ -47,9 +47,9 @@ My mains project are in V but sometimes I do Dart (and Flutter), Go, TypeScript 
 
 ## - 🚀🔥 Recent Activity!
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#79](https://github.com//lenra-io/client/pull/79) in [lenra-io/client](https://github.com//lenra-io/client)
-2. ❗️ Opened issue [#1](https://github.com//shiipou/github-actions/issues/1) in [shiipou/github-actions](https://github.com//shiipou/github-actions)
-3. 💪 Opened PR [#79](https://github.com//lenra-io/client/pull/79) in [lenra-io/client](https://github.com//lenra-io/client)
-4. 🗣 Commented on [#55](https://github.com//lchmagKekse/TOTK-SaveGame-Editor/issues/55) in [lchmagKekse/TOTK-SaveGame-Editor](https://github.com//lchmagKekse/TOTK-SaveGame-Editor)
-5. 🗣 Commented on [#78](https://github.com//lenra-io/client/issues/78) in [lenra-io/client](https://github.com//lenra-io/client)
+1. ❗️ Opened issue [#21](https://github.com//lenra-io/app-minella/issues/21) in [lenra-io/app-minella](https://github.com//lenra-io/app-minella)
+2. 🎉 Merged PR [#79](https://github.com//lenra-io/client/pull/79) in [lenra-io/client](https://github.com//lenra-io/client)
+3. ❗️ Opened issue [#1](https://github.com//shiipou/github-actions/issues/1) in [shiipou/github-actions](https://github.com//shiipou/github-actions)
+4. 💪 Opened PR [#79](https://github.com//lenra-io/client/pull/79) in [lenra-io/client](https://github.com//lenra-io/client)
+5. 🗣 Commented on [#55](https://github.com//lchmagKekse/TOTK-SaveGame-Editor/issues/55) in [lchmagKekse/TOTK-SaveGame-Editor](https://github.com//lchmagKekse/TOTK-SaveGame-Editor)
 <!--END_SECTION:activity-->
