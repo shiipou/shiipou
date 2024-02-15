@@ -17,8 +17,7 @@ My mains project are in V but sometimes I do Dart (and Flutter), Go, TypeScript 
 
 [![](https://img.shields.io/badge/Fedora-Framework%20Laptop-2376bc?style=flat-square&logo=fedora)](https://getfedora.org/)
 [![](https://img.shields.io/badge/Debian-IBM%20server-D50032?style=flat-square&logo=debian&logoColor=CE0056)](https://www.debian.org/)
-[![](https://img.shields.io/badge/Android%2013-Pixel%207%20Pro-DD4814?style=flat-square&logo=Phone)](https://store.google.com/)
-[![](https://img.shields.io/badge/Ubuntu%20Touch-Astro%20Slide%205G-DD4814?style=flat-square&logo=Phone)](https://ubuntu-touch.io/fr/)
+[![](https://img.shields.io/badge/Android%2014-Pixel%207%20Pro-DD4814?style=flat-square&logo=Phone)](https://store.google.com/)
 [![](https://img.shields.io/badge/Ubuntu%20Touch-JingPad%20A1-DD4814?style=flat-square&logo=Phone)](https://ubuntu-touch.io/fr/)
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code)](https://code.visualstudio.com/)
 
