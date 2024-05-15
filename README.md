@@ -5,13 +5,13 @@
 
 # - *`/bin/sh -c whoami`*
 
-I'm **[Shiishii](https://github.com/shiipou/shiipou)**. I'm a 28 year old `Ninja` who always work on too big projects, but I want them to succeed !
+Hi! I'm [Shiishii](https://github.com/shiipou), a 29-year-old ninja constantly engaged in ambitious and innovative projects.
 
-I'm a professional software developer since 2018, but I've made my first own retro game in 2009. that my real first development project.
+My journey as a software developer officially began in 2018, but my real adventure in development started much earlier, in 2009, when I created my first retro game. Since then, I've been passionate about technology and always looking to push the boundaries of what's possible.  
 
-I'm a VR enthusiast, I think it can really change the gaming if company and user take the risk to go on it. 
+As a VR (Virtual Reality) enthusiast, I firmly believe that VR has the potential to revolutionize the world of video games, as long as companies and users dare to venture into it.
 
-My main competances was in Sys-Admin and bakcend development. But I do website in flutter and Android/iOS application too.
+My expertise covers a wide range of skills, from system administration and backend development to the creation of Flutter Apps, Websites and Android Applications.
 
 My mains project are in V but sometimes I do Dart (and Flutter), Go, TypeScript (Deno and Node), Java (Springboot or not), C#, bash, and C/C++.
 
