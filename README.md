@@ -5,7 +5,7 @@
 
 # - *`/bin/sh -c whoami`*
 
-Hi! I'm [Shiishii](https://github.com/shiipou), a 29-year-old ninja constantly engaged in ambitious and innovative projects.
+Hi! I'm [Shiishii](https://github.com/shiipou), a 31-year-old ninja constantly engaged in ambitious and innovative projects.
 
 My journey as a software developer officially began in 2018, but my real adventure in development started much earlier, in 2009, when I created my first retro game. Since then, I've been passionate about technology and always looking to push the boundaries of what's possible.  
 
@@ -17,7 +17,8 @@ My mains project are in V but sometimes I do Dart (and Flutter), Go, TypeScript 
 
 [![](https://img.shields.io/badge/Fedora-Framework%20Laptop-2376bc?style=flat-square&logo=fedora)](https://getfedora.org/)
 [![](https://img.shields.io/badge/Debian-IBM%20server-D50032?style=flat-square&logo=debian&logoColor=CE0056)](https://www.debian.org/)
-[![](https://img.shields.io/badge/Android%2014-Pixel%207%20Pro-DD4814?style=flat-square&logo=Phone)](https://store.google.com/)
+[![](https://img.shields.io/badge/Android%2014-REDMAGIC%2011%20Pro+-DD4814?style=flat-square&logo=Phone)](https://store.google.com/)
+[![](https://img.shields.io/badge/Ubuntu%20Touch-Volla%20Tablet-DD4814?style=flat-square&logo=Phone)](https://ubuntu-touch.io/fr/)
 [![](https://img.shields.io/badge/Ubuntu%20Touch-JingPad%20A1-DD4814?style=flat-square&logo=Phone)](https://ubuntu-touch.io/fr/)
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code)](https://code.visualstudio.com/)
 
